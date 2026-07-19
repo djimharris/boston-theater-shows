@@ -1,0 +1,816 @@
+{
+  "generated_at": "2026-07-19T01:59:04.742236+00:00",
+  "total_shows": 81,
+  "shows": [
+    {
+      "title": "Leo Season Country Dance and Drag Extravaganza",
+      "theater_name": "Huntington Theatre",
+      "start_date": "2026-07-24",
+      "end_date": "2026-07-24",
+      "show_url": "https://www.huntingtontheatre.org/whats-on/leo-season-country-dance-and-drag-extravaganza/",
+      "description": "",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/05/Leo-Season-CDDE_1995x1250.jpg?fit=1995%2C1596",
+      "ticket_url": "https://bostontheatrescene.huntingtontheatre.org/31583/31584"
+    },
+    {
+      "title": "The Taming of the Shrew",
+      "theater_name": "Huntington Theatre",
+      "start_date": "2026-07-31",
+      "end_date": "2026-07-31",
+      "show_url": "https://www.huntingtontheatre.org/whats-on/the-taming-of-the-shrew/",
+      "description": "",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/06/EDU-x-TOTS-showart-website-scaled.jpg?fit=1995%2C1596",
+      "ticket_url": "https://bostontheatrescene.huntingtontheatre.org/31602/31604"
+    },
+    {
+      "title": "Purpose",
+      "theater_name": "Huntington Theatre",
+      "start_date": "2026-09-10",
+      "end_date": "2026-10-11",
+      "show_url": "https://www.huntingtontheatre.org/whats-on/purpose/",
+      "description": "",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/north-homepage2.jpg?fit=1000%2C800",
+      "ticket_url": "https://www.huntingtontheatre.org/whats-on/purpose/#performance-picker"
+    },
+    {
+      "title": "Harper Lee's To Kill a Mockingbird",
+      "theater_name": "Huntington Theatre",
+      "start_date": "2026-10-08",
+      "end_date": "2026-11-08",
+      "show_url": "https://www.huntingtontheatre.org/whats-on/to-kill-a-mockingbird/",
+      "description": "",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/06/tkam-fall-on-sale.jpg?fit=1995%2C1596",
+      "ticket_url": "https://www.huntingtontheatre.org/whats-on/to-kill-a-mockingbird/#performance-picker"
+    },
+    {
+      "title": "Laura Benanti: Nobody Cares",
+      "theater_name": "Huntington Theatre",
+      "start_date": "2026-10-22",
+      "end_date": "2026-10-25",
+      "show_url": "https://www.huntingtontheatre.org/whats-on/laura-benanti-nobody-cares/",
+      "description": "",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/Nobody-Cares-email-web_Email.jpg?fit=1000%2C800",
+      "ticket_url": "https://www.huntingtontheatre.org/whats-on/laura-benanti-nobody-cares/#performance-picker"
+    },
+    {
+      "title": "Adia & Clora Snatch Joy",
+      "theater_name": "Huntington Theatre",
+      "start_date": "2026-11-24",
+      "end_date": "2026-12-13",
+      "show_url": "https://www.huntingtontheatre.org/whats-on/adia-clora-snatch-joy/",
+      "description": "",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/06/6.16-adia.jpg?fit=1995%2C1596",
+      "ticket_url": "https://www.huntingtontheatre.org/whats-on/adia-clora-snatch-joy/#performance-picker"
+    },
+    {
+      "title": "North By Northwest",
+      "theater_name": "Huntington Theatre",
+      "start_date": "2027-01-21",
+      "end_date": "2027-02-07",
+      "show_url": "https://www.huntingtontheatre.org/whats-on/north-by-northwest/",
+      "description": "",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/05/north-homepage1.jpg?fit=1000%2C800",
+      "ticket_url": "https://www.huntingtontheatre.org/whats-on/north-by-northwest/#performance-picker"
+    },
+    {
+      "title": "Fresh Ink Theatre’s 11th Annual Mad Dash",
+      "theater_name": "Lyric Stage Company",
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-25",
+      "show_url": "https://www.lyricstage.com/production/fresh-ink-theatres-11th-annual-mad-dash/",
+      "description": "",
+      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/Mad-Dash.jpeg",
+      "ticket_url": ""
+    },
+    {
+      "title": "All My Sons",
+      "theater_name": "Lyric Stage Company",
+      "start_date": "2026-09-18",
+      "end_date": "2026-10-18",
+      "show_url": "https://www.lyricstage.com/production/all-my-sons/",
+      "description": "Every family has its secrets.",
+      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/06/LSB_AMS_1920x1080TEST2.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "Peter Pan Goes Wrong",
+      "theater_name": "Lyric Stage Company",
+      "start_date": "2026-12-09",
+      "end_date": "2026-12-31",
+      "show_url": "https://www.lyricstage.com/production/peter-pan-goes-wrong/",
+      "description": "Here we go again.",
+      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/06/LSB_PPGW_web1920x1080_v1.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "Agatha Christie’s The Mirror Crack’d",
+      "theater_name": "Lyric Stage Company",
+      "start_date": "2027-02-05",
+      "end_date": "2027-02-28",
+      "show_url": "https://www.lyricstage.com/production/agatha-christies-the-mirror-crackd/",
+      "description": "Hollywood meets English countryside. A murder mystery written in the stars.",
+      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/LSB_Mirror_1920x1080.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "King James",
+      "theater_name": "Lyric Stage Company",
+      "start_date": "2027-03-19",
+      "end_date": "2027-04-11",
+      "show_url": "https://www.lyricstage.com/production/king-james/",
+      "description": "Fans first. Friends forever.",
+      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/LSB_King_1920x1080.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "Les Misérables",
+      "theater_name": "Lyric Stage Company",
+      "start_date": "2027-04-30",
+      "end_date": "2027-06-20",
+      "show_url": "https://www.lyricstage.com/production/les-miserables/",
+      "description": "Forever Revolutionary",
+      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/LSB2627_P5_1920X1080_var2.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "ALMOST, MAINE",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/almost-maine/",
+      "description": "SouthStage Theatre Works — BCA Black Box Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/06/1-1.png?resize=400%2C400&gravity",
+      "ticket_url": "https://secure.bostontheatrescene.com/31612/31618"
+    },
+    {
+      "title": "Post Meridian Radio Players present: The Maltese Falcon",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-07-23",
+      "end_date": "2026-07-26",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/post-meridian-radio-players-present-the-maltese-falcon/",
+      "description": "Post Meridian Radio Players — BCA Black Box Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/06/Maltese-Falcon-BCA-tickets.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/post-meridian-radio-players-present-the-maltese-falcon/#performance-picker"
+    },
+    {
+      "title": "Leo Season Country Dance and Drag Extravaganza",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-07-24",
+      "end_date": "2026-07-24",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/leo-season-country-dance-and-drag-extravaganza/",
+      "description": "The Huntington Hosts — The Maso Studio, 264 Huntington Ave.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/Leo-Season-CDDE_1080x1080.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://secure.bostontheatrescene.com/31583/31584"
+    },
+    {
+      "title": "What You Will",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-07-31",
+      "end_date": "2026-08-02",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/what-you-will/",
+      "description": "Half x Baked Theater Collective — BCA Black Box Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/What-You-Will_square-graphic_BCFTA.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/what-you-will/#performance-picker"
+    },
+    {
+      "title": "A Sailor's Grave",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-08-07",
+      "end_date": "2026-08-08",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/a-sailors-grave/",
+      "description": "Captain Vampire — BCA Black Box Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/06/bts-square-poster.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/a-sailors-grave/#performance-picker"
+    },
+    {
+      "title": "Angelo Colina en Boston (En Español)",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-15",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/angelo-colina-en-boston-en-espanol/",
+      "description": "Adelante Management Group — The Wimberly Theatre, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/New-Angelo.JPG.jpeg?resize=400%2C400&gravity",
+      "ticket_url": "https://secure.bostontheatrescene.com/31632/31633"
+    },
+    {
+      "title": "Nerdy Prudes Must Die",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-08-21",
+      "end_date": "2026-08-23",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/nerdy-prudes-must-die/",
+      "description": "Play Pretend Theater Company — BCA Plaza Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/Site-Logo-NPMD.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/nerdy-prudes-must-die/#performance-picker"
+    },
+    {
+      "title": "The Nina Variations",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-08-27",
+      "end_date": "2026-08-30",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-nina-variations/",
+      "description": "Leo Flora & Avis Russey — BCA Plaza Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/ninavar_BTS.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-nina-variations/#performance-picker"
+    },
+    {
+      "title": "Purpose",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-09-10",
+      "end_date": "2026-10-11",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/",
+      "description": "The Huntington — The Calderwood Pavilion, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-Purpose.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/#performance-picker"
+    },
+    {
+      "title": "Serouj Kradjian & Band",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/serouj-keradjian-samvel-yervinyan/",
+      "description": "HYE Cultural Alliance Presents: — The Huntington Theatre, 264 Huntington Ave.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/06/serouj-Kradjian-900-x-900-px-1.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://secure.bostontheatrescene.com/31628/31629"
+    },
+    {
+      "title": "Wife and Death - The Glaucomfleckens Live",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-09-14",
+      "end_date": "2026-09-14",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/wife-and-death/",
+      "description": "Human Content — The Huntington Theatre, 264 Huntington Ave.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/WAD.Header.900x900.jpeg?resize=400%2C400&gravity",
+      "ticket_url": "https://secure.bostontheatrescene.com/31646/31647"
+    },
+    {
+      "title": "Covenant",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-09-25",
+      "end_date": "2026-10-17",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/",
+      "description": "",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/COV1-CC.webp?resize=400%2C400&gravity",
+      "ticket_url": ""
+    },
+    {
+      "title": "Harper Lee's To Kill a Mockingbird",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-10-08",
+      "end_date": "2026-11-08",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
+      "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-TKAM.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/#performance-picker"
+    },
+    {
+      "title": "Laura Benanti: Nobody Cares",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-10-22",
+      "end_date": "2026-10-25",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/laura-benanti-nobody-cares/",
+      "description": "Huntington Selects — The Calderwood Pavilion, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/04/Nobody-Cares-Square.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/laura-benanti-nobody-cares/#performance-picker"
+    },
+    {
+      "title": "Nacho Redondo: Terapia de Grupo",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-11-19",
+      "end_date": "2026-11-19",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/nacho-redondo-terapia-de-grupo/",
+      "description": "Adelante Management Group",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2025/04/BTS-thumbnail.png?resize=400%2C400&gravity",
+      "ticket_url": "https://secure.bostontheatrescene.com/31667/31668"
+    },
+    {
+      "title": "Adia & Clora Snatch Joy",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-11-24",
+      "end_date": "2026-12-13",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/adia-and-clora/",
+      "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-AC.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/adia-and-clora/#performance-picker"
+    },
+    {
+      "title": "Alfred Hitchcock's North By Northwest",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2027-01-21",
+      "end_date": "2027-02-07",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/north-by-northwest/",
+      "description": "Huntington Selects — The Huntington Theatre, 264 Huntington Ave.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/04/North-x-NW-Social_Square.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/north-by-northwest/#performance-picker"
+    },
+    {
+      "title": "Little Bear Ridge Road",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2027-01-29",
+      "end_date": "2027-02-20",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/little-bear-ridge-road/",
+      "description": "",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/LBRR1.webp?resize=400%2C400&gravity",
+      "ticket_url": ""
+    },
+    {
+      "title": "By Any Other Name",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2027-05-07",
+      "end_date": "2027-05-29",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/by-any-other-name/",
+      "description": "",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/BAON1-CC.webp?resize=400%2C400&gravity",
+      "ticket_url": ""
+    },
+    {
+      "title": "The Maids",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2026-10-07",
+      "end_date": "2026-10-07",
+      "show_url": "https://emersontheatres.org/event/the-maids/",
+      "description": "Presented by ArtBuzz Productions & Sheep. Co Entertainment The Maids by Roman Viktyuk based on the play by J. Genet Roman Viktyuk’s legendary play “The Maids” has been on stage...",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/06/Boston-The-Maid-350_255.png",
+      "ticket_url": ""
+    },
+    {
+      "title": "Taylor Mac and Matt Ray: Songs from Bark of Millions",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2026-10-15",
+      "end_date": "2026-10-18",
+      "show_url": "https://artsemerson.org/events/taylor-mac-and-matt-ray-songs-from-bark-of-millions/#new_tab",
+      "description": "If you’re not invited to the party, throw a better one!",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/05/Barks-AE-Overlay.png",
+      "ticket_url": ""
+    },
+    {
+      "title": "All the Devils Are Here",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2026-10-28",
+      "end_date": "2026-11-01",
+      "show_url": "https://artsemerson.org/events/all-the-devils-are-here/",
+      "description": "Patrick Page explores Shakespeare’s most memorable villains in this thrilling, hilarious, and biting solo tour-de-force.",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/05/devils-overlay.png",
+      "ticket_url": ""
+    },
+    {
+      "title": "A Streetcar Named Desire",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-08",
+      "show_url": "https://emersontheatres.org/event/a-streetcar-named-desire/",
+      "description": "A Streetcar Named Desire Presented by Boston Lyric Opera “Real? Who wants real?… I want magic!” The sweltering heat of a New Orleans summer sets the tone for the simmering...",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/07/700x510-1.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "Dream Feed",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2026-11-19",
+      "end_date": "2026-11-22",
+      "show_url": "https://artsemerson.org/events/dream-feed/#new_tab",
+      "description": "Step inside a shared dream sequence with Grammy Award-winning band The HawtPlates.",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/05/Dream-Feed-AE-Overlay.png",
+      "ticket_url": ""
+    },
+    {
+      "title": "Charles Dicken’s “A Christmas Carol”",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2026-12-11",
+      "end_date": "2026-12-20",
+      "show_url": "https://emersontheatres.org/event/charles-dickens-a-christmas-carol-26/",
+      "description": "Commonwealth Shakespeare Company presents Charles Dicken's \"A Christmas Carol\" Boston's New Holiday Tradition Step into the magic of Victorian England and rediscover the heart and soul of the...",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/07/2-1.png",
+      "ticket_url": ""
+    },
+    {
+      "title": "Wake",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2027-02-11",
+      "end_date": "2027-02-14",
+      "show_url": "https://artsemerson.org/events/wake/",
+      "description": "Glitter, beats, and banging tunes: this Irish wake is the ultimate celebration of life.",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/05/WAKE-AE-Overlay-1.png",
+      "ticket_url": ""
+    },
+    {
+      "title": "2021",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2027-02-25",
+      "end_date": "2027-02-27",
+      "show_url": "https://artsemerson.org/events/2021/#new_tab",
+      "description": "Under the glow of a flickering screen, a daughter reconstructs her deceased father, pixel by pixel.",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/05/2021-AE-overlay.png",
+      "ticket_url": ""
+    },
+    {
+      "title": "Scott Silven: Wonders",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2027-03-10",
+      "end_date": "2027-03-14",
+      "show_url": "https://artsemerson.org/events/wonders/#new_tab",
+      "description": "Breathtaking illusions await in this New York Times Critic's Pick full of intrigue and imagination.",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/05/Wonders-AE-Overlay.png",
+      "ticket_url": ""
+    },
+    {
+      "title": "The Marriage of Figaro",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2027-03-12",
+      "end_date": "2027-03-21",
+      "show_url": "https://emersontheatres.org/event/the-marriage-of-figaro/",
+      "description": "The Marriage of Figaro (Le nozze di Figaro) Presented by Boston Lyric Opera One wedding. One day. Total chaos.Wit, mayhem, and hilarity abound in Mozart’s fan-favorite comedy that packs a...",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/07/700x510.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "Kunene and the King",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2027-04-01",
+      "end_date": "2027-04-11",
+      "show_url": "https://artsemerson.org/events/kunene-and-the-king/#new_tab",
+      "description": "In post-apartheid South Africa two men must confront themselves, the past, and their beliefs.",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/05/kunene-overlay.png",
+      "ticket_url": ""
+    },
+    {
+      "title": "The Carlisle Project",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2027-04-30",
+      "end_date": "2027-05-02",
+      "show_url": "https://artsemerson.org/events/the-carlisle-project/",
+      "description": "The legacy of the Carlisle Indian Industrial School is reckoned with in this powerful musical song cycle.",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/05/Carlisle-Project-AE-overlay.png",
+      "ticket_url": ""
+    },
+    {
+      "title": "Silent Sky",
+      "theater_name": "Central Square Theater",
+      "start_date": "2025-09-11",
+      "end_date": "2025-10-05",
+      "show_url": "https://www.centralsquaretheater.org/shows/silent-sky/",
+      "description": "",
+      "image_url": "",
+      "ticket_url": ""
+    },
+    {
+      "title": "Summer, 1976",
+      "theater_name": "Central Square Theater",
+      "start_date": "2025-11-06",
+      "end_date": "2025-11-30",
+      "show_url": "https://www.centralsquaretheater.org/shows/summer-1976/",
+      "description": "",
+      "image_url": "",
+      "ticket_url": ""
+    },
+    {
+      "title": "The Moderate",
+      "theater_name": "Central Square Theater",
+      "start_date": "2026-02-05",
+      "end_date": "2026-03-01",
+      "show_url": "https://www.centralsquaretheater.org/shows/the-moderate/",
+      "description": "",
+      "image_url": "",
+      "ticket_url": ""
+    },
+    {
+      "title": "Breaking the Code",
+      "theater_name": "Central Square Theater",
+      "start_date": "2026-04-02",
+      "end_date": "2026-04-26",
+      "show_url": "https://www.centralsquaretheater.org/shows/breaking-the-code-2026/",
+      "description": "",
+      "image_url": "",
+      "ticket_url": ""
+    },
+    {
+      "title": "The Mystery of Irma Vep",
+      "theater_name": "Central Square Theater",
+      "start_date": "2026-05-28",
+      "end_date": "2026-06-21",
+      "show_url": "https://www.centralsquaretheater.org/shows/the-mystery-of-irma-vep-a-penny-dreadful/",
+      "description": "",
+      "image_url": "",
+      "ticket_url": ""
+    },
+    {
+      "title": "BY ANY OTHER NAME",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2027-05-07",
+      "end_date": "2027-05-29",
+      "show_url": "https://speakeasystage.com/shows/2027/05/by-any-other-name/",
+      "description": "Shakespeare’s heroines. Off script. Finally. Shakespeare’s heroines are done dying, marrying, and generally behaving.When the Bard’s most iconic young women collide in a magically glitched...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "LITTLE BEAR RIDGE ROAD",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2027-01-29",
+      "end_date": "2027-02-20",
+      "show_url": "https://speakeasystage.com/shows/2027/01/little-bear-ridge-road/",
+      "description": "2026 Tony Nominee for Best Play! They’re family. That doesn’t make it easy. On the outskirts of a small Idaho town, an aunt and nephew who barely know each other find themselves sharing a house...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "Covenant",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2026-09-25",
+      "end_date": "2026-10-17",
+      "show_url": "https://speakeasystage.com/shows/2026/09/covenant/",
+      "description": "In this town, a good myth might as well be the truth. Johnny “Honeycomb” James comes back home famous, changed, and impossible to explain. The voice is real, but the rumours are loud. In a town...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "Swept Away",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2026-04-24",
+      "end_date": "2026-05-23",
+      "show_url": "https://speakeasystage.com/shows/2026/04/swept-away/",
+      "description": "A storm. A shipwreck. Four survivors. As they fight to stay alive, these New Bedford whalers must confront who they are, what they’ve done, and whether forgiveness is possible. Featuring music from...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "The Antiquities",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2026-03-06",
+      "end_date": "2026-03-28",
+      "show_url": "https://speakeasystage.com/shows/2026/03/the-antiquities/",
+      "description": "In the not-so-distant future, a team of curators at the Museum of Late Human Antiquities painstakingly reconstruct the past: vinyl records, yoga mats, even grief itself. But as their exhibit grows...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "JOB",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2026-01-16",
+      "end_date": "2026-02-07",
+      "show_url": "https://speakeasystage.com/shows/2026/01/job/",
+      "description": "One viral video. One career on the edge. One hour to decide: is she ready to go back? Jane wants her Big Tech job back. Loyd, the therapist assigned to assess her, isn’t so sure. As their session...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "Lizard Boy: A NEW MUSICAL",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2025-10-24",
+      "end_date": "2025-11-22",
+      "show_url": "https://speakeasystage.com/shows/2025/10/lizard-boy/",
+      "description": "Trevor doesn’t get out much—but tonight, everything changes. What starts as a first date turns into an unexpected adventure in this funny, offbeat, and deeply moving new musical. Featuring a...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "Primary Trust",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2025-09-12",
+      "end_date": "2025-10-11",
+      "show_url": "https://speakeasystage.com/shows/2025/09/primary-trust/",
+      "description": "Kenneth works at a bookstore and spends his evenings at the local tiki bar. But when he’s suddenly laid off, his carefully ordered world starts to shift—pushing him into unexpected friendships...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "JAJA’S AFRICAN HAIR BRAIDING",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2025-05-02",
+      "end_date": "2025-05-31",
+      "show_url": "https://speakeasystage.com/shows/2025/05/jajas-african-hair-braiding/",
+      "description": "2024 Tony Nominee – Best Play! It’s a hot summer day in 2019, and in Harlem, Jaja’s African Hair Braiding salon is open for business, even though its eponymous owner is hours away from getting...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "a man of no importance",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2025-02-21",
+      "end_date": "2025-03-22",
+      "show_url": "https://speakeasystage.com/shows/2025/02/a-man-of-no-importance/",
+      "description": "1960s Dublin is the setting for this charming musical about the redemptive power of theatre, love, and friendship. Bus conductor Alfie Byrne has two joys in life: the poetry of Oscar Wilde and...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "Ain’t No Mo’",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2025-01-10",
+      "end_date": "2025-02-08",
+      "show_url": "https://speakeasystage.com/shows/2025/01/aint-no-mo/",
+      "description": "A CO-PRODUCTION WITH FRONT PORCH ARTS COLLECTIVE 2023 Tony Nominee – Best Play! “The powers that be have reassured me there’s room for everyone” declares Miss Peaches, the drag queen flight...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "PRU PAYNE",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2024-10-18",
+      "end_date": "2024-11-16",
+      "show_url": "https://speakeasystage.com/shows/2024/10/pru-payne/",
+      "description": "East Coast Premiere! Prudence “Pru” Payne is a contemporary Dorothy Parker: a sharp-tongued intellectual and critic who recently signed on to share her extraordinary life in an eagerly-awaited...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "Four new plays in two rep festivals",
+      "theater_name": "Boston Playwrights' Theatre",
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-22",
+      "show_url": "https://www.bostonplaywrights.org/our-26-27-season",
+      "description": "November 5 – 22, 2026 on the Snodgrass Stage (949 Comm Ave.)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/288e5f94-034b-47ed-abb1-f7eef28dbaaa/Rep-Poster-Phoenix.jpg",
+      "ticket_url": "https://ci.ovationtix.com/168/production/1280759"
+    },
+    {
+      "title": "white phoenix",
+      "theater_name": "Boston Playwrights' Theatre",
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-22",
+      "show_url": "https://www.bostonplaywrights.org/our-26-27-season",
+      "description": "November 5 – 22, 2026 on the Snodgrass Stage (949 Comm Ave.)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/288e5f94-034b-47ed-abb1-f7eef28dbaaa/Rep-Poster-Phoenix.jpg",
+      "ticket_url": "https://ci.ovationtix.com/168/production/1280746"
+    },
+    {
+      "title": "Description",
+      "theater_name": "Boston Playwrights' Theatre",
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "show_url": "https://www.bostonplaywrights.org/our-26-27-season",
+      "description": "An epic family drama that spans decades and continents – told by two actors in one room. White Phoenix follows Li CunYi, a Chinese orphan who makes a promise to reunite with his sister, Li CunXin...",
+      "image_url": "",
+      "ticket_url": ""
+    },
+    {
+      "title": "jessica of venice",
+      "theater_name": "Boston Playwrights' Theatre",
+      "start_date": "2026-11-12",
+      "end_date": "2026-11-22",
+      "show_url": "https://www.bostonplaywrights.org/our-26-27-season",
+      "description": "November 12 – 22, 2026 on the Snodgrass Stage (949 Comm Ave.)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/33d2caa1-7b6f-42ec-ab5f-4360f5cd53b1/Rep-Poster-Jessica.jpg",
+      "ticket_url": "https://ci.ovationtix.com/168/production/1280759"
+    },
+    {
+      "title": "Description",
+      "theater_name": "Boston Playwrights' Theatre",
+      "start_date": "2026-11-12",
+      "end_date": "2026-11-12",
+      "show_url": "https://www.bostonplaywrights.org/our-26-27-season",
+      "description": "Convening in a forgotten library, a group of Orthodox Jewish schoolgirls discover a banned copy of The Merchant of Venice and become fascinated with Jessica, the rebellious runaway daughter. Most...",
+      "image_url": "",
+      "ticket_url": ""
+    },
+    {
+      "title": "roswell",
+      "theater_name": "Boston Playwrights' Theatre",
+      "start_date": "2027-02-18",
+      "end_date": "2027-03-07",
+      "show_url": "https://www.bostonplaywrights.org/our-26-27-season",
+      "description": "February 18 – March 7, 2027 on the Snodgrass Stage (949 Comm Ave.)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/b2c97af8-b525-4976-8e74-74352c31b90f/Rep-Poster-Roswell.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "parallel play",
+      "theater_name": "Boston Playwrights' Theatre",
+      "start_date": "2027-02-25",
+      "end_date": "2027-03-07",
+      "show_url": "https://www.bostonplaywrights.org/our-26-27-season",
+      "description": "February 25 – March 7, 2027 on the Snodgrass Stage (949 Comm Ave.)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/3af0b451-b9da-4f2f-aaa8-9d9f31e7cbfe/Rep-Poster-Parallel.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "Rhinoceros",
+      "theater_name": "American Repertory Theater",
+      "start_date": "2026-08-14",
+      "end_date": "2026-09-20",
+      "show_url": "https://americanrepertorytheater.org/shows-events/rhinoceros/",
+      "description": "Loeb Drama Center | Everything seems normal one Sunday morning…until it’s not. One by one, friends and colleagues transform into rhinoceroses, and Berenger is forced to decide: will he follow the...",
+      "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/07/2627-Rhinoceros-WebCard-Header2.jpg?resize=16%2C10&gravity",
+      "ticket_url": "https://americanrepertorytheater.org/shows-events/rhinoceros/#book"
+    },
+    {
+      "title": "1972",
+      "theater_name": "American Repertory Theater",
+      "start_date": "2026-10-27",
+      "end_date": "2026-11-22",
+      "show_url": "https://americanrepertorytheater.org/shows-events/1972-a-rock-opera/",
+      "description": "After Hannah barely escapes an illegal abortion, she meets the Janes, an underground network of courageous women who risk everything to provide a choice to women with nowhere to turn.",
+      "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/04/2627-VisualsBW-1972.jpg?resize=16%2C10&gravity",
+      "ticket_url": ""
+    },
+    {
+      "title": "Life on Mars",
+      "theater_name": "American Repertory Theater",
+      "start_date": "2027-05-18",
+      "end_date": "2027-07-03",
+      "show_url": "https://americanrepertorytheater.org/shows-events/life-on-mars/",
+      "description": "An immersive theatrical production directed by Diane Paulus and brought to life by the music of David Bowie. By special arrangement with the David Bowie Estate, Unigram, Access Entertainment, and...",
+      "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/04/2627-VisualsBW-LifeOnMars.jpg?resize=16%2C10&gravity",
+      "ticket_url": ""
+    },
+    {
+      "title": "IS THIS A ROOM",
+      "theater_name": "Apollinaire Theatre Company",
+      "start_date": "2026-02-20",
+      "end_date": "2026-03-22",
+      "show_url": "https://www.apollinairetheatre.com/productions/season.php",
+      "description": "",
+      "image_url": "",
+      "ticket_url": "https://ci.ovationtix.com/34707/production/1253380"
+    },
+    {
+      "title": "A View from the Bridge",
+      "theater_name": "Apollinaire Theatre Company",
+      "start_date": "2026-04-17",
+      "end_date": "2026-05-10",
+      "show_url": "https://www.apollinairetheatre.com/productions/season.php",
+      "description": "",
+      "image_url": "",
+      "ticket_url": "https://ci.ovationtix.com/34707/production/1253381"
+    },
+    {
+      "title": "Leonardo! A Wonderful Show about a Terrible Monster",
+      "theater_name": "Wheelock Family Theatre",
+      "start_date": "2025-10-09",
+      "end_date": "2025-10-19",
+      "show_url": "https://www.wheelockfamilytheatre.org/performances/current-season/leonardo/",
+      "description": "Leonardo is a terrible monster. He tries so hard to be scary, but he just… isn’t. Then Leonardo finds Sam, the most scaredy-cat kid in the world. Will Leonardo finally get to scare the tuna salad...",
+      "image_url": "",
+      "ticket_url": ""
+    },
+    {
+      "title": "Annie",
+      "theater_name": "Wheelock Family Theatre",
+      "start_date": "2025-11-21",
+      "end_date": "2025-12-21",
+      "show_url": "https://www.wheelockfamilytheatre.org/performances/current-season/annie/",
+      "description": "Set in 1930s New York City during the Great Depression, Annie is the heartwarming story of a young orphan girl with unwavering optimism and a belief that brighter days are always ahead. Living...",
+      "image_url": "",
+      "ticket_url": ""
+    },
+    {
+      "title": "Charlotte’s Web",
+      "theater_name": "Wheelock Family Theatre",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-26",
+      "show_url": "https://www.wheelockfamilytheatre.org/performances/now-playing/",
+      "description": "",
+      "image_url": "",
+      "ticket_url": ""
+    },
+    {
+      "title": "The Minutes",
+      "theater_name": "Footlight Club",
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-19",
+      "show_url": "https://www.footlight.org/blog/2026/the-minutes",
+      "description": "Synopsis: The Minutes is a sharp, fast-paced comedy by Tracy Letts that turns a routine small-town city council meeting into a hilarious display of political absurdity, as hidden agendas clash and...",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/57a79c146b8f5b05fd6a993c/1502057096974-SLXHTLQB65HO9GVLJ87X/86.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "Annie",
+      "theater_name": "Footlight Club",
+      "start_date": "2026-10-31",
+      "end_date": "2026-11-14",
+      "show_url": "https://www.footlight.org/blog/2026/annie",
+      "description": "Book by Thomas MeehanMusic by Charles StrouseLyrics by Martin CharninBased on Little Orphan Annie by permission of The Media Tribune Services, Inc.Synopsis: Annie is a heartwarming, family-friendly...",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/57a79c146b8f5b05fd6a993c/1502057096974-SLXHTLQB65HO9GVLJ87X/86.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "A Raisin in the Sun",
+      "theater_name": "Footlight Club",
+      "start_date": "2027-02-06",
+      "end_date": "2027-02-14",
+      "show_url": "https://www.footlight.org/blog/2027/raisin-in-the-sun",
+      "description": "Synopsis: A Raisin in the Sun is a powerful and deeply moving drama by Lorraine Hansberry that follows the Younger family, an African American family living in Chicago, as they struggle to achieve...",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/57a79c146b8f5b05fd6a993c/1502057096974-SLXHTLQB65HO9GVLJ87X/86.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "Pirates! The Penzance Musical",
+      "theater_name": "Footlight Club",
+      "start_date": "2027-05-01",
+      "end_date": "2027-05-15",
+      "show_url": "https://www.footlight.org/blog/2027/pirates",
+      "description": "Based on the operetta by W.S. Gilbert &amp; Arthur SullivanAdapted by Rupert HolmesConceived by Scott Ellis, Rupert Holmes, Warren Carlyle, and Joseph JoubertSynopsis: Pirates! The Penzance Musical...",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/57a79c146b8f5b05fd6a993c/1502057096974-SLXHTLQB65HO9GVLJ87X/86.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "Pirates! The Penzance Musical",
+      "theater_name": "Footlight Club",
+      "start_date": "2027-05-01",
+      "end_date": "2027-05-15",
+      "show_url": "https://www.footlight.org/blog/2027/pirates",
+      "description": "Based on the operetta by W.S. Gilbert &amp; Arthur SullivanAdapted by Rupert HolmesConceived by Scott Ellis, Rupert Holmes, Warren Carlyle, and Joseph JoubertSynopsis: Pirates! The Penzance Musical...",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/57a79c146b8f5b05fd6a993c/1502057096974-SLXHTLQB65HO9GVLJ87X/86.jpg",
+      "ticket_url": ""
+    }
+  ]
+}
