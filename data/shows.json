@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T11:43:28.155183+00:00",
-  "total_shows": 80,
+  "generated_at": "2026-07-23T11:46:32.987020+00:00",
+  "total_shows": 81,
   "shows": [
     {
       "title": "Leo Season Country Dance and Drag Extravaganza",
@@ -88,8 +88,18 @@
       "start_date": "2026-09-18",
       "end_date": "2026-10-18",
       "show_url": "https://www.lyricstage.com/production/all-my-sons/",
-      "description": "Every family has its secrets.",
+      "description": "How far would you go to protect the ones you love?",
       "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/06/LSB_AMS_1920x1080TEST2.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "All My Sons",
+      "theater_name": "Lyric Stage Company",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-19",
+      "show_url": "https://www.lyricstage.com/production/all-my-sons-2/",
+      "description": "",
+      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/Lyric_Placeholder_Image.png",
       "ticket_url": ""
     },
     {
