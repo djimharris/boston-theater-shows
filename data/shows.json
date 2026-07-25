@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-07-24T11:37:45.084536+00:00",
+  "generated_at": "2026-07-25T11:03:23.003787+00:00",
   "total_shows": 81,
   "shows": [
-    {
-      "title": "Leo Season Country Dance and Drag Extravaganza",
-      "theater_name": "Huntington Theatre",
-      "start_date": "2026-07-24",
-      "end_date": "2026-07-24",
-      "show_url": "https://www.huntingtontheatre.org/whats-on/leo-season-country-dance-and-drag-extravaganza/",
-      "description": "",
-      "image_url": "https://images.huntingtontheatre.org/uploads/2026/05/Leo-Season-CDDE_1995x1250.jpg?fit=1995%2C1596",
-      "ticket_url": "https://bostontheatrescene.huntingtontheatre.org/31583/31584"
-    },
     {
       "title": "The Taming of the Shrew",
       "theater_name": "Huntington Theatre",
@@ -145,22 +135,12 @@
     {
       "title": "Post Meridian Radio Players present: The Maltese Falcon",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-07-24",
+      "start_date": "2026-07-25",
       "end_date": "2026-07-26",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/post-meridian-radio-players-present-the-maltese-falcon/",
       "description": "Post Meridian Radio Players — BCA Black Box Theatre, 539 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/06/Maltese-Falcon-BCA-tickets.png?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/post-meridian-radio-players-present-the-maltese-falcon/#performance-picker"
-    },
-    {
-      "title": "Leo Season Country Dance and Drag Extravaganza",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-07-24",
-      "end_date": "2026-07-24",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/leo-season-country-dance-and-drag-extravaganza/",
-      "description": "The Huntington Hosts — The Maso Studio, 264 Huntington Ave.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/Leo-Season-CDDE_1080x1080.jpg?resize=400%2C400&gravity",
-      "ticket_url": "https://secure.bostontheatrescene.com/31583/31584"
     },
     {
       "title": "What You Will",
@@ -181,6 +161,26 @@
       "description": "Captain Vampire — BCA Black Box Theatre, 539 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/06/bts-square-poster.png?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/a-sailors-grave/#performance-picker"
+    },
+    {
+      "title": "Community Garden",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-08-13",
+      "end_date": "2026-08-16",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/community-garden/",
+      "description": "SouthStage Theatre Works — BCA Black Box Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/SSTW-2026-Flyers-900-x-900-px.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/community-garden/#performance-picker"
+    },
+    {
+      "title": "Matilda Jr",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-08-14",
+      "end_date": "2026-08-14",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/matilda-jr/",
+      "description": "Spotlight Productions — BCA Plaza Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/Matilda-1080x1350-1920-x-1080-px-scaled.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/matilda-jr/#performance-picker"
     },
     {
       "title": "Angelo Colina en Boston (En Español)",
