@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T11:03:23.003787+00:00",
-  "total_shows": 81,
+  "generated_at": "2026-07-26T11:15:07.702810+00:00",
+  "total_shows": 80,
   "shows": [
     {
       "title": "The Taming of the Shrew",
@@ -61,16 +61,6 @@
       "description": "",
       "image_url": "https://images.huntingtontheatre.org/uploads/2026/05/north-homepage1.jpg?fit=1000%2C800",
       "ticket_url": "https://www.huntingtontheatre.org/whats-on/north-by-northwest/#performance-picker"
-    },
-    {
-      "title": "Fresh Ink Theatre’s 11th Annual Mad Dash",
-      "theater_name": "Lyric Stage Company",
-      "start_date": "2026-07-25",
-      "end_date": "2026-07-25",
-      "show_url": "https://www.lyricstage.com/production/fresh-ink-theatres-11th-annual-mad-dash/",
-      "description": "",
-      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/Mad-Dash.jpeg",
-      "ticket_url": ""
     },
     {
       "title": "All My Sons",
@@ -135,12 +125,12 @@
     {
       "title": "Post Meridian Radio Players present: The Maltese Falcon",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-07-25",
+      "start_date": "2026-07-26",
       "end_date": "2026-07-26",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/post-meridian-radio-players-present-the-maltese-falcon/",
       "description": "Post Meridian Radio Players — BCA Black Box Theatre, 539 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/06/Maltese-Falcon-BCA-tickets.png?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/post-meridian-radio-players-present-the-maltese-falcon/#performance-picker"
+      "ticket_url": "https://secure.bostontheatrescene.com/31636/31641"
     },
     {
       "title": "What You Will",
