@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T11:15:07.702810+00:00",
-  "total_shows": 80,
+  "generated_at": "2026-07-27T12:52:07.559227+00:00",
+  "total_shows": 79,
   "shows": [
     {
       "title": "The Taming of the Shrew",
@@ -121,16 +121,6 @@
       "description": "Forever Revolutionary",
       "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/LSB2627_P5_1920X1080_var2.jpg",
       "ticket_url": ""
-    },
-    {
-      "title": "Post Meridian Radio Players present: The Maltese Falcon",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-07-26",
-      "end_date": "2026-07-26",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/post-meridian-radio-players-present-the-maltese-falcon/",
-      "description": "Post Meridian Radio Players — BCA Black Box Theatre, 539 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/06/Maltese-Falcon-BCA-tickets.png?resize=400%2C400&gravity",
-      "ticket_url": "https://secure.bostontheatrescene.com/31636/31641"
     },
     {
       "title": "What You Will",
