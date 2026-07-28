@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T11:51:58.292378+00:00",
-  "total_shows": 78,
+  "generated_at": "2026-07-28T15:50:02.967892+00:00",
+  "total_shows": 79,
   "shows": [
     {
       "title": "The Taming of the Shrew",
@@ -581,6 +581,16 @@
       "description": "East Coast Premiere! Prudence “Pru” Payne is a contemporary Dorothy Parker: a sharp-tongued intellectual and critic who recently signed on to share her extraordinary life in an eagerly-awaited...",
       "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
       "ticket_url": ""
+    },
+    {
+      "title": "Four new plays in two rep festivals",
+      "theater_name": "Boston Playwrights' Theatre",
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-22",
+      "show_url": "https://www.bostonplaywrights.org/our-26-27-season",
+      "description": "November 5 – 22, 2026 on the Snodgrass Stage (949 Comm Ave.)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/288e5f94-034b-47ed-abb1-f7eef28dbaaa/Rep-Poster-Phoenix.jpg",
+      "ticket_url": "https://ci.ovationtix.com/168/production/1280759"
     },
     {
       "title": "Four new plays in two rep festivals",
