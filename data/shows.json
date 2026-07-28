@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-07-19T01:59:04.742236+00:00",
-  "total_shows": 81,
+  "generated_at": "2026-07-28T11:51:58.292378+00:00",
+  "total_shows": 78,
   "shows": [
-    {
-      "title": "Leo Season Country Dance and Drag Extravaganza",
-      "theater_name": "Huntington Theatre",
-      "start_date": "2026-07-24",
-      "end_date": "2026-07-24",
-      "show_url": "https://www.huntingtontheatre.org/whats-on/leo-season-country-dance-and-drag-extravaganza/",
-      "description": "",
-      "image_url": "https://images.huntingtontheatre.org/uploads/2026/05/Leo-Season-CDDE_1995x1250.jpg?fit=1995%2C1596",
-      "ticket_url": "https://bostontheatrescene.huntingtontheatre.org/31583/31584"
-    },
     {
       "title": "The Taming of the Shrew",
       "theater_name": "Huntington Theatre",
@@ -73,29 +63,19 @@
       "ticket_url": "https://www.huntingtontheatre.org/whats-on/north-by-northwest/#performance-picker"
     },
     {
-      "title": "Fresh Ink Theatre’s 11th Annual Mad Dash",
-      "theater_name": "Lyric Stage Company",
-      "start_date": "2026-07-25",
-      "end_date": "2026-07-25",
-      "show_url": "https://www.lyricstage.com/production/fresh-ink-theatres-11th-annual-mad-dash/",
-      "description": "",
-      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/Mad-Dash.jpeg",
-      "ticket_url": ""
-    },
-    {
       "title": "All My Sons",
       "theater_name": "Lyric Stage Company",
       "start_date": "2026-09-18",
       "end_date": "2026-10-18",
       "show_url": "https://www.lyricstage.com/production/all-my-sons/",
-      "description": "Every family has its secrets.",
+      "description": "How far would you go to protect the ones you love?",
       "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/06/LSB_AMS_1920x1080TEST2.jpg",
       "ticket_url": ""
     },
     {
       "title": "Peter Pan Goes Wrong",
       "theater_name": "Lyric Stage Company",
-      "start_date": "2026-12-09",
+      "start_date": "2026-11-13",
       "end_date": "2026-12-31",
       "show_url": "https://www.lyricstage.com/production/peter-pan-goes-wrong/",
       "description": "Here we go again.",
@@ -133,36 +113,6 @@
       "ticket_url": ""
     },
     {
-      "title": "ALMOST, MAINE",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-07-19",
-      "end_date": "2026-07-19",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/almost-maine/",
-      "description": "SouthStage Theatre Works — BCA Black Box Theatre, 539 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/06/1-1.png?resize=400%2C400&gravity",
-      "ticket_url": "https://secure.bostontheatrescene.com/31612/31618"
-    },
-    {
-      "title": "Post Meridian Radio Players present: The Maltese Falcon",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-07-23",
-      "end_date": "2026-07-26",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/post-meridian-radio-players-present-the-maltese-falcon/",
-      "description": "Post Meridian Radio Players — BCA Black Box Theatre, 539 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/06/Maltese-Falcon-BCA-tickets.png?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/post-meridian-radio-players-present-the-maltese-falcon/#performance-picker"
-    },
-    {
-      "title": "Leo Season Country Dance and Drag Extravaganza",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-07-24",
-      "end_date": "2026-07-24",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/leo-season-country-dance-and-drag-extravaganza/",
-      "description": "The Huntington Hosts — The Maso Studio, 264 Huntington Ave.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/Leo-Season-CDDE_1080x1080.jpg?resize=400%2C400&gravity",
-      "ticket_url": "https://secure.bostontheatrescene.com/31583/31584"
-    },
-    {
       "title": "What You Will",
       "theater_name": "Boston Theatre Scene",
       "start_date": "2026-07-31",
@@ -181,6 +131,26 @@
       "description": "Captain Vampire — BCA Black Box Theatre, 539 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/06/bts-square-poster.png?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/a-sailors-grave/#performance-picker"
+    },
+    {
+      "title": "Community Garden",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-08-13",
+      "end_date": "2026-08-16",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/community-garden/",
+      "description": "SouthStage Theatre Works — BCA Black Box Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/SSTW-2026-Flyers-900-x-900-px.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/community-garden/#performance-picker"
+    },
+    {
+      "title": "Matilda Jr",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-08-14",
+      "end_date": "2026-08-14",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/matilda-jr/",
+      "description": "Spotlight Productions — BCA Plaza Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/Matilda-1080x1350-1920-x-1080-px-scaled.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/matilda-jr/#performance-picker"
     },
     {
       "title": "Angelo Colina en Boston (En Español)",
@@ -329,7 +299,7 @@
       "end_date": "2026-10-07",
       "show_url": "https://emersontheatres.org/event/the-maids/",
       "description": "Presented by ArtBuzz Productions & Sheep. Co Entertainment The Maids by Roman Viktyuk based on the play by J. Genet Roman Viktyuk’s legendary play “The Maids” has been on stage...",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/06/Boston-The-Maid-350_255.png",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/06/Boston-The-Maid-350_255.png",
       "ticket_url": ""
     },
     {
@@ -339,7 +309,7 @@
       "end_date": "2026-10-18",
       "show_url": "https://artsemerson.org/events/taylor-mac-and-matt-ray-songs-from-bark-of-millions/#new_tab",
       "description": "If you’re not invited to the party, throw a better one!",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/05/Barks-AE-Overlay.png",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/Barks-AE-Overlay.png",
       "ticket_url": ""
     },
     {
@@ -349,7 +319,7 @@
       "end_date": "2026-11-01",
       "show_url": "https://artsemerson.org/events/all-the-devils-are-here/",
       "description": "Patrick Page explores Shakespeare’s most memorable villains in this thrilling, hilarious, and biting solo tour-de-force.",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/05/devils-overlay.png",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/devils-overlay.png",
       "ticket_url": ""
     },
     {
@@ -359,7 +329,7 @@
       "end_date": "2026-11-08",
       "show_url": "https://emersontheatres.org/event/a-streetcar-named-desire/",
       "description": "A Streetcar Named Desire Presented by Boston Lyric Opera “Real? Who wants real?… I want magic!” The sweltering heat of a New Orleans summer sets the tone for the simmering...",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/07/700x510-1.jpg",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/07/700x510-1.jpg",
       "ticket_url": ""
     },
     {
@@ -369,7 +339,7 @@
       "end_date": "2026-11-22",
       "show_url": "https://artsemerson.org/events/dream-feed/#new_tab",
       "description": "Step inside a shared dream sequence with Grammy Award-winning band The HawtPlates.",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/05/Dream-Feed-AE-Overlay.png",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/Dream-Feed-AE-Overlay.png",
       "ticket_url": ""
     },
     {
@@ -379,7 +349,7 @@
       "end_date": "2026-12-20",
       "show_url": "https://emersontheatres.org/event/charles-dickens-a-christmas-carol-26/",
       "description": "Commonwealth Shakespeare Company presents Charles Dicken's \"A Christmas Carol\" Boston's New Holiday Tradition Step into the magic of Victorian England and rediscover the heart and soul of the...",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/07/2-1.png",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/07/2-1.png",
       "ticket_url": ""
     },
     {
@@ -389,7 +359,7 @@
       "end_date": "2027-02-14",
       "show_url": "https://artsemerson.org/events/wake/",
       "description": "Glitter, beats, and banging tunes: this Irish wake is the ultimate celebration of life.",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/05/WAKE-AE-Overlay-1.png",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/WAKE-AE-Overlay-1.png",
       "ticket_url": ""
     },
     {
@@ -399,7 +369,7 @@
       "end_date": "2027-02-27",
       "show_url": "https://artsemerson.org/events/2021/#new_tab",
       "description": "Under the glow of a flickering screen, a daughter reconstructs her deceased father, pixel by pixel.",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/05/2021-AE-overlay.png",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/2021-AE-overlay.png",
       "ticket_url": ""
     },
     {
@@ -409,7 +379,7 @@
       "end_date": "2027-03-14",
       "show_url": "https://artsemerson.org/events/wonders/#new_tab",
       "description": "Breathtaking illusions await in this New York Times Critic's Pick full of intrigue and imagination.",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/05/Wonders-AE-Overlay.png",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/Wonders-AE-Overlay.png",
       "ticket_url": ""
     },
     {
@@ -419,7 +389,7 @@
       "end_date": "2027-03-21",
       "show_url": "https://emersontheatres.org/event/the-marriage-of-figaro/",
       "description": "The Marriage of Figaro (Le nozze di Figaro) Presented by Boston Lyric Opera One wedding. One day. Total chaos.Wit, mayhem, and hilarity abound in Mozart’s fan-favorite comedy that packs a...",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/07/700x510.jpg",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/07/700x510.jpg",
       "ticket_url": ""
     },
     {
@@ -429,7 +399,7 @@
       "end_date": "2027-04-11",
       "show_url": "https://artsemerson.org/events/kunene-and-the-king/#new_tab",
       "description": "In post-apartheid South Africa two men must confront themselves, the past, and their beliefs.",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/05/kunene-overlay.png",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/kunene-overlay.png",
       "ticket_url": ""
     },
     {
@@ -439,7 +409,7 @@
       "end_date": "2027-05-02",
       "show_url": "https://artsemerson.org/events/the-carlisle-project/",
       "description": "The legacy of the Carlisle Indian Industrial School is reckoned with in this powerful musical song cycle.",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/81/2026/05/Carlisle-Project-AE-overlay.png",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/Carlisle-Project-AE-overlay.png",
       "ticket_url": ""
     },
     {
