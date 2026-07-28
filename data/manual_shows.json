@@ -1,1 +1,72 @@
-[]
+[
+    {
+        "title": "A New Era",
+        "theater_name": "Company One Theater",
+        "start_date": "2026-07-17",
+        "end_date": "2026-08-08",
+        "show_url": "https://companyone.org/a-new-era/",
+        "description": "Journeying across a divided America, seven formidable women gather right here in Boston for an unprecedented national conference. With liberation and Black Lives at stake, can they get in formation, navigate their political differences, and organize together to criminalize lynching? The year might be 1895, but the fight is very much our own.",
+        "image_url": "https://companyone.org/wp-content/uploads/2025/10/S27_SeasonBrochure_Draft07_ANE-sm.png",
+        "ticket_url": "https://www.ticketleap.events/tickets/company-one-theatre/a-new-era-s27"
+    },
+    {
+        "title": "Bouncers By John Godber",
+        "theater_name": "Suffolk Theater",
+        "start_date": "2026-10-01",
+        "end_date": "2026-10-24",
+        "show_url": "https://ci.ovationtix.com/34432",
+        "description": "",
+        "image_url": "",
+        "ticket_url": "https://ci.ovationtix.com/34432"
+    },
+    {
+        "title": "Moulin Rouge",
+        "theater_name": "Boston Opera House",
+        "start_date": "2026-07-29",
+        "end_date": "2026-08-02",
+        "show_url": "https://boston.broadway.com/shows/moulin-rouge-the-musical-2/",
+        "description": "Pop the champagne, Moulin Rouge! The Musical is the winner of 10 Tony Awards® — including Best Musical! Enter a world of splendor and romance, of eye-popping excess, of glitz, grandeur, and glory! A world where Bohemians and aristocrats rub elbows and revel in electrifying enchantment.",
+        "image_url": "https://boston.broadway.com/wp-content/uploads/2020/01/MRO_2627_1200x1200_w2026copy_C-800x800.jpg",
+        "ticket_url": "https://www.ticketmaster.com/artist/835426?venueId=8835"
+    },
+    {
+        "title": "Wicked",
+        "theater_name": "Boston Opera House",
+        "start_date": "2026-09-23",
+        "end_date": "2026-11-15",
+        "show_url": "https://boston.broadway.com/shows/wicked-2/",
+        "description": "See it LIVE. Remember it FOREVER. So much happened before Dorothy dropped in. WICKED, the Broadway sensation, looks at what happened in the Land of Oz... but from a different angle. Long before Dorothy arrives, there is another young woman, born with emerald-green skin—smart, fiery, misunderstood, and possessing an extraordinary talent.",
+        "image_url": "https://boston.broadway.com/wp-content/uploads/2019/01/WIK_2627_NoTag_1200x1200_website-800x800.jpg",
+        "ticket_url": "https://www.ticketmaster.com/artist/864373?venueId=8835"
+    },
+    {
+        "title": "Death Becomes Her",
+        "theater_name": "Boston Opera House",
+        "start_date": "2027-01-12",
+        "end_date": "2027-01-24",
+        "show_url": "https://boston.broadway.com/shows/death-becomes-her/",
+        "description": "Some people will do anything to look eternally fabulous. But famous actress Madeline Ashton and her best frenemy Helen Sharp are about to go too far… thanks to a mysterious woman named Viola Van Horn and a secret potion that’s to die for.",
+        "image_url": "https://boston.broadway.com/wp-content/uploads/2025/12/DBH-1200x1200-1-800x800.jpg",
+        "ticket_url": "https://am.ticketmaster.com/baabos/buy?id=MTM4MQ=="
+    },
+    {
+        "title": "Maybe Happy Ending",
+        "theater_name": "Boston Opera House",
+        "start_date": "2027-02-02",
+        "end_date": "2027-02-14",
+        "show_url": "https://boston.broadway.com/shows/maybe-happy-ending/",
+        "description": "Winner of 6 Tony Awards®, including Best Musical, Maybe Happy Ending tells the deeply human story of a chance encounter that sparks connection, adventure, and maybe even love.",
+        "image_url": "https://boston.broadway.com/wp-content/uploads/2025/12/MHE_032026_1200x1200_Characters_72dpi.jpg",
+        "ticket_url": "https://www.ticketmaster.com/artist/4265144?venueId=8835"
+    },
+    {
+        "title": "A Beautiful Noise",
+        "theater_name": "Boston Opera House",
+        "start_date": "2027-03-03",
+        "end_date": "2027-04-04",
+        "show_url": "https://boston.broadway.com/shows/a-beautiful-noise/",
+        "description": "The untold true story of a Brooklyn kid who became a chart-busting, show-stopping, award-winning American icon. Created in collaboration with Neil Diamond himself, A Beautiful Noise: The Neil Diamond Musical is the uplifting true story of how a kid from Brooklyn became a chart-busting, show-stopping American rock icon.",
+        "image_url": "https://boston.broadway.com/wp-content/uploads/2024/01/ABN_1200x1200-800x800.jpg",
+        "ticket_url": "https://am.ticketmaster.com/baabos/buy?id=MTM4MQ=="
+    }
+]
