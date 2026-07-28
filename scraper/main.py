@@ -5,6 +5,7 @@ import logging
 import os
 import sys
 
+from scraper.models import Show
 from scraper.orchestrator import ScraperOrchestrator
 from scraper.scrapers import ALL_SCRAPERS
 
@@ -26,8 +27,36 @@ def main():
     orchestrator = ScraperOrchestrator(ALL_SCRAPERS)
     orchestrator.run_all()
 
-    # Ensure data directory exists
+    # Merge manual entries
     data_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
+    manual_path = os.path.join(data_dir, "manual_shows.json")
+    if os.path.exists(manual_path):
+        try:
+            with open(manual_path, "r", encoding="utf-8") as f:
+                manual_entries = json.load(f)
+            added = 0
+            for entry in manual_entries:
+                show = Show(
+                    title=entry.get("title", ""),
+                    theater_name=entry.get("theater_name", ""),
+                    start_date=entry.get("start_date", ""),
+                    end_date=entry.get("end_date", ""),
+                    show_url=entry.get("show_url", ""),
+                    description=entry.get("description", ""),
+                    image_url=entry.get("image_url", ""),
+                    ticket_url=entry.get("ticket_url", ""),
+                )
+                if show.is_valid():
+                    orchestrator.shows.append(show)
+                    added += 1
+                else:
+                    logger.warning(f"Skipping invalid manual entry: {entry.get('title', '?')}")
+            if added:
+                logger.info(f"Added {added} manual show(s)")
+        except (json.JSONDecodeError, TypeError) as e:
+            logger.warning(f"Failed to parse manual_shows.json: {e}")
+
+    # Ensure data directory exists
     os.makedirs(data_dir, exist_ok=True)
 
     # Write shows.json

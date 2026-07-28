@@ -10,10 +10,13 @@
     <header class="site-header">
         <div class="header-content">
             <h1>Boston Theater Shows</h1>
-            <nav class="view-toggle">
-                <button data-view="card" class="active" aria-pressed="true">Card View</button>
-                <button data-view="calendar" aria-pressed="false">Calendar View</button>
-            </nav>
+            <div class="header-actions">
+                <nav class="view-toggle">
+                    <button data-view="card" class="active" aria-pressed="true">Card View</button>
+                    <button data-view="calendar" aria-pressed="false">Calendar View</button>
+                </nav>
+                <button id="add-show-btn" class="btn-add-show">+ Add Show</button>
+            </div>
         </div>
     </header>
 
@@ -83,10 +86,59 @@
         </div>
     </footer>
 
+    <!-- Add Show Modal -->
+    <div class="modal-overlay" id="add-show-modal" hidden>
+        <div class="modal">
+            <h2 class="modal-title">Add Show Manually</h2>
+            <form id="add-show-form">
+                <div class="form-group">
+                    <label for="add-title">Title *</label>
+                    <input type="text" id="add-title" required>
+                </div>
+                <div class="form-group">
+                    <label for="add-theater">Theater Name *</label>
+                    <input type="text" id="add-theater" required>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="add-start">Start Date *</label>
+                        <input type="date" id="add-start" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="add-end">End Date *</label>
+                        <input type="date" id="add-end" required>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="add-url">Show URL *</label>
+                    <input type="url" id="add-url" required placeholder="https://...">
+                </div>
+                <div class="form-group">
+                    <label for="add-description">Description</label>
+                    <input type="text" id="add-description">
+                </div>
+                <div class="form-group">
+                    <label for="add-image">Image URL</label>
+                    <input type="url" id="add-image" placeholder="https://...">
+                </div>
+                <div class="form-group">
+                    <label for="add-ticket">Ticket URL</label>
+                    <input type="url" id="add-ticket" placeholder="https://...">
+                </div>
+                <div class="modal-actions">
+                    <button type="submit" class="btn-copy-json">Copy JSON</button>
+                    <button type="button" class="btn-cancel" id="add-show-cancel">Cancel</button>
+                </div>
+                <div class="copy-feedback" id="copy-feedback" hidden>Copied to clipboard!</div>
+            </form>
+        </div>
+    </div>
+
     <script src="js/app.js"></script>
     <script src="js/filters.js"></script>
     <script src="js/cardView.js"></script>
     <script src="js/calendarView.js"></script>
     <script src="js/status.js"></script>
+    <script src="js/addShow.js"></script>
 </body>
 </html>
