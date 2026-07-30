@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T11:55:54.114923+00:00",
-  "total_shows": 87,
+  "generated_at": "2026-07-30T11:46:57.093621+00:00",
+  "total_shows": 88,
   "shows": [
     {
       "title": "The Taming of the Shrew",
@@ -29,7 +29,7 @@
       "end_date": "2026-11-08",
       "show_url": "https://www.huntingtontheatre.org/whats-on/to-kill-a-mockingbird/",
       "description": "",
-      "image_url": "https://images.huntingtontheatre.org/uploads/2026/06/tkam-fall-on-sale.jpg?fit=1995%2C1596",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/TheHuntington_26-27-Season-TKAM.jpg?fit=1995%2C1596",
       "ticket_url": "https://www.huntingtontheatre.org/whats-on/to-kill-a-mockingbird/#performance-picker"
     },
     {
@@ -39,7 +39,7 @@
       "end_date": "2026-10-25",
       "show_url": "https://www.huntingtontheatre.org/whats-on/laura-benanti-nobody-cares/",
       "description": "",
-      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/Nobody-Cares-email-web_Email.jpg?fit=1000%2C800",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/laura-benanti-web2-scaled.jpg?fit=1995%2C1596",
       "ticket_url": "https://www.huntingtontheatre.org/whats-on/laura-benanti-nobody-cares/#performance-picker"
     },
     {
@@ -221,6 +221,16 @@
       "description": "",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/COV1-CC.webp?resize=400%2C400&gravity",
       "ticket_url": ""
+    },
+    {
+      "title": "sweet prince",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-09-29",
+      "end_date": "2026-09-29",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/sweet-prince/",
+      "description": "Junkyard Shakespeare — BCA Black Box Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/FAV-aspect-ratio-0-0.png?resize=400%2C400&gravity",
+      "ticket_url": "https://secure.bostontheatrescene.com/31725/31726"
     },
     {
       "title": "Harper Lee's To Kill a Mockingbird",
@@ -698,7 +708,7 @@
       "start_date": "2027-05-18",
       "end_date": "2027-07-03",
       "show_url": "https://americanrepertorytheater.org/shows-events/life-on-mars/",
-      "description": "An immersive theatrical production directed by Diane Paulus and brought to life by the music of David Bowie. By special arrangement with the David Bowie Estate, Unigram, Access Entertainment, and...",
+      "description": "An immersive theatrical production directed by Diane Paulus and brought to life by the music of David Bowie. By special arrangement with the David Bowie Estate, Unigram, and Warner Music Group.",
       "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/04/2627-VisualsBW-LifeOnMars.jpg?resize=16%2C10&gravity",
       "ticket_url": ""
     },
