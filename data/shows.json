@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-07-31T11:53:25.809074+00:00",
-  "total_shows": 88,
+  "generated_at": "2026-08-01T11:12:08.922075+00:00",
+  "total_shows": 89,
   "shows": [
-    {
-      "title": "The Taming of the Shrew",
-      "theater_name": "Huntington Theatre",
-      "start_date": "2026-07-31",
-      "end_date": "2026-07-31",
-      "show_url": "https://www.huntingtontheatre.org/whats-on/the-taming-of-the-shrew/",
-      "description": "",
-      "image_url": "https://images.huntingtontheatre.org/uploads/2026/06/EDU-x-TOTS-showart-website-scaled.jpg?fit=1995%2C1596",
-      "ticket_url": "https://bostontheatrescene.huntingtontheatre.org/31602/31604"
-    },
     {
       "title": "Purpose",
       "theater_name": "Huntington Theatre",
@@ -115,7 +105,7 @@
     {
       "title": "What You Will",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-07-31",
+      "start_date": "2026-08-01",
       "end_date": "2026-08-02",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/what-you-will/",
       "description": "Half x Baked Theater Collective — BCA Black Box Theatre, 539 Tremont St.",
@@ -263,6 +253,16 @@
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/adia-and-clora/#performance-picker"
     },
     {
+      "title": "Library Lion",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2027-01-09",
+      "end_date": "2027-01-17",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/librarylion/",
+      "description": "Adam Theater — The Wimberly Theatre, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2025/08/900x900.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/librarylion/#performance-picker"
+    },
+    {
       "title": "Alfred Hitchcock's North By Northwest",
       "theater_name": "Boston Theatre Scene",
       "start_date": "2027-01-21",
@@ -281,6 +281,16 @@
       "description": "",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/LBRR1.webp?resize=400%2C400&gravity",
       "ticket_url": ""
+    },
+    {
+      "title": "The Flood",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2027-03-20",
+      "end_date": "2027-04-03",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-flood/",
+      "description": "Adam Theater — The Roberts Studio Theatre, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2025/04/BTS-thumbnail.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-flood/#performance-picker"
     },
     {
       "title": "By Any Other Name",
