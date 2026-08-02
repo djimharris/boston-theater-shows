@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T11:12:08.922075+00:00",
-  "total_shows": 89,
+  "generated_at": "2026-08-02T11:12:05.475007+00:00",
+  "total_shows": 90,
   "shows": [
     {
       "title": "Purpose",
@@ -105,12 +105,12 @@
     {
       "title": "What You Will",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-08-01",
+      "start_date": "2026-08-02",
       "end_date": "2026-08-02",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/what-you-will/",
       "description": "Half x Baked Theater Collective — BCA Black Box Theatre, 539 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/What-You-Will_square-graphic_BCFTA.png?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/what-you-will/#performance-picker"
+      "ticket_url": "https://secure.bostontheatrescene.com/31650/31654"
     },
     {
       "title": "A Sailor's Grave",
@@ -233,6 +233,26 @@
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/#performance-picker"
     },
     {
+      "title": "I HATE AI!",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-11",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/i-hate-ai/",
+      "description": "Mela Productions — BCA Plaza Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/I-HATE-AI_500X500_MelanySanche.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/i-hate-ai/#performance-picker"
+    },
+    {
+      "title": "Urinetown, The Musical",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-10-22",
+      "end_date": "2026-10-25",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/urinetown-the-musical/",
+      "description": "Queer Artists & Players — BCA Plaza Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2025/04/BTS-thumbnail.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/urinetown-the-musical/#performance-picker"
+    },
+    {
       "title": "Laura Benanti: Nobody Cares",
       "theater_name": "Boston Theatre Scene",
       "start_date": "2026-10-22",
@@ -243,6 +263,16 @@
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/laura-benanti-nobody-cares/#performance-picker"
     },
     {
+      "title": "You're A Good Man, Charlie Brown",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-15",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/youre-a-good-man-charlie-brown/",
+      "description": "The Hive Theatre Company — BCA Plaza Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/20262027-SEASON-POSTERS-900-x-900-px.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/youre-a-good-man-charlie-brown/#performance-picker"
+    },
+    {
       "title": "Adia & Clora Snatch Joy",
       "theater_name": "Boston Theatre Scene",
       "start_date": "2026-11-24",
@@ -251,16 +281,6 @@
       "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-AC.jpg?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/adia-and-clora/#performance-picker"
-    },
-    {
-      "title": "Library Lion",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2027-01-09",
-      "end_date": "2027-01-17",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/librarylion/",
-      "description": "Adam Theater — The Wimberly Theatre, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2025/08/900x900.jpg?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/librarylion/#performance-picker"
     },
     {
       "title": "Alfred Hitchcock's North By Northwest",
@@ -281,16 +301,6 @@
       "description": "",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/LBRR1.webp?resize=400%2C400&gravity",
       "ticket_url": ""
-    },
-    {
-      "title": "The Flood",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2027-03-20",
-      "end_date": "2027-04-03",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-flood/",
-      "description": "Adam Theater — The Roberts Studio Theatre, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2025/04/BTS-thumbnail.png?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-flood/#performance-picker"
     },
     {
       "title": "By Any Other Name",
