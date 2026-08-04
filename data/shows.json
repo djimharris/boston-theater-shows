@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T12:51:37.665018+00:00",
+  "generated_at": "2026-08-04T11:58:23.539931+00:00",
   "total_shows": 89,
   "shows": [
     {
@@ -303,7 +303,7 @@
       "ticket_url": ""
     },
     {
-      "title": "Rise",
+      "title": "RISE by the Sa Dance Company",
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2026-09-19",
       "end_date": "2026-09-19",
@@ -350,6 +350,16 @@
       "show_url": "https://emersontheatres.org/event/a-streetcar-named-desire/",
       "description": "A Streetcar Named Desire Presented by Boston Lyric Opera “Real? Who wants real?… I want magic!” The sweltering heat of a New Orleans summer sets the tone for the simmering...",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/07/700x510-1.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "Julia Wolfe’s Anthracite Fields",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "show_url": "https://emersontheatres.org/event/julia-wolfes-anthracite-fields/",
+      "description": "Julia Wolfe's Anthracite Fields Bang on a Can All-Stars & Chorus Pro Musica The Boston Premiere of Julia Wolfe’s Pulitzer Prize-winning oratorio Anthracite Fields is a powerful tribute to the...",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/07/anthricate-thumb-2.png",
       "ticket_url": ""
     },
     {
@@ -689,7 +699,7 @@
       "end_date": "2026-09-27",
       "show_url": "https://americanrepertorytheater.org/shows-events/rhinoceros/",
       "description": "Loeb Drama Center | Everything seems normal one Sunday morning…until it’s not. One by one, friends and colleagues transform into rhinoceroses, and Berenger is forced to decide: will he follow the...",
-      "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/07/2627-Rhinoceros-WebCard-Header2.jpg?resize=16%2C10&gravity",
+      "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/07/2627-Rhinoceros-WebCard-Header1.jpg?resize=16%2C10&gravity",
       "ticket_url": "https://americanrepertorytheater.org/shows-events/rhinoceros/#book"
     },
     {
@@ -799,16 +809,6 @@
       "end_date": "2027-02-14",
       "show_url": "https://www.footlight.org/blog/2027/raisin-in-the-sun",
       "description": "Synopsis: A Raisin in the Sun is a powerful and deeply moving drama by Lorraine Hansberry that follows the Younger family, an African American family living in Chicago, as they struggle to achieve...",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/57a79c146b8f5b05fd6a993c/1502057096974-SLXHTLQB65HO9GVLJ87X/86.jpg",
-      "ticket_url": ""
-    },
-    {
-      "title": "Pirates! The Penzance Musical",
-      "theater_name": "Footlight Club",
-      "start_date": "2027-05-01",
-      "end_date": "2027-05-15",
-      "show_url": "https://www.footlight.org/blog/2027/pirates",
-      "description": "Based on the operetta by W.S. Gilbert &amp; Arthur SullivanAdapted by Rupert HolmesConceived by Scott Ellis, Rupert Holmes, Warren Carlyle, and Joseph JoubertSynopsis: Pirates! The Penzance Musical...",
       "image_url": "https://images.squarespace-cdn.com/content/v1/57a79c146b8f5b05fd6a993c/1502057096974-SLXHTLQB65HO9GVLJ87X/86.jpg",
       "ticket_url": ""
     },
