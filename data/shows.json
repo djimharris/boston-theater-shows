@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T11:58:23.539931+00:00",
-  "total_shows": 89,
+  "generated_at": "2026-08-05T11:52:28.913057+00:00",
+  "total_shows": 91,
   "shows": [
     {
       "title": "Purpose",
@@ -163,6 +163,16 @@
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-nina-variations/#performance-picker"
     },
     {
+      "title": "Black Box Afrobeats Xperience",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-05",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/black-box-afrobeats-xperience/",
+      "description": "Buzyfing3rz — BCA Plaza Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/Black-and-White-Minimalist-Graffiti-Music-Album-Cover-1.png?resize=400%2C400&gravity",
+      "ticket_url": "https://secure.bostontheatrescene.com/31663/31664"
+    },
+    {
       "title": "Purpose",
       "theater_name": "Boston Theatre Scene",
       "start_date": "2026-09-10",
@@ -233,13 +243,23 @@
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/i-hate-ai/#performance-picker"
     },
     {
+      "title": "Stand Up to Save Lives: An Evening with Alex Borstein",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/stand-up-to-save-lives-an-evening-with-alex-borstein/",
+      "description": "Save One Life — The Wimberly Theatre, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/Save-One-Life-Alex-Borstein.png?resize=400%2C400&gravity",
+      "ticket_url": "https://secure.bostontheatrescene.com/31756/31757"
+    },
+    {
       "title": "Urinetown, The Musical",
       "theater_name": "Boston Theatre Scene",
       "start_date": "2026-10-22",
       "end_date": "2026-10-25",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/urinetown-the-musical/",
       "description": "Queer Artists & Players — BCA Plaza Theatre, 539 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2025/04/BTS-thumbnail.png?resize=400%2C400&gravity",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/Urinetown-Poster-IG-900-x-900-px.png?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/urinetown-the-musical/#performance-picker"
     },
     {
