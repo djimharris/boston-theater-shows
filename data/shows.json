@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T10:44:04.672133+00:00",
+  "generated_at": "2026-08-08T10:23:16.362649+00:00",
   "total_shows": 91,
   "shows": [
     {
@@ -105,12 +105,12 @@
     {
       "title": "A Sailor's Grave",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-08-07",
+      "start_date": "2026-08-08",
       "end_date": "2026-08-08",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/a-sailors-grave/",
       "description": "Captain Vampire — BCA Black Box Theatre, 539 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/06/bts-square-poster.png?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/a-sailors-grave/#performance-picker"
+      "ticket_url": ""
     },
     {
       "title": "Community Garden",
