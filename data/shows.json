@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T10:25:03.369846+00:00",
-  "total_shows": 89,
+  "generated_at": "2026-08-10T11:00:40.137690+00:00",
+  "total_shows": 91,
   "shows": [
     {
       "title": "Purpose",
@@ -751,6 +751,26 @@
       "description": "An immersive theatrical production directed by Diane Paulus and brought to life by the music of David Bowie. By special arrangement with the David Bowie Estate, Unigram, and Warner Music Group.",
       "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/04/2627-VisualsBW-LifeOnMars.jpg?resize=16%2C10&gravity",
       "ticket_url": ""
+    },
+    {
+      "title": "IS THIS A ROOM",
+      "theater_name": "Apollinaire Theatre Company",
+      "start_date": "2026-02-20",
+      "end_date": "2026-03-22",
+      "show_url": "https://www.apollinairetheatre.com/productions/season.php",
+      "description": "",
+      "image_url": "",
+      "ticket_url": "https://ci.ovationtix.com/34707/production/1253380"
+    },
+    {
+      "title": "A View from the Bridge",
+      "theater_name": "Apollinaire Theatre Company",
+      "start_date": "2026-04-17",
+      "end_date": "2026-05-10",
+      "show_url": "https://www.apollinairetheatre.com/productions/season.php",
+      "description": "",
+      "image_url": "",
+      "ticket_url": "https://ci.ovationtix.com/34707/production/1253381"
     },
     {
       "title": "Leonardo! A Wonderful Show about a Terrible Monster",
