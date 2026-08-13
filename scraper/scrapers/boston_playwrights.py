@@ -2,6 +2,7 @@
 
 import logging
 import re
+from datetime import date
 
 from scraper.base_scraper import BaseScraper
 from scraper.models import Show
@@ -11,19 +12,22 @@ logger = logging.getLogger(__name__)
 
 
 class BostonPlaywrightsScraper(BaseScraper):
-    """Scrapes shows from bostonplaywrights.org/our-26-27-season
+    """Scrapes shows from bostonplaywrights.org
 
-    A single season page with show titles in h4 elements, collapsible
-    content blocks, and links to OvationTix for tickets. Data is highly
-    structured with specific performance times.
+    Dynamically discovers the current season URL from the homepage navigation,
+    then parses the season page for shows. Falls back to a constructed URL
+    based on the academic year pattern (/our-YY-YY-season).
     """
 
     THEATER_NAME = "Boston Playwrights' Theatre"
-    BASE_URL = "https://www.bostonplaywrights.org/our-26-27-season"
+    BASE_URL = "https://www.bostonplaywrights.org"
 
     def scrape(self) -> list[Show]:
-        soup = self.fetch_page(self.BASE_URL)
+        season_url = self._get_season_url()
+        logger.debug(f"Using season URL: {season_url}")
+        soup = self.fetch_page(season_url)
         shows = []
+        seen_titles = set()
 
         # Shows are typically in sections with h4 titles on Squarespace
         sections = self._find_show_sections(soup)
@@ -32,12 +36,42 @@ class BostonPlaywrightsScraper(BaseScraper):
             try:
                 show = self._parse_section(section)
                 if show and show.is_valid():
-                    shows.append(show)
+                    key = show.title.lower().strip()
+                    if key not in seen_titles:
+                        seen_titles.add(key)
+                        shows.append(show)
             except Exception as e:
                 logger.debug(f"Failed to parse section: {e}")
                 continue
 
         return shows
+
+    def _get_season_url(self):
+        """Discover the current season URL from the homepage navigation."""
+        try:
+            homepage = self.fetch_page(self.BASE_URL)
+            # Look for a nav link containing "season" in href
+            for a in homepage.find_all('a', href=True):
+                href = a['href']
+                text = a.get_text().lower()
+                if 'season' in href and 'past' not in href and 'our' in text:
+                    url = self.resolve_url(href)
+                    logger.info(f"Discovered season page: {url}")
+                    return url
+        except Exception as e:
+            logger.warning(f"Failed to discover season URL from homepage: {e}")
+
+        # Fallback: construct URL from current academic year
+        today = date.today()
+        if today.month >= 9:
+            start_year = today.year % 100
+            end_year = (today.year + 1) % 100
+        else:
+            start_year = (today.year - 1) % 100
+            end_year = today.year % 100
+        fallback = f"{self.BASE_URL}/our-{start_year}-{end_year:02d}-season"
+        logger.info(f"Using constructed season URL: {fallback}")
+        return fallback
 
     def _find_show_sections(self, soup):
         """Find show sections — each show is a distinct block with heading."""
@@ -94,8 +128,8 @@ class BostonPlaywrightsScraper(BaseScraper):
         if not title or len(title) < 2:
             return None
 
-        # Skip non-show headings
-        if self._is_navigation(title):
+        # Skip non-show headings and generic labels
+        if self._is_navigation(title) or title.lower() in ('description', 'details', 'synopsis'):
             return None
 
         # Date range
