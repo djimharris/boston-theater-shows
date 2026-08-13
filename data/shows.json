@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T10:54:23.424382+00:00",
+  "generated_at": "2026-08-13T05:04:11.272609+00:00",
   "total_shows": 91,
   "shows": [
     {
@@ -637,17 +637,7 @@
       "theater_name": "Boston Playwrights' Theatre",
       "start_date": "2026-11-05",
       "end_date": "2026-11-22",
-      "show_url": "https://www.bostonplaywrights.org/our-26-27-season",
-      "description": "November 5 – 22, 2026 on the Snodgrass Stage (949 Comm Ave.)",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/288e5f94-034b-47ed-abb1-f7eef28dbaaa/Rep-Poster-Phoenix.jpg",
-      "ticket_url": "https://ci.ovationtix.com/168/production/1280759"
-    },
-    {
-      "title": "Four new plays in two rep festivals",
-      "theater_name": "Boston Playwrights' Theatre",
-      "start_date": "2026-11-05",
-      "end_date": "2026-11-22",
-      "show_url": "https://www.bostonplaywrights.org/our-26-27-season",
+      "show_url": "https://www.bostonplaywrights.org",
       "description": "November 5 – 22, 2026 on the Snodgrass Stage (949 Comm Ave.)",
       "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/288e5f94-034b-47ed-abb1-f7eef28dbaaa/Rep-Poster-Phoenix.jpg",
       "ticket_url": "https://ci.ovationtix.com/168/production/1280759"
@@ -657,47 +647,27 @@
       "theater_name": "Boston Playwrights' Theatre",
       "start_date": "2026-11-05",
       "end_date": "2026-11-22",
-      "show_url": "https://www.bostonplaywrights.org/our-26-27-season",
+      "show_url": "https://www.bostonplaywrights.org",
       "description": "November 5 – 22, 2026 on the Snodgrass Stage (949 Comm Ave.)",
       "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/288e5f94-034b-47ed-abb1-f7eef28dbaaa/Rep-Poster-Phoenix.jpg",
       "ticket_url": "https://ci.ovationtix.com/168/production/1280746"
-    },
-    {
-      "title": "Description",
-      "theater_name": "Boston Playwrights' Theatre",
-      "start_date": "2026-11-05",
-      "end_date": "2026-11-05",
-      "show_url": "https://www.bostonplaywrights.org/our-26-27-season",
-      "description": "An epic family drama that spans decades and continents – told by two actors in one room. White Phoenix follows Li CunYi, a Chinese orphan who makes a promise to reunite with his sister, Li CunXin...",
-      "image_url": "",
-      "ticket_url": ""
     },
     {
       "title": "jessica of venice",
       "theater_name": "Boston Playwrights' Theatre",
       "start_date": "2026-11-12",
       "end_date": "2026-11-22",
-      "show_url": "https://www.bostonplaywrights.org/our-26-27-season",
+      "show_url": "https://www.bostonplaywrights.org",
       "description": "November 12 – 22, 2026 on the Snodgrass Stage (949 Comm Ave.)",
       "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/33d2caa1-7b6f-42ec-ab5f-4360f5cd53b1/Rep-Poster-Jessica.jpg",
       "ticket_url": "https://ci.ovationtix.com/168/production/1280759"
-    },
-    {
-      "title": "Description",
-      "theater_name": "Boston Playwrights' Theatre",
-      "start_date": "2026-11-12",
-      "end_date": "2026-11-12",
-      "show_url": "https://www.bostonplaywrights.org/our-26-27-season",
-      "description": "Convening in a forgotten library, a group of Orthodox Jewish schoolgirls discover a banned copy of The Merchant of Venice and become fascinated with Jessica, the rebellious runaway daughter. Most...",
-      "image_url": "",
-      "ticket_url": ""
     },
     {
       "title": "roswell",
       "theater_name": "Boston Playwrights' Theatre",
       "start_date": "2027-02-18",
       "end_date": "2027-03-07",
-      "show_url": "https://www.bostonplaywrights.org/our-26-27-season",
+      "show_url": "https://www.bostonplaywrights.org",
       "description": "February 18 – March 7, 2027 on the Snodgrass Stage (949 Comm Ave.)",
       "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/b2c97af8-b525-4976-8e74-74352c31b90f/Rep-Poster-Roswell.jpg",
       "ticket_url": ""
@@ -707,7 +677,7 @@
       "theater_name": "Boston Playwrights' Theatre",
       "start_date": "2027-02-25",
       "end_date": "2027-03-07",
-      "show_url": "https://www.bostonplaywrights.org/our-26-27-season",
+      "show_url": "https://www.bostonplaywrights.org",
       "description": "February 25 – March 7, 2027 on the Snodgrass Stage (949 Comm Ave.)",
       "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/3af0b451-b9da-4f2f-aaa8-9d9f31e7cbfe/Rep-Poster-Parallel.jpg",
       "ticket_url": ""
@@ -911,6 +881,36 @@
       "description": "The untold true story of a Brooklyn kid who became a chart-busting, show-stopping, award-winning American icon. Created in collaboration with Neil Diamond himself, A Beautiful Noise: The Neil Diamond Musical is the uplifting true story of how a kid from Brooklyn became a chart-busting, show-stopping American rock icon.",
       "image_url": "https://boston.broadway.com/wp-content/uploads/2024/01/ABN_1200x1200-800x800.jpg",
       "ticket_url": "https://am.ticketmaster.com/baabos/buy?id=MTM4MQ=="
+    },
+    {
+      "title": "Operation Mincemeat",
+      "theater_name": "Emerson Colonial Theater",
+      "start_date": "2026-08-13",
+      "end_date": "2026-08-25",
+      "show_url": "https://boston.broadway.com/shows/operation-mincemeat/",
+      "description": "It’s 1943 and the Allies are on the ropes. Luckily, they’re about to gamble our futures on a stolen corpse. Singin’ in the Rain meets Strangers on a Train, it’s the fast-paced, hilarious true story of the secret mission that won WWII.",
+      "image_url": "https://boston.broadway.com/wp-content/uploads/2025/12/OPM_2627_1200x1200-800x800.jpg",
+      "ticket_url": "https://us.atgtickets.com/events/operation-mincemeat/emerson-colonial-theatre/calendar"
+    },
+    {
+      "title": "The Notebook",
+      "theater_name": "Emerson Colonial Theater",
+      "start_date": "2026-12-08",
+      "end_date": "2026-12-20",
+      "show_url": "https://boston.broadway.com/shows/the-notebook/",
+      "description": "Based on the best-selling novel that inspired the iconic film, The Notebook tells the story of Allie and Noah, both from different worlds, who share a lifetime of love despite the forces that threaten to pull them apart.",
+      "image_url": "https://boston.broadway.com/wp-content/uploads/2025/01/NOTE25-KEY-ART-8x8-Handoff-800x800.jpg",
+      "ticket_url": "https://us.atgtickets.com/events/the-notebook/emerson-colonial-theatre/calendar/"
+    },
+    {
+      "title": "The Who’s Tommy",
+      "theater_name": "Emerson Colonial Theater",
+      "start_date": "2027-05-04",
+      "end_date": "2027-05-16",
+      "show_url": "https://boston.broadway.com/showhttps://boston.broadway.com/shows/the-whos-tommy/s/the-notebook/",
+      "description": "In 1969, The Who created a rock opera that changed the course of music history. And now, it’s back in a dazzling all-new production that feels more relevant than ever.",
+      "image_url": "https://boston.broadway.com/wp-content/uploads/2026/01/TOM_1200x1200_Website-800x800.jpg",
+      "ticket_url": "https://boston.broadway.com/shows/the-whos-tommy/#tmwios"
     }
   ]
 }
