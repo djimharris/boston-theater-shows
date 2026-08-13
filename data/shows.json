@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T05:04:11.272609+00:00",
-  "total_shows": 91,
+  "generated_at": "2026-08-13T05:35:47.824708+00:00",
+  "total_shows": 98,
   "shows": [
     {
       "title": "Purpose",
@@ -63,6 +63,16 @@
       "ticket_url": ""
     },
     {
+      "title": "All My Sons",
+      "theater_name": "Lyric Stage Company",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-19",
+      "show_url": "https://www.lyricstage.com/production/all-my-sons-2/",
+      "description": "",
+      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/Lyric_Placeholder_Image.png",
+      "ticket_url": ""
+    },
+    {
       "title": "Peter Pan Goes Wrong",
       "theater_name": "Lyric Stage Company",
       "start_date": "2026-11-13",
@@ -80,6 +90,16 @@
       "show_url": "https://www.lyricstage.com/production/agatha-christies-the-mirror-crackd/",
       "description": "Hollywood meets English countryside. A murder mystery written in the stars.",
       "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/05/LSB_MCslider_1920x1080_FIN2.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "The Mirror Crack’d",
+      "theater_name": "Lyric Stage Company",
+      "start_date": "2027-02-28",
+      "end_date": "2027-02-28",
+      "show_url": "https://www.lyricstage.com/production/the-mirror-crackd/",
+      "description": "",
+      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/Lyric_Placeholder_Image.png",
       "ticket_url": ""
     },
     {
@@ -911,6 +931,56 @@
       "description": "In 1969, The Who created a rock opera that changed the course of music history. And now, it’s back in a dazzling all-new production that feels more relevant than ever.",
       "image_url": "https://boston.broadway.com/wp-content/uploads/2026/01/TOM_1200x1200_Website-800x800.jpg",
       "ticket_url": "https://boston.broadway.com/shows/the-whos-tommy/#tmwios"
+    },
+    {
+      "title": "Eleanor",
+      "theater_name": "Central Square Theater",
+      "start_date": "2026-09-10",
+      "end_date": "2026-10-04",
+      "show_url": "https://www.centralsquaretheater.org/shows/eleanor/",
+      "description": "In an intimate portrait of Eleanor Roosevelt, the most consequential First Lady in American history, audiences have a front row seat to her reflections on love, loss, politics, and purpose.",
+      "image_url": "https://www.centralsquaretheater.org/wp-content/uploads/2026/08/eleanor-1500x550-v2-768x282.jpg",
+      "ticket_url": "https://www.centralsquaretheater.org/calendar/buy-tickets-to-eleanor/"
+    },
+    {
+      "title": "The Getaway Driver",
+      "theater_name": "Central Square Theater",
+      "start_date": "2026-10-29",
+      "end_date": "2026-11-22",
+      "show_url": "https://www.centralsquaretheater.org/shows/the-getaway-driver/",
+      "description": "Based on the true story of Katherine Ann Power and Clare Schroeder, this gripping new drama follows two women bound by a single, life-altering moment. It’s 1970. College student Power joins an activist group to protest the war.",
+      "image_url": "https://www.centralsquaretheater.org/wp-content/uploads/2026/04/the-getaway-driver-1500x550-1-768x282.jpg",
+      "ticket_url": "https://www.centralsquaretheater.org/calendar/buy-tickets-to-the-getaway-driver/"
+    },
+    {
+      "title": "Arcadia",
+      "theater_name": "Central Square Theater",
+      "start_date": "2027-02-04",
+      "end_date": "2027-02-28",
+      "show_url": "https://www.centralsquaretheater.org/shows/arcadia-2027/",
+      "description": "Derbyshire, England, 1809: A brilliant thirteen year-old, Lady Thomasina Coverly, proposes a scientific theory with implications well beyond her own understanding.",
+      "image_url": "https://www.centralsquaretheater.org/wp-content/uploads/2026/05/2026-arcadia-1500x550-1-768x282.jpg",
+      "ticket_url": "https://www.centralsquaretheater.org/calendar/buy-tickets-to-arcadia/"
+    },
+    {
+      "title": "Working",
+      "theater_name": "Central Square Theater",
+      "start_date": "2027-04-01",
+      "end_date": "2027-04-25",
+      "show_url": "https://www.centralsquaretheater.org/shows/working/",
+      "description": "Central Square Theater once again joins forces with The Front Porch Arts Collective on a stirring musical amplifying the voices and dignity of everyday people, while revealing the human cost behind labor in America.",
+      "image_url": "https://www.centralsquaretheater.org/wp-content/uploads/2026/05/working-1500w-768x282.jpg",
+      "ticket_url": "https://www.centralsquaretheater.org/calendar/buy-tickets-to-working/"
+    },
+    {
+      "title": "The Importance of Being Earnest",
+      "theater_name": "Central Square Theater",
+      "start_date": "2027-06-03",
+      "end_date": "2027-06-27",
+      "show_url": "https://www.centralsquaretheater.org/2026-27-season/",
+      "description": "Oscar Wilde’s The Importance of Being Earnest springs from the mind of Bedlam Artistic Director Eric Tucker in an exhilarating three-actor staging.",
+      "image_url": "https://www.centralsquaretheater.org/wp-content/uploads/2026/05/fy27-earnest-1500x550-1-768x282.jpg",
+      "ticket_url": "https://www.centralsquaretheater.org/calendar/buy-tickets-to-the-importance-of-being-earnest/"
     }
   ]
 }
