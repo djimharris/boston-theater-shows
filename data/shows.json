@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T10:55:43.031184+00:00",
-  "total_shows": 98,
+  "generated_at": "2026-08-14T10:51:07.413494+00:00",
+  "total_shows": 97,
   "shows": [
     {
       "title": "Purpose",
@@ -9,7 +9,7 @@
       "end_date": "2026-10-11",
       "show_url": "https://www.huntingtontheatre.org/whats-on/purpose/",
       "description": "",
-      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/north-homepage2.jpg?fit=1000%2C800",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/Web-Showart-Purpose-1.jpg?fit=1000%2C800",
       "ticket_url": "https://www.huntingtontheatre.org/whats-on/purpose/#performance-picker"
     },
     {
@@ -19,7 +19,7 @@
       "end_date": "2026-11-08",
       "show_url": "https://www.huntingtontheatre.org/whats-on/to-kill-a-mockingbird/",
       "description": "",
-      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/TheHuntington_26-27-Season-TKAM.jpg?fit=1995%2C1596",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/Web-Showart-TKAM.jpg?fit=1000%2C800",
       "ticket_url": "https://www.huntingtontheatre.org/whats-on/to-kill-a-mockingbird/#performance-picker"
     },
     {
@@ -39,7 +39,7 @@
       "end_date": "2026-12-13",
       "show_url": "https://www.huntingtontheatre.org/whats-on/adia-clora-snatch-joy/",
       "description": "",
-      "image_url": "https://images.huntingtontheatre.org/uploads/2026/06/6.16-adia.jpg?fit=1995%2C1596",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/home-pageWeb-Showart-Adia-and-Clora.jpg?fit=1000%2C800",
       "ticket_url": "https://www.huntingtontheatre.org/whats-on/adia-clora-snatch-joy/#performance-picker"
     },
     {
@@ -63,16 +63,6 @@
       "ticket_url": ""
     },
     {
-      "title": "All My Sons",
-      "theater_name": "Lyric Stage Company",
-      "start_date": "2026-10-19",
-      "end_date": "2026-10-19",
-      "show_url": "https://www.lyricstage.com/production/all-my-sons-2/",
-      "description": "",
-      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/Lyric_Placeholder_Image.png",
-      "ticket_url": ""
-    },
-    {
       "title": "Peter Pan Goes Wrong",
       "theater_name": "Lyric Stage Company",
       "start_date": "2026-11-13",
@@ -90,16 +80,6 @@
       "show_url": "https://www.lyricstage.com/production/agatha-christies-the-mirror-crackd/",
       "description": "Hollywood meets English countryside. A murder mystery written in the stars.",
       "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/05/LSB_MCslider_1920x1080_FIN2.jpg",
-      "ticket_url": ""
-    },
-    {
-      "title": "The Mirror Crack’d",
-      "theater_name": "Lyric Stage Company",
-      "start_date": "2027-02-28",
-      "end_date": "2027-02-28",
-      "show_url": "https://www.lyricstage.com/production/the-mirror-crackd/",
-      "description": "",
-      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/Lyric_Placeholder_Image.png",
       "ticket_url": ""
     },
     {
@@ -123,16 +103,6 @@
       "ticket_url": ""
     },
     {
-      "title": "Community Garden",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-08-13",
-      "end_date": "2026-08-16",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/community-garden/",
-      "description": "SouthStage Theatre Works — BCA Black Box Theatre, 539 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/SSTW-2026-Flyers-900-x-900-px.png?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/community-garden/#performance-picker"
-    },
-    {
       "title": "Matilda Jr",
       "theater_name": "Boston Theatre Scene",
       "start_date": "2026-08-14",
@@ -141,6 +111,16 @@
       "description": "Spotlight Productions — BCA Plaza Theatre, 539 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/Matilda-1080x1350-1920-x-1080-px-scaled.jpg?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/matilda-jr/#performance-picker"
+    },
+    {
+      "title": "Community Garden",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-08-14",
+      "end_date": "2026-08-16",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/community-garden/",
+      "description": "SouthStage Theatre Works — BCA Black Box Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/SSTW-2026-Flyers-900-x-900-px.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/community-garden/#performance-picker"
     },
     {
       "title": "Angelo Colina en Boston (En Español)",
@@ -410,6 +390,16 @@
       "show_url": "https://artsemerson.org/events/dream-feed/#new_tab",
       "description": "Step inside a shared dream sequence with Grammy Award-winning band The HawtPlates.",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/Dream-Feed-AE-Overlay.png",
+      "ticket_url": ""
+    },
+    {
+      "title": "Ballet BC",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "show_url": "https://emersontheatres.org/event/ballet-bc/",
+      "description": "Presented by Vivo Performing Arts Ballet BC Vancouver's Ballet BC arrives with a program that moves through tenderness, ecstasy, and raw human longing. Under artistic director Medhi Walerski, a...",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/07/Ballet-BC-MAJ-350x255-1.png",
       "ticket_url": ""
     },
     {
