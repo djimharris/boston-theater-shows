@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T10:51:07.413494+00:00",
-  "total_shows": 97,
+  "generated_at": "2026-08-15T10:14:45.793790+00:00",
+  "total_shows": 96,
   "shows": [
     {
       "title": "Purpose",
@@ -103,19 +103,9 @@
       "ticket_url": ""
     },
     {
-      "title": "Matilda Jr",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-08-14",
-      "end_date": "2026-08-14",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/matilda-jr/",
-      "description": "Spotlight Productions — BCA Plaza Theatre, 539 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/Matilda-1080x1350-1920-x-1080-px-scaled.jpg?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/matilda-jr/#performance-picker"
-    },
-    {
       "title": "Community Garden",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-08-14",
+      "start_date": "2026-08-15",
       "end_date": "2026-08-16",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/community-garden/",
       "description": "SouthStage Theatre Works — BCA Black Box Theatre, 539 Tremont St.",
