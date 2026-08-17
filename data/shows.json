@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T10:15:37.414018+00:00",
-  "total_shows": 95,
+  "generated_at": "2026-08-17T10:24:13.246599+00:00",
+  "total_shows": 94,
   "shows": [
     {
       "title": "Purpose",
@@ -101,16 +101,6 @@
       "description": "Forever Revolutionary",
       "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/05/LSB_LMslider_1920x1080_FIN2.jpg",
       "ticket_url": ""
-    },
-    {
-      "title": "Community Garden",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-08-16",
-      "end_date": "2026-08-16",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/community-garden/",
-      "description": "SouthStage Theatre Works — BCA Black Box Theatre, 539 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/SSTW-2026-Flyers-900-x-900-px.png?resize=400%2C400&gravity",
-      "ticket_url": "https://secure.bostontheatrescene.com/31711/31717"
     },
     {
       "title": "Nerdy Prudes Must Die",
