@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T10:24:13.246599+00:00",
-  "total_shows": 94,
+  "generated_at": "2026-08-18T10:20:11.821184+00:00",
+  "total_shows": 101,
   "shows": [
     {
       "title": "Purpose",
@@ -63,6 +63,16 @@
       "ticket_url": ""
     },
     {
+      "title": "All My Sons",
+      "theater_name": "Lyric Stage Company",
+      "start_date": "2026-09-18",
+      "end_date": "2026-10-18",
+      "show_url": "https://www.lyricstage.com/production/all-my-sons-2/",
+      "description": "",
+      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/Lyric_Placeholder_Image.png",
+      "ticket_url": ""
+    },
+    {
       "title": "Peter Pan Goes Wrong",
       "theater_name": "Lyric Stage Company",
       "start_date": "2026-11-13",
@@ -83,6 +93,16 @@
       "ticket_url": ""
     },
     {
+      "title": "The Mirror Crack’d",
+      "theater_name": "Lyric Stage Company",
+      "start_date": "2027-02-05",
+      "end_date": "2027-02-28",
+      "show_url": "https://www.lyricstage.com/production/the-mirror-crackd/",
+      "description": "",
+      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/Lyric_Placeholder_Image.png",
+      "ticket_url": ""
+    },
+    {
       "title": "King James",
       "theater_name": "Lyric Stage Company",
       "start_date": "2027-03-19",
@@ -93,6 +113,16 @@
       "ticket_url": ""
     },
     {
+      "title": "King James",
+      "theater_name": "Lyric Stage Company",
+      "start_date": "2027-03-19",
+      "end_date": "2027-04-11",
+      "show_url": "https://www.lyricstage.com/production/king-james-2/",
+      "description": "",
+      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/Lyric_Placeholder_Image.png",
+      "ticket_url": ""
+    },
+    {
       "title": "Les Misérables",
       "theater_name": "Lyric Stage Company",
       "start_date": "2027-04-30",
@@ -100,6 +130,46 @@
       "show_url": "https://www.lyricstage.com/production/les-miserables/",
       "description": "Forever Revolutionary",
       "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/05/LSB_LMslider_1920x1080_FIN2.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "Les Misérables",
+      "theater_name": "Lyric Stage Company",
+      "start_date": "2027-04-30",
+      "end_date": "2027-06-20",
+      "show_url": "https://www.lyricstage.com/production/les-miserables-2/",
+      "description": "",
+      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/Lyric_Placeholder_Image.png",
+      "ticket_url": ""
+    },
+    {
+      "title": "All My Sons",
+      "theater_name": "Lyric Stage Company",
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-01",
+      "show_url": "https://www.lyricstage.com/production/all-my-sons-2/",
+      "description": "",
+      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/Lyric_Placeholder_Image.png",
+      "ticket_url": ""
+    },
+    {
+      "title": "King James",
+      "theater_name": "Lyric Stage Company",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-01",
+      "show_url": "https://www.lyricstage.com/production/king-james-2/",
+      "description": "",
+      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/Lyric_Placeholder_Image.png",
+      "ticket_url": ""
+    },
+    {
+      "title": "Les Misérables",
+      "theater_name": "Lyric Stage Company",
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-01",
+      "show_url": "https://www.lyricstage.com/production/les-miserables-2/",
+      "description": "",
+      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/Lyric_Placeholder_Image.png",
       "ticket_url": ""
     },
     {
