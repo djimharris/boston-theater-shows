@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T10:20:11.821184+00:00",
-  "total_shows": 101,
+  "generated_at": "2026-08-19T10:20:35.699123+00:00",
+  "total_shows": 99,
   "shows": [
     {
       "title": "Purpose",
@@ -53,6 +53,16 @@
       "ticket_url": "https://www.huntingtontheatre.org/whats-on/north-by-northwest/#performance-picker"
     },
     {
+      "title": "Meet the Cartozians",
+      "theater_name": "Huntington Theatre",
+      "start_date": "2027-02-18",
+      "end_date": "2027-03-21",
+      "show_url": "https://www.huntingtontheatre.org/whats-on/meet-the-cartozians/",
+      "description": "",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/home-pageWeb-Showart-MTC.jpg?fit=1000%2C800",
+      "ticket_url": "https://www.huntingtontheatre.org/whats-on/meet-the-cartozians/#performance-picker"
+    },
+    {
       "title": "All My Sons",
       "theater_name": "Lyric Stage Company",
       "start_date": "2026-09-18",
@@ -60,16 +70,6 @@
       "show_url": "https://www.lyricstage.com/production/all-my-sons/",
       "description": "How far would you go to protect the ones you love?",
       "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/05/LSB_ASslider_1920x1080_FIN2.jpg",
-      "ticket_url": ""
-    },
-    {
-      "title": "All My Sons",
-      "theater_name": "Lyric Stage Company",
-      "start_date": "2026-09-18",
-      "end_date": "2026-10-18",
-      "show_url": "https://www.lyricstage.com/production/all-my-sons-2/",
-      "description": "",
-      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/Lyric_Placeholder_Image.png",
       "ticket_url": ""
     },
     {
@@ -83,23 +83,13 @@
       "ticket_url": ""
     },
     {
-      "title": "Agatha Christie’s The Mirror Crack’d",
+      "title": "The Mirror Crack’d",
       "theater_name": "Lyric Stage Company",
       "start_date": "2027-02-05",
       "end_date": "2027-02-28",
       "show_url": "https://www.lyricstage.com/production/agatha-christies-the-mirror-crackd/",
       "description": "Hollywood meets English countryside. A murder mystery written in the stars.",
       "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/05/LSB_MCslider_1920x1080_FIN2.jpg",
-      "ticket_url": ""
-    },
-    {
-      "title": "The Mirror Crack’d",
-      "theater_name": "Lyric Stage Company",
-      "start_date": "2027-02-05",
-      "end_date": "2027-02-28",
-      "show_url": "https://www.lyricstage.com/production/the-mirror-crackd/",
-      "description": "",
-      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/Lyric_Placeholder_Image.png",
       "ticket_url": ""
     },
     {
@@ -113,16 +103,6 @@
       "ticket_url": ""
     },
     {
-      "title": "King James",
-      "theater_name": "Lyric Stage Company",
-      "start_date": "2027-03-19",
-      "end_date": "2027-04-11",
-      "show_url": "https://www.lyricstage.com/production/king-james-2/",
-      "description": "",
-      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/Lyric_Placeholder_Image.png",
-      "ticket_url": ""
-    },
-    {
       "title": "Les Misérables",
       "theater_name": "Lyric Stage Company",
       "start_date": "2027-04-30",
@@ -133,23 +113,13 @@
       "ticket_url": ""
     },
     {
-      "title": "Les Misérables",
-      "theater_name": "Lyric Stage Company",
-      "start_date": "2027-04-30",
-      "end_date": "2027-06-20",
-      "show_url": "https://www.lyricstage.com/production/les-miserables-2/",
-      "description": "",
-      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/Lyric_Placeholder_Image.png",
-      "ticket_url": ""
-    },
-    {
       "title": "All My Sons",
       "theater_name": "Lyric Stage Company",
       "start_date": "2026-10-01",
       "end_date": "2026-10-01",
-      "show_url": "https://www.lyricstage.com/production/all-my-sons-2/",
-      "description": "",
-      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/Lyric_Placeholder_Image.png",
+      "show_url": "https://www.lyricstage.com/production/all-my-sons/",
+      "description": "How far would you go to protect the ones you love?",
+      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/05/LSB_ASslider_1920x1080_FIN2.jpg",
       "ticket_url": ""
     },
     {
@@ -157,9 +127,9 @@
       "theater_name": "Lyric Stage Company",
       "start_date": "2026-04-01",
       "end_date": "2026-04-01",
-      "show_url": "https://www.lyricstage.com/production/king-james-2/",
-      "description": "",
-      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/Lyric_Placeholder_Image.png",
+      "show_url": "https://www.lyricstage.com/production/king-james/",
+      "description": "Fans first. Friends forever.",
+      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/05/LSB_KJslider_1920x1080_FIN2.jpg",
       "ticket_url": ""
     },
     {
@@ -167,9 +137,9 @@
       "theater_name": "Lyric Stage Company",
       "start_date": "2026-05-01",
       "end_date": "2026-05-01",
-      "show_url": "https://www.lyricstage.com/production/les-miserables-2/",
-      "description": "",
-      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/07/Lyric_Placeholder_Image.png",
+      "show_url": "https://www.lyricstage.com/production/les-miserables/",
+      "description": "Forever Revolutionary",
+      "image_url": "https://www.lyricstage.com/wp-content/uploads/2026/05/LSB_LMslider_1920x1080_FIN2.jpg",
       "ticket_url": ""
     },
     {
@@ -351,6 +321,16 @@
       "description": "The Roberts Studio Theatre, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/LBRR1.webp?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/little-bear-ridge-road/#performance-picker"
+    },
+    {
+      "title": "Meet the Cartozians",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2027-02-18",
+      "end_date": "2027-03-21",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/cartozians/",
+      "description": "The Huntington — The Calderwood Pavilion, 527 Tremont St. The Wimberly Theatre, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/03/Updated-7.15.26-TheHuntington_26-27-Season-MTC.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/cartozians/#performance-picker"
     },
     {
       "title": "By Any Other Name",
@@ -935,8 +915,8 @@
     {
       "title": "Operation Mincemeat",
       "theater_name": "Emerson Colonial Theater",
-      "start_date": "2026-08-13",
-      "end_date": "2026-08-25",
+      "start_date": "2026-10-13",
+      "end_date": "2026-10-25",
       "show_url": "https://boston.broadway.com/shows/operation-mincemeat/",
       "description": "It’s 1943 and the Allies are on the ropes. Luckily, they’re about to gamble our futures on a stolen corpse. Singin’ in the Rain meets Strangers on a Train, it’s the fast-paced, hilarious true story of the secret mission that won WWII.",
       "image_url": "https://boston.broadway.com/wp-content/uploads/2025/12/OPM_2627_1200x1200-800x800.jpg",
