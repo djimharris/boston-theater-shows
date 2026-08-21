@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T10:21:41.692724+00:00",
-  "total_shows": 97,
+  "generated_at": "2026-08-21T10:21:49.570846+00:00",
+  "total_shows": 100,
   "shows": [
     {
       "title": "Purpose",
@@ -271,6 +271,16 @@
       "description": "Huntington Selects — The Calderwood Pavilion, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/04/Nobody-Cares-Square.jpg?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/laura-benanti-nobody-cares/#performance-picker"
+    },
+    {
+      "title": "Sound and Color",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-25",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/sound-and-color/",
+      "description": "Fourth Dimension Tap Company — The Roberts Studio Theatre, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/08/Fourth-Dimension-Square-Image-aspect-ratio-0-0.jpeg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/sound-and-color/#performance-picker"
     },
     {
       "title": "You're A Good Man, Charlie Brown",
@@ -679,7 +689,7 @@
       "end_date": "2026-11-22",
       "show_url": "https://www.bostonplaywrights.org",
       "description": "November 5 – 22, 2026 on the Snodgrass Stage (949 Comm Ave.)",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/288e5f94-034b-47ed-abb1-f7eef28dbaaa/Rep-Poster-Phoenix.jpg",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/e37394ef-fd1b-4706-9eea-3b3e546516d2/Rep-Poster-Phoenix-Final.jpg",
       "ticket_url": "https://ci.ovationtix.com/168/production/1280746"
     },
     {
@@ -689,7 +699,7 @@
       "end_date": "2026-11-22",
       "show_url": "https://www.bostonplaywrights.org",
       "description": "November 12 – 22, 2026 on the Snodgrass Stage (949 Comm Ave.)",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/33d2caa1-7b6f-42ec-ab5f-4360f5cd53b1/Rep-Poster-Jessica.jpg",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/1533a5ad-8184-4701-89ea-966c6a44f906/Rep-Poster-Jessica-Final.jpg",
       "ticket_url": "https://ci.ovationtix.com/168/production/1280759"
     },
     {
@@ -751,6 +761,26 @@
       "description": "An immersive theatrical production directed by Diane Paulus and brought to life by the music of David Bowie. By special arrangement with the David Bowie Estate, Unigram, and Warner Music Group.",
       "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/04/2627-VisualsBW-LifeOnMars.jpg?resize=16%2C10&gravity",
       "ticket_url": ""
+    },
+    {
+      "title": "IS THIS A ROOM",
+      "theater_name": "Apollinaire Theatre Company",
+      "start_date": "2026-02-20",
+      "end_date": "2026-03-22",
+      "show_url": "https://www.apollinairetheatre.com/productions/season.php",
+      "description": "",
+      "image_url": "",
+      "ticket_url": "https://ci.ovationtix.com/34707/production/1253380"
+    },
+    {
+      "title": "A View from the Bridge",
+      "theater_name": "Apollinaire Theatre Company",
+      "start_date": "2026-04-17",
+      "end_date": "2026-05-10",
+      "show_url": "https://www.apollinairetheatre.com/productions/season.php",
+      "description": "",
+      "image_url": "",
+      "ticket_url": "https://ci.ovationtix.com/34707/production/1253381"
     },
     {
       "title": "Leonardo! A Wonderful Show about a Terrible Monster",
