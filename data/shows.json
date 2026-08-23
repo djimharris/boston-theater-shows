@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T10:15:00.042336+00:00",
+  "generated_at": "2026-08-23T10:15:21.756357+00:00",
   "total_shows": 100,
   "shows": [
     {
@@ -145,12 +145,12 @@
     {
       "title": "Nerdy Prudes Must Die",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-08-22",
+      "start_date": "2026-08-23",
       "end_date": "2026-08-23",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/nerdy-prudes-must-die/",
       "description": "Play Pretend Theater Company — BCA Plaza Theatre, 539 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/Site-Logo-NPMD.jpg?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/nerdy-prudes-must-die/#performance-picker"
+      "ticket_url": "https://secure.bostontheatrescene.com/31691/31695"
     },
     {
       "title": "The Nina Variations",
