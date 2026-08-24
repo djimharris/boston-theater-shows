@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-23T10:15:21.759417+00:00",
+  "last_run": "2026-08-24T10:30:06.286184+00:00",
   "total_sites": 11,
   "successful": 11,
   "failed": 0,
@@ -21,99 +21,99 @@
       "url": "https://www.huntingtontheatre.org/plays-and-events/",
       "success": true,
       "shows_found": 6,
-      "timestamp": "2026-08-23T10:15:08.714674+00:00",
+      "timestamp": "2026-08-24T10:29:52.036699+00:00",
       "error_message": "",
-      "duration_seconds": 2.27
+      "duration_seconds": 0.92
     },
     {
       "theater_name": "Lyric Stage Company",
       "url": "https://www.lyricstage.com/whats-on/",
       "success": true,
       "shows_found": 8,
-      "timestamp": "2026-08-23T10:15:10.984504+00:00",
+      "timestamp": "2026-08-24T10:29:52.953651+00:00",
       "error_message": "",
-      "duration_seconds": 0.48
+      "duration_seconds": 0.52
     },
     {
       "theater_name": "Boston Theatre Scene",
       "url": "https://www.bostontheatrescene.com/shows-and-events/",
       "success": true,
-      "shows_found": 21,
-      "timestamp": "2026-08-23T10:15:11.467921+00:00",
+      "shows_found": 20,
+      "timestamp": "2026-08-24T10:29:53.473756+00:00",
       "error_message": "",
-      "duration_seconds": 2.29
+      "duration_seconds": 1.82
     },
     {
       "theater_name": "Emerson Colonial Theatre",
       "url": "https://emersontheatres.org/",
       "success": true,
       "shows_found": 15,
-      "timestamp": "2026-08-23T10:15:13.757673+00:00",
+      "timestamp": "2026-08-24T10:29:55.297866+00:00",
       "error_message": "",
-      "duration_seconds": 0.15
+      "duration_seconds": 0.37
     },
     {
       "theater_name": "Central Square Theater",
       "url": "https://www.centralsquaretheater.org/shows-events/",
       "success": true,
       "shows_found": 5,
-      "timestamp": "2026-08-23T10:15:13.911605+00:00",
+      "timestamp": "2026-08-24T10:29:55.671021+00:00",
       "error_message": "",
-      "duration_seconds": 0.66
+      "duration_seconds": 0.78
     },
     {
       "theater_name": "SpeakEasy Stage Company",
       "url": "https://speakeasystage.com/shows/",
       "success": true,
       "shows_found": 12,
-      "timestamp": "2026-08-23T10:15:14.576048+00:00",
+      "timestamp": "2026-08-24T10:29:56.449235+00:00",
       "error_message": "",
-      "duration_seconds": 0.59
+      "duration_seconds": 0.65
     },
     {
       "theater_name": "Boston Playwrights' Theatre",
       "url": "https://www.bostonplaywrights.org",
       "success": true,
       "shows_found": 5,
-      "timestamp": "2026-08-23T10:15:15.162569+00:00",
+      "timestamp": "2026-08-24T10:29:57.097433+00:00",
       "error_message": "",
-      "duration_seconds": 1.36
+      "duration_seconds": 1.41
     },
     {
       "theater_name": "American Repertory Theater",
       "url": "https://americanrepertorytheater.org/shows-events/",
       "success": true,
       "shows_found": 4,
-      "timestamp": "2026-08-23T10:15:16.525272+00:00",
+      "timestamp": "2026-08-24T10:29:58.512264+00:00",
       "error_message": "",
-      "duration_seconds": 0.24
+      "duration_seconds": 1.57
     },
     {
       "theater_name": "Apollinaire Theatre Company",
       "url": "https://www.apollinairetheatre.com/productions/season.php",
       "success": true,
       "shows_found": 2,
-      "timestamp": "2026-08-23T10:15:16.765351+00:00",
+      "timestamp": "2026-08-24T10:30:00.087970+00:00",
       "error_message": "",
-      "duration_seconds": 0.57
+      "duration_seconds": 0.4
     },
     {
       "theater_name": "Wheelock Family Theatre",
       "url": "https://www.wheelockfamilytheatre.org/performances/now-playing/",
       "success": true,
       "shows_found": 3,
-      "timestamp": "2026-08-23T10:15:17.340233+00:00",
+      "timestamp": "2026-08-24T10:30:00.484402+00:00",
       "error_message": "",
-      "duration_seconds": 0.2
+      "duration_seconds": 1.03
     },
     {
       "theater_name": "Footlight Club",
       "url": "https://www.footlight.org/shows",
       "success": true,
       "shows_found": 4,
-      "timestamp": "2026-08-23T10:15:17.537888+00:00",
+      "timestamp": "2026-08-24T10:30:01.519555+00:00",
       "error_message": "",
-      "duration_seconds": 4.22
+      "duration_seconds": 4.76
     }
   ]
 }
