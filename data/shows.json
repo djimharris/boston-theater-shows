@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T10:26:42.522192+00:00",
-  "total_shows": 99,
+  "generated_at": "2026-08-27T20:04:52.265825+00:00",
+  "total_shows": 98,
   "shows": [
     {
       "title": "Purpose",
@@ -341,16 +341,6 @@
       "description": "The Roberts Studio Theatre, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/BAON1-CC.webp?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/by-any-other-name/#performance-picker"
-    },
-    {
-      "title": "RISE by the Sa Dance Company",
-      "theater_name": "Emerson Colonial Theatre",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-19",
-      "show_url": "https://emersontheatres.org/event/rise/",
-      "description": "Presented by Sa Dance Company: RISE An Indian American Dance Experience Experience the power, resilience, and spirit of womanhood in RISE, an immersive dance experience by The Sa Dance Company....",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/07/BOS-Homepage-Feature-1.jpg",
-      "ticket_url": ""
     },
     {
       "title": "The Maids",
