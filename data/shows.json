@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T14:51:00.845085+00:00",
+  "generated_at": "2026-08-30T14:35:44.175775+00:00",
   "total_shows": 98,
   "shows": [
     {
@@ -145,12 +145,12 @@
     {
       "title": "The Nina Variations",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-08-29",
+      "start_date": "2026-08-30",
       "end_date": "2026-08-30",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-nina-variations/",
       "description": "Leo Flora & Avis Russey — BCA Plaza Theatre, 539 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/ninavar_BTS.png?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-nina-variations/#performance-picker"
+      "ticket_url": "https://secure.bostontheatrescene.com/31682/31688"
     },
     {
       "title": "Black Box Afrobeats Xperience",
