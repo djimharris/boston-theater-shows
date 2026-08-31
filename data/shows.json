@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T14:35:44.175775+00:00",
-  "total_shows": 98,
+  "generated_at": "2026-08-31T17:19:42.665142+00:00",
+  "total_shows": 97,
   "shows": [
     {
       "title": "Purpose",
@@ -141,16 +141,6 @@
       "description": "Forever Revolutionary",
       "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
       "ticket_url": ""
-    },
-    {
-      "title": "The Nina Variations",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-08-30",
-      "end_date": "2026-08-30",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-nina-variations/",
-      "description": "Leo Flora & Avis Russey — BCA Plaza Theatre, 539 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/ninavar_BTS.png?resize=400%2C400&gravity",
-      "ticket_url": "https://secure.bostontheatrescene.com/31682/31688"
     },
     {
       "title": "Black Box Afrobeats Xperience",
@@ -710,7 +700,7 @@
       "show_url": "https://americanrepertorytheater.org/shows-events/rhinoceros/",
       "description": "Loeb Drama Center | Everything seems normal one Sunday morning…until it’s not. One by one, friends and colleagues transform into rhinoceroses, and Berenger is forced to decide: will he follow the...",
       "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/07/2627-Rhinoceros-WebCard-Header1.jpg?resize=16%2C10&gravity",
-      "ticket_url": "https://americanrepertorytheater.org/shows-events/rhinoceros/#book"
+      "ticket_url": ""
     },
     {
       "title": "Rhinoceros Post-show Conversations",
