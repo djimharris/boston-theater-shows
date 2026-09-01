@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T17:19:42.665142+00:00",
-  "total_shows": 97,
+  "generated_at": "2026-09-01T14:25:38.174295+00:00",
+  "total_shows": 98,
   "shows": [
     {
       "title": "Purpose",
@@ -271,6 +271,16 @@
       "description": "The Hive Theatre Company — BCA Plaza Theatre, 539 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/20262027-SEASON-POSTERS-900-x-900-px.png?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/youre-a-good-man-charlie-brown/#performance-picker"
+    },
+    {
+      "title": "Peter and the Starcatcher",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-08",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/peter-and-the-starcatcher/",
+      "description": "Walnut Hill School for the Arts — The Wimberly Theatre, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/08/peter-and-the-starcatcherlogo.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/peter-and-the-starcatcher/#performance-picker"
     },
     {
       "title": "Nacho Redondo: Terapia de Grupo",
