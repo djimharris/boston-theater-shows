@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T13:59:33.524516+00:00",
+  "generated_at": "2026-09-03T14:01:25.724648+00:00",
   "total_shows": 100,
   "shows": [
     {
@@ -21,6 +21,16 @@
       "description": "",
       "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/Web-Showart-TKAM.jpg?fit=1000%2C800",
       "ticket_url": "https://www.huntingtontheatre.org/whats-on/to-kill-a-mockingbird/#performance-picker"
+    },
+    {
+      "title": "Spotlight: VAMP'D OUT!",
+      "theater_name": "Huntington Theatre",
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-10",
+      "show_url": "https://www.huntingtontheatre.org/whats-on/spotlight-vampd-out/",
+      "description": "",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/08/Spotlight-Vamped-Out-10.10.26_1080x108011.jpg?fit=1000%2C800",
+      "ticket_url": "https://bostontheatrescene.huntingtontheatre.org/31799/31800"
     },
     {
       "title": "Laura Benanti: Nobody Cares",
@@ -51,16 +61,6 @@
       "description": "",
       "image_url": "https://images.huntingtontheatre.org/uploads/2026/05/north-homepage1.jpg?fit=1000%2C800",
       "ticket_url": "https://www.huntingtontheatre.org/whats-on/north-by-northwest/#performance-picker"
-    },
-    {
-      "title": "Meet the Cartozians",
-      "theater_name": "Huntington Theatre",
-      "start_date": "2027-02-18",
-      "end_date": "2027-03-21",
-      "show_url": "https://www.huntingtontheatre.org/whats-on/meet-the-cartozians/",
-      "description": "",
-      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/home-pageWeb-Showart-MTC.jpg?fit=1000%2C800",
-      "ticket_url": "https://www.huntingtontheatre.org/whats-on/meet-the-cartozians/#performance-picker"
     },
     {
       "title": "All My Sons",
@@ -730,7 +730,7 @@
       "show_url": "https://americanrepertorytheater.org/shows-events/rhinoceros/",
       "description": "Loeb Drama Center | Everything seems normal one Sunday morning…until it’s not. One by one, friends and colleagues transform into rhinoceroses, and Berenger is forced to decide: will he follow the...",
       "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/07/2627-Rhinoceros-WebCard-Header1.jpg?resize=16%2C10&gravity",
-      "ticket_url": "https://americanrepertorytheater.org/shows-events/rhinoceros/#book"
+      "ticket_url": ""
     },
     {
       "title": "Rhinoceros Post-show Conversations",
