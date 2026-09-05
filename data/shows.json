@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T13:54:25.923709+00:00",
-  "total_shows": 100,
+  "generated_at": "2026-09-05T13:08:58.406369+00:00",
+  "total_shows": 110,
   "shows": [
     {
       "title": "Purpose",
@@ -283,6 +283,16 @@
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/peter-and-the-starcatcher/#performance-picker"
     },
     {
+      "title": "THE BEAUTY QUEEN OF LEENANE",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-11-12",
+      "end_date": "2026-11-22",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-beauty-queen-of-leenane/",
+      "description": "Theater UnCorked — BCA Black Box Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Add-a-subheading.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-beauty-queen-of-leenane/#performance-picker"
+    },
+    {
       "title": "Nacho Redondo: Terapia de Grupo",
       "theater_name": "Boston Theatre Scene",
       "start_date": "2026-11-19",
@@ -373,6 +383,16 @@
       "ticket_url": ""
     },
     {
+      "title": "BARBECUE",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-17",
+      "show_url": "https://emersontheatres.org/event/barbecue/",
+      "description": "Emerson Stage Presents: The Henry Winkler Premier Production BARBECUE By Robert O'HaraDirected by Jonathan Kitt The O’ Mallerys have gathered in their local park to share some barbecue and straight...",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/08/EmStage-BARBECUE-700x510-1.jpg",
+      "ticket_url": ""
+    },
+    {
       "title": "Taylor Mac and Matt Ray: Songs from Bark of Millions",
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2026-10-15",
@@ -380,6 +400,16 @@
       "show_url": "https://artsemerson.org/events/taylor-mac-and-matt-ray-songs-from-bark-of-millions/#new_tab",
       "description": "If you’re not invited to the party, throw a better one!",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/Barks-AE-Overlay.png",
+      "ticket_url": ""
+    },
+    {
+      "title": "STARTING HERE, STARTING NOW",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-24",
+      "show_url": "https://emersontheatres.org/event/starting-here-starting-now/",
+      "description": "Emerson Stage Presents: STARTING HERE, STARTING NOW Music by David Shire;Lyrics by Richard Maltby, Jr.Directed by Scott LaFeberMusic Direction by Jonathan Goldberg Starting Here, Starting Now is a...",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/09/EmStage-STARTING_HERE-700x510-1.jpg",
       "ticket_url": ""
     },
     {
@@ -413,6 +443,16 @@
       "ticket_url": ""
     },
     {
+      "title": "CIRCLE MIRROR TRANSFORMATION",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-21",
+      "show_url": "https://emersontheatres.org/event/circle-mirror-tranformation/",
+      "description": "Emerson Stage Presents: CIRCLE MIRROR TRANSFORMATION By Annie BakerDirected by Alex Lonati When four lost New Englanders who enroll in Marty’s six-week-long community-center drama class begin to...",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/09/EmStage-CIRCLE_MIRROR-700x510-1.jpg",
+      "ticket_url": ""
+    },
+    {
       "title": "Dream Feed",
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2026-11-19",
@@ -433,6 +473,16 @@
       "ticket_url": ""
     },
     {
+      "title": "THREE SISTERS",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2026-12-02",
+      "end_date": "2026-12-05",
+      "show_url": "https://emersontheatres.org/event/three-sisters/",
+      "description": "Emerson Stage Presents: THREE SISTERS By Anton ChekhovTranslation by Paul SchmidtDirected by Craig Mathers Transplanted from their beloved Moscow to a provincial Russian town, three sisters –...",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/09/EmStage-THREE_SISTERS-700x510-1.jpg",
+      "ticket_url": ""
+    },
+    {
       "title": "Charles Dicken’s “A Christmas Carol”",
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2026-12-11",
@@ -443,6 +493,16 @@
       "ticket_url": ""
     },
     {
+      "title": "ALTRUISM & OTHER LIES",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2027-01-27",
+      "end_date": "2027-01-30",
+      "show_url": "https://emersontheatres.org/event/altruism-other-lies/",
+      "description": "Emerson Stage Presents: The Rod Parker Fellowship Production ALTRUISM & OTHER LIES By J.W. AndrewDirected by Joe Antoun A modern take on the screwball comedy of remarriage. To spare Frank’s...",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/09/EmStage-ALTRUISM-700x510-1.jpg",
+      "ticket_url": ""
+    },
+    {
       "title": "Wake",
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2027-02-11",
@@ -450,6 +510,16 @@
       "show_url": "https://artsemerson.org/events/wake/",
       "description": "Glitter, beats, and banging tunes: this Irish wake is the ultimate celebration of life.",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/WAKE-AE-Overlay-1.png",
+      "ticket_url": ""
+    },
+    {
+      "title": "CARRIE: THE MUSICAL",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2027-02-17",
+      "end_date": "2027-02-20",
+      "show_url": "https://emersontheatres.org/event/carrie-the-musical/",
+      "description": "Emerson Stage Presents: CARRIE: THE MUSICAL Music by Michael Gore; Lyrics by Dean PitchfordBook by Lawrence D. CohenBased on the novel by Stephen KingDirected & Choreographed by Christopher...",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/09/EmStage-CARRIE-700x510-1.jpg",
       "ticket_url": ""
     },
     {
@@ -483,6 +553,26 @@
       "ticket_url": ""
     },
     {
+      "title": "ANGELS IN AMERICA, PART ONE: MILLENNIUM APPROACHES",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2027-03-19",
+      "end_date": "2027-03-27",
+      "show_url": "https://emersontheatres.org/event/angels-in-america-part-one-millennium-approaches/",
+      "description": "Emerson Stage Presents: ANGELS IN AMERICA, PART ONE: MILLENNIUM APPROACHES By Tony KushnerDirected by Kathryn Walsh America in the mid-1980s. In the midst of the AIDS crisis and a conservative...",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/09/EmStage-ANGELS_IN_AMERICA-700x510-1.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "ANGELS IN AMERICA, PART TWO: PERESTROIKA",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2027-03-20",
+      "end_date": "2027-03-27",
+      "show_url": "https://emersontheatres.org/event/angels-in-america-part-two-perestroika/",
+      "description": "Emerson Stage Presents: ANGELS IN AMERICA, PART TWO: PERESTROIKA By Tony KushnerDirected by Rebecca Bradshaw Picks up the threads of our six New Yorkers whose relationships are in tatters and...",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/09/EmStage-ANGELS_IN_AMERICA-PART-2-700x510-1.jpg",
+      "ticket_url": ""
+    },
+    {
       "title": "Kunene and the King",
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2027-04-01",
@@ -490,6 +580,16 @@
       "show_url": "https://artsemerson.org/events/kunene-and-the-king/#new_tab",
       "description": "In post-apartheid South Africa two men must confront themselves, the past, and their beliefs.",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/kunene-overlay.png",
+      "ticket_url": ""
+    },
+    {
+      "title": "THE THREEPENNY OPERA",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2027-04-15",
+      "end_date": "2027-04-18",
+      "show_url": "https://emersontheatres.org/event/the-threepenny-opera/",
+      "description": "Emerson Stage Presents: THE THREEPENNY OPERA A play with music based on John Gay's THE BEGGAR'S OPERABy Bertoldt Brecht and Kurt Weill in collaboration with Elisabeth HauptmanEnglish Translation by...",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/09/EmStage-THREEPENNY-700x510-1.jpg",
       "ticket_url": ""
     },
     {
@@ -740,7 +840,7 @@
       "show_url": "https://americanrepertorytheater.org/shows-events/rhinoceros-post-show-conversations/",
       "description": "Loeb Drama Center | After a performance of Rhinoceros, director Diane Paulus leads a conversation with Tatiana Maslany and other members of the cast.",
       "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/07/2627-Rhinoceros-Events-Talkbacks-Web-Header.jpg?resize=16%2C10&gravity",
-      "ticket_url": "https://americanrepertorytheater.org/shows-events/rhinoceros-post-show-conversations/#book"
+      "ticket_url": "https://ticket.americanrepertorytheater.org/7701/7741"
     },
     {
       "title": "1972",
@@ -750,7 +850,7 @@
       "show_url": "https://americanrepertorytheater.org/shows-events/1972-a-rock-opera/",
       "description": "After Hannah barely escapes an illegal abortion, she meets the Janes, an underground network of courageous women who risk everything to provide a choice to women with nowhere to turn.",
       "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/04/2627-VisualsBW-1972.jpg?resize=16%2C10&gravity",
-      "ticket_url": "https://americanrepertorytheater.org/shows-events/1972-a-rock-opera/#book"
+      "ticket_url": ""
     },
     {
       "title": "Life on Mars",

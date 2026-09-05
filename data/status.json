@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-04T13:54:25.926078+00:00",
+  "last_run": "2026-09-05T13:08:58.408910+00:00",
   "total_sites": 11,
   "successful": 11,
   "failed": 0,
@@ -21,97 +21,97 @@
       "url": "https://www.huntingtontheatre.org/plays-and-events/",
       "success": true,
       "shows_found": 6,
-      "timestamp": "2026-09-04T13:54:10.685487+00:00",
+      "timestamp": "2026-09-05T13:08:44.672271+00:00",
       "error_message": "",
-      "duration_seconds": 1.22
+      "duration_seconds": 1.02
     },
     {
       "theater_name": "Lyric Stage Company",
       "url": "https://www.lyricstage.com/whats-on/",
       "success": true,
       "shows_found": 8,
-      "timestamp": "2026-09-04T13:54:11.907095+00:00",
+      "timestamp": "2026-09-05T13:08:45.690536+00:00",
       "error_message": "",
-      "duration_seconds": 0.82
+      "duration_seconds": 0.47
     },
     {
       "theater_name": "Boston Theatre Scene",
       "url": "https://www.bostontheatrescene.com/shows-and-events/",
       "success": true,
-      "shows_found": 22,
-      "timestamp": "2026-09-04T13:54:12.727449+00:00",
+      "shows_found": 23,
+      "timestamp": "2026-09-05T13:08:46.164082+00:00",
       "error_message": "",
-      "duration_seconds": 2.29
+      "duration_seconds": 2.37
     },
     {
       "theater_name": "Emerson Colonial Theatre",
       "url": "https://emersontheatres.org/",
       "success": true,
-      "shows_found": 14,
-      "timestamp": "2026-09-04T13:54:15.014359+00:00",
+      "shows_found": 23,
+      "timestamp": "2026-09-05T13:08:48.534182+00:00",
       "error_message": "",
-      "duration_seconds": 0.3
+      "duration_seconds": 0.23
     },
     {
       "theater_name": "Central Square Theater",
       "url": "https://www.centralsquaretheater.org/shows-events/",
       "success": true,
       "shows_found": 5,
-      "timestamp": "2026-09-04T13:54:15.317342+00:00",
+      "timestamp": "2026-09-05T13:08:48.767318+00:00",
       "error_message": "",
-      "duration_seconds": 0.64
+      "duration_seconds": 0.58
     },
     {
       "theater_name": "SpeakEasy Stage Company",
       "url": "https://speakeasystage.com/shows/",
       "success": true,
       "shows_found": 12,
-      "timestamp": "2026-09-04T13:54:15.955798+00:00",
+      "timestamp": "2026-09-05T13:08:49.345572+00:00",
       "error_message": "",
-      "duration_seconds": 1.15
+      "duration_seconds": 0.59
     },
     {
       "theater_name": "Boston Playwrights' Theatre",
       "url": "https://www.bostonplaywrights.org",
       "success": true,
       "shows_found": 5,
-      "timestamp": "2026-09-04T13:54:17.111697+00:00",
+      "timestamp": "2026-09-05T13:08:49.933222+00:00",
       "error_message": "",
-      "duration_seconds": 1.46
+      "duration_seconds": 1.26
     },
     {
       "theater_name": "American Repertory Theater",
       "url": "https://americanrepertorytheater.org/shows-events/",
       "success": true,
       "shows_found": 4,
-      "timestamp": "2026-09-04T13:54:18.571933+00:00",
+      "timestamp": "2026-09-05T13:08:51.192459+00:00",
       "error_message": "",
-      "duration_seconds": 1.41
+      "duration_seconds": 1.27
     },
     {
       "theater_name": "Apollinaire Theatre Company",
       "url": "https://www.apollinairetheatre.com/productions/season.php",
       "success": true,
       "shows_found": 2,
-      "timestamp": "2026-09-04T13:54:19.978394+00:00",
+      "timestamp": "2026-09-05T13:08:52.458732+00:00",
       "error_message": "",
-      "duration_seconds": 0.25
+      "duration_seconds": 0.56
     },
     {
       "theater_name": "Wheelock Family Theatre",
       "url": "https://www.wheelockfamilytheatre.org/performances/now-playing/",
       "success": true,
       "shows_found": 3,
-      "timestamp": "2026-09-04T13:54:20.233030+00:00",
+      "timestamp": "2026-09-05T13:08:53.023218+00:00",
       "error_message": "",
-      "duration_seconds": 0.61
+      "duration_seconds": 0.31
     },
     {
       "theater_name": "Footlight Club",
       "url": "https://www.footlight.org/shows",
       "success": true,
       "shows_found": 4,
-      "timestamp": "2026-09-04T13:54:20.847967+00:00",
+      "timestamp": "2026-09-05T13:08:53.334427+00:00",
       "error_message": "",
       "duration_seconds": 5.07
     }
