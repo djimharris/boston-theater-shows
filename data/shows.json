@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T13:59:00.176499+00:00",
-  "total_shows": 108,
+  "generated_at": "2026-09-11T13:58:04.684828+00:00",
+  "total_shows": 110,
   "shows": [
     {
       "title": "Purpose",
@@ -61,6 +61,16 @@
       "description": "",
       "image_url": "https://images.huntingtontheatre.org/uploads/2026/05/north-homepage1.jpg?fit=1000%2C800",
       "ticket_url": "https://www.huntingtontheatre.org/whats-on/north-by-northwest/#performance-picker"
+    },
+    {
+      "title": "Meet the Cartozians",
+      "theater_name": "Huntington Theatre",
+      "start_date": "2027-02-18",
+      "end_date": "2027-03-21",
+      "show_url": "https://www.huntingtontheatre.org/whats-on/meet-the-cartozians/",
+      "description": "",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/home-pageWeb-Showart-MTC.jpg?fit=1000%2C800",
+      "ticket_url": "https://www.huntingtontheatre.org/whats-on/meet-the-cartozians/#performance-picker"
     },
     {
       "title": "All My Sons",
@@ -145,7 +155,7 @@
     {
       "title": "Purpose",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-09-10",
+      "start_date": "2026-09-11",
       "end_date": "2026-10-11",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/",
       "description": "The Huntington — The Calderwood Pavilion, 527 Tremont St.",
@@ -181,6 +191,16 @@
       "description": "The Roberts Studio Theatre, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/COV1-CC.webp?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/#performance-picker"
+    },
+    {
+      "title": "Realm of Illusion",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-27",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/realm-of-illusion/",
+      "description": "Bamboo Harmony Arts Corporation — BCA Plaza Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2025/04/BTS-thumbnail.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/realm-of-illusion/#performance-picker"
     },
     {
       "title": "sweet prince",
@@ -820,7 +840,7 @@
       "show_url": "https://americanrepertorytheater.org/shows-events/rhinoceros/",
       "description": "Loeb Drama Center | Everything seems normal one Sunday morning…until it’s not. One by one, friends and colleagues transform into rhinoceroses, and Berenger is forced to decide: will he follow the...",
       "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/07/2627-Rhinoceros-WebCard-Header1.jpg?resize=16%2C10&gravity",
-      "ticket_url": ""
+      "ticket_url": "https://americanrepertorytheater.org/shows-events/rhinoceros/#book"
     },
     {
       "title": "1972",
