@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T13:58:04.684828+00:00",
-  "total_shows": 110,
+  "generated_at": "2026-09-12T13:16:44.520422+00:00",
+  "total_shows": 111,
   "shows": [
     {
       "title": "Purpose",
@@ -155,7 +155,7 @@
     {
       "title": "Purpose",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-09-11",
+      "start_date": "2026-09-12",
       "end_date": "2026-10-11",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/",
       "description": "The Huntington — The Calderwood Pavilion, 527 Tremont St.",
@@ -180,7 +180,7 @@
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/wife-and-death/",
       "description": "Human Content — The Huntington Theatre, 264 Huntington Ave.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/WAD.Header.900x900.jpeg?resize=400%2C400&gravity",
-      "ticket_url": "https://secure.bostontheatrescene.com/31646/31647"
+      "ticket_url": ""
     },
     {
       "title": "Covenant",
@@ -199,7 +199,7 @@
       "end_date": "2026-09-27",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/realm-of-illusion/",
       "description": "Bamboo Harmony Arts Corporation — BCA Plaza Theatre, 539 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2025/04/BTS-thumbnail.png?resize=400%2C400&gravity",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/31-3.png?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/realm-of-illusion/#performance-picker"
     },
     {
@@ -783,7 +783,7 @@
       "ticket_url": ""
     },
     {
-      "title": "Four new plays in two rep festivals",
+      "title": "Four new plays in two rep festivals + THE ICONIC BOSTON THEATER MARATHON",
       "theater_name": "Boston Playwrights' Theatre",
       "start_date": "2026-11-05",
       "end_date": "2026-11-22",
@@ -830,6 +830,16 @@
       "show_url": "https://www.bostonplaywrights.org",
       "description": "February 25 – March 7, 2027 on the Snodgrass Stage (949 Comm Ave.)",
       "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/3af0b451-b9da-4f2f-aaa8-9d9f31e7cbfe/Rep-Poster-Parallel.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "BOSTON THEATER MARATHON XXIX",
+      "theater_name": "Boston Playwrights' Theatre",
+      "start_date": "2027-06-06",
+      "end_date": "2027-06-06",
+      "show_url": "https://www.bostonplaywrights.org",
+      "description": "Sunday, June 6, 2027 from 11:00am to 10:00pmat the Joan and Edgar Booth Theatre, 820 Commonwealth Avenue, Boston",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/76d0ca48-65fa-405e-b46b-7776a3a76398/BTM_target.png",
       "ticket_url": ""
     },
     {
