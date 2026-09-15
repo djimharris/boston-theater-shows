@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T16:04:49.469511+00:00",
-  "total_shows": 111,
+  "generated_at": "2026-09-15T14:34:26.725681+00:00",
+  "total_shows": 112,
   "shows": [
     {
       "title": "Purpose",
@@ -83,6 +83,16 @@
       "ticket_url": ""
     },
     {
+      "title": "Senior Year Project",
+      "theater_name": "Lyric Stage Company",
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-22",
+      "show_url": "https://www.lyricstage.com/production/senior-year-project/",
+      "description": "The toughest school project is simply being yourself",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
       "title": "Peter Pan Goes Wrong",
       "theater_name": "Lyric Stage Company",
       "start_date": "2026-11-13",
@@ -150,16 +160,6 @@
       "show_url": "https://www.lyricstage.com/production/les-miserables/",
       "description": "Forever Revolutionary",
       "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "ticket_url": ""
-    },
-    {
-      "title": "Wife and Death - The Glaucomfleckens Live",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-09-14",
-      "end_date": "2026-09-14",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/wife-and-death/",
-      "description": "Human Content — The Huntington Theatre, 264 Huntington Ave.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/WAD.Header.900x900.jpeg?resize=400%2C400&gravity",
       "ticket_url": ""
     },
     {
@@ -430,6 +430,16 @@
       "show_url": "https://emersontheatres.org/event/a-streetcar-named-desire/",
       "description": "A Streetcar Named Desire Presented by Boston Lyric Opera “Real? Who wants real?… I want magic!” The sweltering heat of a New Orleans summer sets the tone for the simmering...",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/07/700x510-1.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "CONTINUUM",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "show_url": "https://emersontheatres.org/event/continuum/",
+      "description": "CONTINUUM Never Still. Always Becoming. ChoreographersAli CederholmChloe CrenshawJon Ole OlstadKen OssolaRobert StephenYury Yanowsky WorksCisneSyntheticaDust and WaterMoving...",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/09/Continuum-Homepage-Feature-700-pxl-x-510-pxl.jpg",
       "ticket_url": ""
     },
     {
