@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T14:29:47.050765+00:00",
+  "generated_at": "2026-09-17T14:34:13.151557+00:00",
   "total_shows": 112,
   "shows": [
     {
@@ -165,7 +165,7 @@
     {
       "title": "Purpose",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-09-16",
+      "start_date": "2026-09-17",
       "end_date": "2026-10-11",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/",
       "description": "The Huntington — The Calderwood Pavilion, 527 Tremont St.",
@@ -229,7 +229,7 @@
       "end_date": "2026-10-17",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/stand-up-to-save-lives-an-evening-with-alex-borstein/",
       "description": "Save One Life — The Wimberly Theatre, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/Save-One-Life-Alex-Borstein-2.png?resize=400%2C400&gravity",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/Save-One-Life-Alex-Borstein-5.png?resize=400%2C400&gravity",
       "ticket_url": "https://secure.bostontheatrescene.com/31756/31757"
     },
     {
@@ -797,7 +797,7 @@
       "theater_name": "Boston Playwrights' Theatre",
       "start_date": "2026-11-05",
       "end_date": "2026-11-22",
-      "show_url": "https://www.bostonplaywrights.org",
+      "show_url": "http://bostonplaywrights.org/ct/jessica",
       "description": "November 5 – 22, 2026 on the Snodgrass Stage (949 Comm Ave.)",
       "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/e37394ef-fd1b-4706-9eea-3b3e546516d2/Rep-Poster-Phoenix-Final.jpg",
       "ticket_url": "https://ci.ovationtix.com/168/production/1280759"
@@ -807,7 +807,7 @@
       "theater_name": "Boston Playwrights' Theatre",
       "start_date": "2026-11-05",
       "end_date": "2026-11-22",
-      "show_url": "https://www.bostonplaywrights.org",
+      "show_url": "http://bostonplaywrights.org/ct/phoenix",
       "description": "November 5 – 22, 2026 on the Snodgrass Stage (949 Comm Ave.)",
       "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/e37394ef-fd1b-4706-9eea-3b3e546516d2/Rep-Poster-Phoenix-Final.jpg",
       "ticket_url": "https://ci.ovationtix.com/168/production/1280746"
@@ -817,7 +817,7 @@
       "theater_name": "Boston Playwrights' Theatre",
       "start_date": "2026-11-12",
       "end_date": "2026-11-22",
-      "show_url": "https://www.bostonplaywrights.org",
+      "show_url": "http://bostonplaywrights.org/ct/jessica",
       "description": "November 12 – 22, 2026 on the Snodgrass Stage (949 Comm Ave.)",
       "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/1533a5ad-8184-4701-89ea-966c6a44f906/Rep-Poster-Jessica-Final.jpg",
       "ticket_url": "https://ci.ovationtix.com/168/production/1280759"
