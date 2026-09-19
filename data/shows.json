@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T13:59:59.705347+00:00",
-  "total_shows": 112,
+  "generated_at": "2026-09-19T13:36:49.829389+00:00",
+  "total_shows": 113,
   "shows": [
     {
       "title": "Purpose",
@@ -75,7 +75,7 @@
     {
       "title": "All My Sons",
       "theater_name": "Lyric Stage Company",
-      "start_date": "2026-09-18",
+      "start_date": "2026-09-19",
       "end_date": "2026-10-18",
       "show_url": "https://www.lyricstage.com/production/all-my-sons/",
       "description": "How far would you go to protect the ones you love?",
@@ -165,7 +165,7 @@
     {
       "title": "Purpose",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-09-18",
+      "start_date": "2026-09-19",
       "end_date": "2026-10-11",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/",
       "description": "The Huntington — The Calderwood Pavilion, 527 Tremont St.",
@@ -311,6 +311,16 @@
       "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-AC.jpg?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/adia-and-clora/#performance-picker"
+    },
+    {
+      "title": "Happy Birthday, Wanda June!",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-12-02",
+      "end_date": "2026-12-06",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/happy-birthday-wanda-june/",
+      "description": "Deadword Theatre Co. — BCA Black Box Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2025/04/BTS-thumbnail.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/happy-birthday-wanda-june/#performance-picker"
     },
     {
       "title": "Library Lion",
