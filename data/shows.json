@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T13:36:49.829389+00:00",
+  "generated_at": "2026-09-20T13:50:43.939435+00:00",
   "total_shows": 113,
   "shows": [
     {
@@ -75,7 +75,7 @@
     {
       "title": "All My Sons",
       "theater_name": "Lyric Stage Company",
-      "start_date": "2026-09-19",
+      "start_date": "2026-09-20",
       "end_date": "2026-10-18",
       "show_url": "https://www.lyricstage.com/production/all-my-sons/",
       "description": "How far would you go to protect the ones you love?",
@@ -165,7 +165,7 @@
     {
       "title": "Purpose",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-09-19",
+      "start_date": "2026-09-20",
       "end_date": "2026-10-11",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/",
       "description": "The Huntington — The Calderwood Pavilion, 527 Tremont St.",
