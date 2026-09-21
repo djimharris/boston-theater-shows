@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T13:50:43.939435+00:00",
-  "total_shows": 113,
+  "generated_at": "2026-09-21T16:07:03.560818+00:00",
+  "total_shows": 114,
   "shows": [
     {
       "title": "Purpose",
@@ -75,7 +75,7 @@
     {
       "title": "All My Sons",
       "theater_name": "Lyric Stage Company",
-      "start_date": "2026-09-20",
+      "start_date": "2026-09-23",
       "end_date": "2026-10-18",
       "show_url": "https://www.lyricstage.com/production/all-my-sons/",
       "description": "How far would you go to protect the ones you love?",
@@ -165,7 +165,7 @@
     {
       "title": "Purpose",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-09-20",
+      "start_date": "2026-09-22",
       "end_date": "2026-10-11",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/",
       "description": "The Huntington — The Calderwood Pavilion, 527 Tremont St.",
@@ -500,6 +500,16 @@
       "show_url": "https://emersontheatres.org/event/three-sisters/",
       "description": "Emerson Stage Presents: THREE SISTERS By Anton ChekhovTranslation by Paul SchmidtDirected by Craig Mathers Transplanted from their beloved Moscow to a provincial Russian town, three sisters –...",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/09/EmStage-THREE_SISTERS-700x510-1.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "Black Nativity by Langston Hughes – 2026",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2026-12-04",
+      "end_date": "2026-12-20",
+      "show_url": "https://emersontheatres.org/event/black-nativity-by-langston-hughes-2026/",
+      "description": "The National Center of Afro-American Artists, Inc. presents: Black Nativity By Langston Hughes The National Center of Afro-American Artists (NCAAA) proudly presents the 56th season of Langston...",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/09/2026-NCAA-Black-Nativity-BOX-OFFICE-Home-Page-700-x-510-FINAL-HR.png",
       "ticket_url": ""
     },
     {
