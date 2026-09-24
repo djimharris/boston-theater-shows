@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T14:34:53.406846+00:00",
-  "total_shows": 114,
+  "generated_at": "2026-09-24T14:33:06.610482+00:00",
+  "total_shows": 113,
   "shows": [
     {
       "title": "Purpose",
@@ -165,7 +165,7 @@
     {
       "title": "Purpose",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-09-23",
+      "start_date": "2026-09-25",
       "end_date": "2026-10-11",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/",
       "description": "The Huntington — The Calderwood Pavilion, 527 Tremont St.",
@@ -381,16 +381,6 @@
       "description": "The Roberts Studio Theatre, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/BAON1-CC.webp?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/by-any-other-name/#performance-picker"
-    },
-    {
-      "title": "The Maids",
-      "theater_name": "Emerson Colonial Theatre",
-      "start_date": "2026-10-07",
-      "end_date": "2026-10-07",
-      "show_url": "https://emersontheatres.org/event/the-maids/",
-      "description": "Presented by ArtBuzz Productions & Sheep. Co Entertainment The Maids by Roman Viktyuk based on the play by J. Genet Roman Viktyuk’s legendary play “The Maids” has been on stage...",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/06/Boston-The-Maid-350_255.png",
-      "ticket_url": ""
     },
     {
       "title": "BARBECUE",
