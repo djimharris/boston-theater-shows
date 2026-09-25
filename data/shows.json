@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T14:33:06.610482+00:00",
-  "total_shows": 113,
+  "generated_at": "2026-09-25T14:53:39.746066+00:00",
+  "total_shows": 116,
   "shows": [
     {
       "title": "Purpose",
@@ -69,16 +69,16 @@
       "end_date": "2027-03-21",
       "show_url": "https://www.huntingtontheatre.org/whats-on/meet-the-cartozians/",
       "description": "",
-      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/home-pageWeb-Showart-MTC.jpg?fit=1000%2C800",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/Updated-9.24.26-Web-Showart-MTC.jpg?fit=1000%2C800",
       "ticket_url": "https://www.huntingtontheatre.org/whats-on/meet-the-cartozians/#performance-picker"
     },
     {
       "title": "All My Sons",
       "theater_name": "Lyric Stage Company",
-      "start_date": "2026-09-24",
-      "end_date": "2026-10-18",
+      "start_date": "2026-09-30",
+      "end_date": "2026-10-25",
       "show_url": "https://www.lyricstage.com/production/all-my-sons/",
-      "description": "How far would you go to protect the ones you love?",
+      "description": "PLEASE NOTE: Due to cast illness and the weather forecast, we have cancelled all performances through Sunday, September 26th and extended the run through Sunday, October 25th. Please contact the...",
       "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
       "ticket_url": ""
     },
@@ -138,7 +138,7 @@
       "start_date": "2026-10-01",
       "end_date": "2026-10-01",
       "show_url": "https://www.lyricstage.com/production/all-my-sons/",
-      "description": "How far would you go to protect the ones you love?",
+      "description": "PLEASE NOTE: Due to cast illness and the weather forecast, we have cancelled all performances through Sunday, September 26th and extended the run through Sunday, October 25th. Please contact the...",
       "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
       "ticket_url": ""
     },
@@ -163,16 +163,6 @@
       "ticket_url": ""
     },
     {
-      "title": "Purpose",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-09-25",
-      "end_date": "2026-10-11",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/",
-      "description": "The Huntington — The Calderwood Pavilion, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-Purpose.jpg?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/#performance-picker"
-    },
-    {
       "title": "Covenant",
       "theater_name": "Boston Theatre Scene",
       "start_date": "2026-09-25",
@@ -181,6 +171,16 @@
       "description": "The Roberts Studio Theatre, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/COV1-CC.webp?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/#performance-picker"
+    },
+    {
+      "title": "Purpose",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-09-25",
+      "end_date": "2026-10-11",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/",
+      "description": "The Huntington — The Calderwood Pavilion, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-Purpose.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/#performance-picker"
     },
     {
       "title": "Realm of Illusion",
@@ -293,6 +293,16 @@
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-beauty-queen-of-leenane/#performance-picker"
     },
     {
+      "title": "Le Porteur d'Histoire",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-15",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/le-porteur-dhistoire/",
+      "description": "The French Theater Project — The Wimberly Theatre, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/LPH-BTS-square-900x900-v1.0.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/le-porteur-dhistoire/#performance-picker"
+    },
+    {
       "title": "Nacho Redondo: Terapia de Grupo",
       "theater_name": "Boston Theatre Scene",
       "start_date": "2026-11-19",
@@ -383,6 +393,16 @@
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/by-any-other-name/#performance-picker"
     },
     {
+      "title": "Cinefest Latino Boston",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-04",
+      "show_url": "https://artsemerson.org/events/cinefest-latino-2026/#new_tab",
+      "description": "CineFest Latino Boston LLC is an annual film festival conducted in Boston, highlighting stories by and about Latinos. The festival is committed to using the power of film to break...",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/09/cinefest-AE-overlay.png",
+      "ticket_url": ""
+    },
+    {
       "title": "BARBECUE",
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2026-10-14",
@@ -400,6 +420,16 @@
       "show_url": "https://artsemerson.org/events/taylor-mac-and-matt-ray-songs-from-bark-of-millions/#new_tab",
       "description": "If you’re not invited to the party, throw a better one!",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/Barks-AE-Overlay.png",
+      "ticket_url": ""
+    },
+    {
+      "title": "The Boston Asian American Film Festival",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2026-10-15",
+      "end_date": "2026-10-25",
+      "show_url": "https://artsemerson.org/events/boston-asian-american-film-festival-2026/#new_tab",
+      "description": "The Boston Asian American Film Festival (BAAFF) empowers Asian Americans through film by showcasing Asian American experiences and serving as a resource to filmmakers and the Greater Boston...",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/09/BAAFF-710.png",
       "ticket_url": ""
     },
     {
