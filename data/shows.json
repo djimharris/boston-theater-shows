@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T14:53:39.746066+00:00",
-  "total_shows": 116,
+  "generated_at": "2026-09-26T13:59:01.327198+00:00",
+  "total_shows": 115,
   "shows": [
     {
       "title": "Purpose",
@@ -163,24 +163,24 @@
       "ticket_url": ""
     },
     {
-      "title": "Covenant",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-09-25",
-      "end_date": "2026-10-17",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/",
-      "description": "The Roberts Studio Theatre, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/COV1-CC.webp?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/#performance-picker"
-    },
-    {
       "title": "Purpose",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-09-25",
+      "start_date": "2026-09-26",
       "end_date": "2026-10-11",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/",
       "description": "The Huntington — The Calderwood Pavilion, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-Purpose.jpg?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/#performance-picker"
+    },
+    {
+      "title": "Covenant",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-09-26",
+      "end_date": "2026-10-17",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/",
+      "description": "The Roberts Studio Theatre, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/COV1-CC.webp?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/#performance-picker"
     },
     {
       "title": "Realm of Illusion",
@@ -261,6 +261,16 @@
       "description": "Fourth Dimension Tap Company — The Roberts Studio Theatre, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/08/Fourth-Dimension-Square-Image-aspect-ratio-0-0.jpeg?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/sound-and-color/#performance-picker"
+    },
+    {
+      "title": "The Wash",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-10-31",
+      "end_date": "2026-11-22",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/",
+      "description": "Front Porch Arts Collective — The Wimberly Theatre, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Ticketing-Graphic.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/#performance-picker"
     },
     {
       "title": "You're A Good Man, Charlie Brown",
@@ -921,26 +931,6 @@
       "description": "An immersive theatrical production directed by Diane Paulus and brought to life by the music of David Bowie. By special arrangement with the David Bowie Estate, Unigram, and Warner Music Group.",
       "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/04/2627-VisualsBW-LifeOnMars.jpg?resize=16%2C10&gravity",
       "ticket_url": ""
-    },
-    {
-      "title": "IS THIS A ROOM",
-      "theater_name": "Apollinaire Theatre Company",
-      "start_date": "2026-02-20",
-      "end_date": "2026-03-22",
-      "show_url": "https://www.apollinairetheatre.com/productions/season.php",
-      "description": "",
-      "image_url": "",
-      "ticket_url": "https://ci.ovationtix.com/34707/production/1253380"
-    },
-    {
-      "title": "A View from the Bridge",
-      "theater_name": "Apollinaire Theatre Company",
-      "start_date": "2026-04-17",
-      "end_date": "2026-05-10",
-      "show_url": "https://www.apollinairetheatre.com/productions/season.php",
-      "description": "",
-      "image_url": "",
-      "ticket_url": "https://ci.ovationtix.com/34707/production/1253381"
     },
     {
       "title": "Leonardo! A Wonderful Show about a Terrible Monster",
