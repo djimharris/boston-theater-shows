@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T13:59:01.327198+00:00",
-  "total_shows": 115,
+  "generated_at": "2026-09-27T14:55:16.301075+00:00",
+  "total_shows": 117,
   "shows": [
     {
       "title": "Purpose",
@@ -165,7 +165,7 @@
     {
       "title": "Purpose",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-09-26",
+      "start_date": "2026-09-27",
       "end_date": "2026-10-11",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/",
       "description": "The Huntington — The Calderwood Pavilion, 527 Tremont St.",
@@ -173,24 +173,24 @@
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/#performance-picker"
     },
     {
+      "title": "Realm of Illusion",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-09-27",
+      "end_date": "2026-09-27",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/realm-of-illusion/",
+      "description": "Bamboo Harmony Arts Corporation — BCA Plaza Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/31-3.png?resize=400%2C400&gravity",
+      "ticket_url": "https://secure.bostontheatrescene.com/31854/31856"
+    },
+    {
       "title": "Covenant",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-09-26",
+      "start_date": "2026-09-27",
       "end_date": "2026-10-17",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/",
       "description": "The Roberts Studio Theatre, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/COV1-CC.webp?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/#performance-picker"
-    },
-    {
-      "title": "Realm of Illusion",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-27",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/realm-of-illusion/",
-      "description": "Bamboo Harmony Arts Corporation — BCA Plaza Theatre, 539 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/31-3.png?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/realm-of-illusion/#performance-picker"
     },
     {
       "title": "sweet prince",
@@ -910,7 +910,7 @@
       "show_url": "https://americanrepertorytheater.org/shows-events/rhinoceros/",
       "description": "Loeb Drama Center | Everything seems normal one Sunday morning…until it’s not. One by one, friends and colleagues transform into rhinoceroses, and Berenger is forced to decide: will he follow the...",
       "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/07/2627-Rhinoceros-WebCard-Header1.jpg?resize=16%2C10&gravity",
-      "ticket_url": ""
+      "ticket_url": "https://ticket.americanrepertorytheater.org/7701/7957"
     },
     {
       "title": "1972",
@@ -931,6 +931,26 @@
       "description": "An immersive theatrical production directed by Diane Paulus and brought to life by the music of David Bowie. By special arrangement with the David Bowie Estate, Unigram, and Warner Music Group.",
       "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/04/2627-VisualsBW-LifeOnMars.jpg?resize=16%2C10&gravity",
       "ticket_url": ""
+    },
+    {
+      "title": "IS THIS A ROOM",
+      "theater_name": "Apollinaire Theatre Company",
+      "start_date": "2026-02-20",
+      "end_date": "2026-03-22",
+      "show_url": "https://www.apollinairetheatre.com/productions/season.php",
+      "description": "",
+      "image_url": "",
+      "ticket_url": "https://ci.ovationtix.com/34707/production/1253380"
+    },
+    {
+      "title": "A View from the Bridge",
+      "theater_name": "Apollinaire Theatre Company",
+      "start_date": "2026-04-17",
+      "end_date": "2026-05-10",
+      "show_url": "https://www.apollinairetheatre.com/productions/season.php",
+      "description": "",
+      "image_url": "",
+      "ticket_url": "https://ci.ovationtix.com/34707/production/1253381"
     },
     {
       "title": "Leonardo! A Wonderful Show about a Terrible Monster",
