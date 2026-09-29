@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T17:54:14.202066+00:00",
-  "total_shows": 115,
+  "generated_at": "2026-09-29T16:16:32.249657+00:00",
+  "total_shows": 116,
   "shows": [
     {
       "title": "Purpose",
@@ -331,6 +331,16 @@
       "description": "Deadword Theatre Co. — BCA Black Box Theatre, 539 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2025/04/BTS-thumbnail.png?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/happy-birthday-wanda-june/#performance-picker"
+    },
+    {
+      "title": "The River Echoes",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-12-19",
+      "end_date": "2026-12-20",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-river-echoes/",
+      "description": "Kaaya Vritti — BCA Plaza Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2025/04/BTS-thumbnail.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-river-echoes/#performance-picker"
     },
     {
       "title": "Library Lion",
