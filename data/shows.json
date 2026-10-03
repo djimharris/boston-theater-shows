@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T16:03:01.348330+00:00",
-  "total_shows": 105,
+  "generated_at": "2026-10-03T14:28:58.087546+00:00",
+  "total_shows": 117,
   "shows": [
     {
       "title": "Purpose",
@@ -165,7 +165,7 @@
     {
       "title": "Covenant",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-02",
+      "start_date": "2026-10-03",
       "end_date": "2026-10-17",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/",
       "description": "The Roberts Studio Theatre, 527 Tremont St.",
@@ -175,7 +175,7 @@
     {
       "title": "Purpose",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-02",
+      "start_date": "2026-10-03",
       "end_date": "2026-10-11",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/",
       "description": "The Huntington — The Calderwood Pavilion, 527 Tremont St.",
@@ -730,6 +730,126 @@
       "show_url": "https://www.centralsquaretheater.org/shows/the-mystery-of-irma-vep-a-penny-dreadful/",
       "description": "",
       "image_url": "",
+      "ticket_url": ""
+    },
+    {
+      "title": "BY ANY OTHER NAME",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2027-05-07",
+      "end_date": "2027-05-29",
+      "show_url": "https://speakeasystage.com/shows/2027/05/by-any-other-name/",
+      "description": "Shakespeare’s heroines. Off script. Finally. Shakespeare’s heroines are done dying, marrying, and generally behaving.When the Bard’s most iconic young women collide in a magically glitched...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "LITTLE BEAR RIDGE ROAD",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2027-01-29",
+      "end_date": "2027-02-20",
+      "show_url": "https://speakeasystage.com/shows/2027/01/little-bear-ridge-road/",
+      "description": "2026 Tony Nominee for Best Play! They’re family. That doesn’t make it easy. On the outskirts of a small Idaho town, an aunt and nephew who barely know each other find themselves sharing a house...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "Covenant",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2026-09-25",
+      "end_date": "2026-10-17",
+      "show_url": "https://speakeasystage.com/shows/2026/09/covenant/",
+      "description": "In this town, a good myth might as well be the truth. Johnny “Honeycomb” James comes back home famous, changed, and impossible to explain. The voice is real, but the rumors are loud. In a town that...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "Swept Away",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2026-04-24",
+      "end_date": "2026-05-23",
+      "show_url": "https://speakeasystage.com/shows/2026/04/swept-away/",
+      "description": "A storm. A shipwreck. Four survivors. As they fight to stay alive, these New Bedford whalers must confront who they are, what they’ve done, and whether forgiveness is possible. Featuring music from...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "The Antiquities",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2026-03-06",
+      "end_date": "2026-03-28",
+      "show_url": "https://speakeasystage.com/shows/2026/03/the-antiquities/",
+      "description": "In the not-so-distant future, a team of curators at the Museum of Late Human Antiquities painstakingly reconstruct the past: vinyl records, yoga mats, even grief itself. But as their exhibit grows...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "JOB",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2026-01-16",
+      "end_date": "2026-02-07",
+      "show_url": "https://speakeasystage.com/shows/2026/01/job/",
+      "description": "One viral video. One career on the edge. One hour to decide: is she ready to go back? Jane wants her Big Tech job back. Loyd, the therapist assigned to assess her, isn’t so sure. As their session...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "Lizard Boy: A NEW MUSICAL",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2025-10-24",
+      "end_date": "2025-11-22",
+      "show_url": "https://speakeasystage.com/shows/2025/10/lizard-boy/",
+      "description": "Trevor doesn’t get out much—but tonight, everything changes. What starts as a first date turns into an unexpected adventure in this funny, offbeat, and deeply moving new musical. Featuring a...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "Primary Trust",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2025-09-12",
+      "end_date": "2025-10-11",
+      "show_url": "https://speakeasystage.com/shows/2025/09/primary-trust/",
+      "description": "Kenneth works at a bookstore and spends his evenings at the local tiki bar. But when he’s suddenly laid off, his carefully ordered world starts to shift—pushing him into unexpected friendships...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "JAJA’S AFRICAN HAIR BRAIDING",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2025-05-02",
+      "end_date": "2025-05-31",
+      "show_url": "https://speakeasystage.com/shows/2025/05/jajas-african-hair-braiding/",
+      "description": "2024 Tony Nominee – Best Play! It’s a hot summer day in 2019, and in Harlem, Jaja’s African Hair Braiding salon is open for business, even though its eponymous owner is hours away from getting...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "a man of no importance",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2025-02-21",
+      "end_date": "2025-03-22",
+      "show_url": "https://speakeasystage.com/shows/2025/02/a-man-of-no-importance/",
+      "description": "1960s Dublin is the setting for this charming musical about the redemptive power of theatre, love, and friendship. Bus conductor Alfie Byrne has two joys in life: the poetry of Oscar Wilde and...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "Ain’t No Mo’",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2025-01-10",
+      "end_date": "2025-02-08",
+      "show_url": "https://speakeasystage.com/shows/2025/01/aint-no-mo/",
+      "description": "A CO-PRODUCTION WITH FRONT PORCH ARTS COLLECTIVE 2023 Tony Nominee – Best Play! “The powers that be have reassured me there’s room for everyone” declares Miss Peaches, the drag queen flight...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "ticket_url": ""
+    },
+    {
+      "title": "PRU PAYNE",
+      "theater_name": "SpeakEasy Stage Company",
+      "start_date": "2024-10-18",
+      "end_date": "2024-11-16",
+      "show_url": "https://speakeasystage.com/shows/2024/10/pru-payne/",
+      "description": "East Coast Premiere! Prudence “Pru” Payne is a contemporary Dorothy Parker: a sharp-tongued intellectual and critic who recently signed on to share her extraordinary life in an eagerly-awaited...",
+      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
       "ticket_url": ""
     },
     {
