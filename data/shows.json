@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:02:45.768150+00:00",
+  "generated_at": "2026-10-05T18:58:52.731148+00:00",
   "total_shows": 117,
   "shows": [
     {
@@ -79,7 +79,7 @@
       "end_date": "2027-06-06",
       "show_url": "https://www.huntingtontheatre.org/whats-on/unorthodox/",
       "description": "",
-      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/home-page-Web-Showart-UnOrthodox.jpg?fit=1000%2C800",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/show-page-Web-Showart-UnOrthodox.jpg?fit=1995%2C1596",
       "ticket_url": "https://www.huntingtontheatre.org/whats-on/unorthodox/#performance-picker"
     },
     {
@@ -165,7 +165,7 @@
     {
       "title": "Purpose",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-04",
+      "start_date": "2026-10-06",
       "end_date": "2026-10-11",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/",
       "description": "The Huntington — The Calderwood Pavilion, 527 Tremont St.",
@@ -175,7 +175,7 @@
     {
       "title": "Covenant",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-04",
+      "start_date": "2026-10-07",
       "end_date": "2026-10-17",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/",
       "description": "The Roberts Studio Theatre, 527 Tremont St.",
