@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T16:25:11.952646+00:00",
-  "total_shows": 117,
+  "generated_at": "2026-10-07T17:08:12.154740+00:00",
+  "total_shows": 116,
   "shows": [
     {
       "title": "Purpose",
@@ -165,7 +165,7 @@
     {
       "title": "Purpose",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-06",
+      "start_date": "2026-10-07",
       "end_date": "2026-10-11",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/",
       "description": "The Huntington — The Calderwood Pavilion, 527 Tremont St.",
@@ -411,16 +411,6 @@
       "description": "The Roberts Studio Theatre, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/BAON1-CC.webp?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/by-any-other-name/#performance-picker"
-    },
-    {
-      "title": "Cinefest Latino Boston",
-      "theater_name": "Emerson Colonial Theatre",
-      "start_date": "2026-10-01",
-      "end_date": "2026-10-04",
-      "show_url": "https://artsemerson.org/events/cinefest-latino-2026/#new_tab",
-      "description": "CineFest Latino Boston LLC is an annual film festival conducted in Boston, highlighting stories by and about Latinos. The festival is committed to using the power of film to break...",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/09/cinefest-AE-overlay.png",
-      "ticket_url": ""
     },
     {
       "title": "BARBECUE",
@@ -860,7 +850,7 @@
       "show_url": "http://bostonplaywrights.org/ct/jessica",
       "description": "November 5 – 22, 2026 on the Snodgrass Stage (949 Comm Ave.)",
       "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/e37394ef-fd1b-4706-9eea-3b3e546516d2/Rep-Poster-Phoenix-Final.jpg",
-      "ticket_url": "https://ci.ovationtix.com/168/production/1280759"
+      "ticket_url": "https://ci.ovationtix.com/168/store/packages/154349"
     },
     {
       "title": "white phoenix",
@@ -870,7 +860,7 @@
       "show_url": "http://bostonplaywrights.org/ct/phoenix",
       "description": "November 5 – 22, 2026 on the Snodgrass Stage (949 Comm Ave.)",
       "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/e37394ef-fd1b-4706-9eea-3b3e546516d2/Rep-Poster-Phoenix-Final.jpg",
-      "ticket_url": "https://ci.ovationtix.com/168/production/1280746"
+      "ticket_url": "https://ci.ovationtix.com/168/store/packages/154349"
     },
     {
       "title": "jessica of venice",
@@ -880,7 +870,7 @@
       "show_url": "http://bostonplaywrights.org/ct/jessica",
       "description": "November 12 – 22, 2026 on the Snodgrass Stage (949 Comm Ave.)",
       "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/1533a5ad-8184-4701-89ea-966c6a44f906/Rep-Poster-Jessica-Final.jpg",
-      "ticket_url": "https://ci.ovationtix.com/168/production/1280759"
+      "ticket_url": "https://ci.ovationtix.com/168/store/packages/154349"
     },
     {
       "title": "roswell",
