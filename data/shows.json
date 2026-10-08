@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T17:08:12.154740+00:00",
+  "generated_at": "2026-10-08T17:05:54.150688+00:00",
   "total_shows": 116,
   "shows": [
     {
@@ -165,7 +165,7 @@
     {
       "title": "Purpose",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-07",
+      "start_date": "2026-10-08",
       "end_date": "2026-10-11",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/",
       "description": "The Huntington — The Calderwood Pavilion, 527 Tremont St.",
@@ -175,10 +175,10 @@
     {
       "title": "Covenant",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-07",
+      "start_date": "2026-10-08",
       "end_date": "2026-10-17",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/",
-      "description": "The Roberts Studio Theatre, 527 Tremont St.",
+      "description": "SpeakEasy Stage Company — The Roberts Studio Theatre, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/COV1-CC.webp?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/#performance-picker"
     },
@@ -339,7 +339,7 @@
       "end_date": "2026-12-20",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/girl-crime/",
       "description": "The Dining Table Collective — BCA Black Box Theatre, 539 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/GIRL-CRIME-SQUARE-Dec.-2026.jpg?resize=400%2C400&gravity",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/GIRL-CRIME-SQUARE-Dec.-2026-v2.png?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/girl-crime/#performance-picker"
     },
     {
