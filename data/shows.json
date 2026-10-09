@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T17:05:54.150688+00:00",
+  "generated_at": "2026-10-09T16:44:24.590497+00:00",
   "total_shows": 116,
   "shows": [
     {
@@ -165,7 +165,7 @@
     {
       "title": "Purpose",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-08",
+      "start_date": "2026-10-09",
       "end_date": "2026-10-11",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/",
       "description": "The Huntington — The Calderwood Pavilion, 527 Tremont St.",
@@ -175,22 +175,12 @@
     {
       "title": "Covenant",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-08",
+      "start_date": "2026-10-09",
       "end_date": "2026-10-17",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/",
       "description": "SpeakEasy Stage Company — The Roberts Studio Theatre, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/COV1-CC.webp?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/#performance-picker"
-    },
-    {
-      "title": "Harper Lee's To Kill a Mockingbird",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-08",
-      "end_date": "2026-11-08",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
-      "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-TKAM-1.jpg?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/#performance-picker"
     },
     {
       "title": "I HATE AI!",
@@ -201,6 +191,16 @@
       "description": "Mela Productions — BCA Plaza Theatre, 539 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/I-HATE-AI_900px.png?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/i-hate-ai/#performance-picker"
+    },
+    {
+      "title": "Harper Lee's To Kill a Mockingbird",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-10-09",
+      "end_date": "2026-11-08",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
+      "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-TKAM-1.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/#performance-picker"
     },
     {
       "title": "Spotlight: VAMP'D OUT!",
