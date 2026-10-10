@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:44:24.590497+00:00",
+  "generated_at": "2026-10-10T15:39:05.248265+00:00",
   "total_shows": 116,
   "shows": [
     {
@@ -163,19 +163,9 @@
       "ticket_url": ""
     },
     {
-      "title": "Purpose",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-09",
-      "end_date": "2026-10-11",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/",
-      "description": "The Huntington — The Calderwood Pavilion, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-Purpose.jpg?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/#performance-picker"
-    },
-    {
       "title": "Covenant",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-09",
+      "start_date": "2026-10-10",
       "end_date": "2026-10-17",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/",
       "description": "SpeakEasy Stage Company — The Roberts Studio Theatre, 527 Tremont St.",
@@ -183,24 +173,34 @@
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/#performance-picker"
     },
     {
-      "title": "I HATE AI!",
+      "title": "Purpose",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-09",
+      "start_date": "2026-10-10",
       "end_date": "2026-10-11",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/i-hate-ai/",
-      "description": "Mela Productions — BCA Plaza Theatre, 539 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/I-HATE-AI_900px.png?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/i-hate-ai/#performance-picker"
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/",
+      "description": "The Huntington — The Calderwood Pavilion, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-Purpose.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/#performance-picker"
     },
     {
       "title": "Harper Lee's To Kill a Mockingbird",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-09",
+      "start_date": "2026-10-10",
       "end_date": "2026-11-08",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
       "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-TKAM-1.jpg?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/#performance-picker"
+    },
+    {
+      "title": "I HATE AI!",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-11",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/i-hate-ai/",
+      "description": "Mela Productions — BCA Plaza Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/I-HATE-AI_900px.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/i-hate-ai/#performance-picker"
     },
     {
       "title": "Spotlight: VAMP'D OUT!",
