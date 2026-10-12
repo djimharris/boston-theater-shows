@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-10-11T16:05:01.534002+00:00",
-  "total_shows": 114,
+  "generated_at": "2026-10-12T19:32:13.546957+00:00",
+  "total_shows": 111,
   "shows": [
-    {
-      "title": "Purpose",
-      "theater_name": "Huntington Theatre",
-      "start_date": "2026-09-10",
-      "end_date": "2026-10-11",
-      "show_url": "https://www.huntingtontheatre.org/whats-on/purpose/",
-      "description": "",
-      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/Web-Showart-Purpose-1.jpg?fit=1000%2C800",
-      "ticket_url": "https://www.huntingtontheatre.org/whats-on/purpose/"
-    },
     {
       "title": "Harper Lee's To Kill a Mockingbird",
       "theater_name": "Huntington Theatre",
@@ -153,44 +143,24 @@
       "ticket_url": ""
     },
     {
-      "title": "Purpose",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-11",
-      "end_date": "2026-10-11",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/purpose/",
-      "description": "The Huntington — The Calderwood Pavilion, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-Purpose.jpg?resize=400%2C400&gravity",
-      "ticket_url": ""
-    },
-    {
-      "title": "Covenant",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-11",
-      "end_date": "2026-10-17",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/",
-      "description": "SpeakEasy Stage Company — The Roberts Studio Theatre, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/COV1-CC.webp?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/#performance-picker"
-    },
-    {
-      "title": "I HATE AI!",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-11",
-      "end_date": "2026-10-11",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/i-hate-ai/",
-      "description": "Mela Productions — BCA Plaza Theatre, 539 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/I-HATE-AI_900px.png?resize=400%2C400&gravity",
-      "ticket_url": "https://secure.bostontheatrescene.com/31761/31764"
-    },
-    {
       "title": "Harper Lee's To Kill a Mockingbird",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-11",
+      "start_date": "2026-10-13",
       "end_date": "2026-11-08",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
       "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-TKAM-1.jpg?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/#performance-picker"
+    },
+    {
+      "title": "Covenant",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-17",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/",
+      "description": "SpeakEasy Stage Company — The Roberts Studio Theatre, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/COV1-CC.webp?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/#performance-picker"
     },
     {
       "title": "Stand Up to Save Lives: An Evening with Alex Borstein",
