@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T14:48:26.528894+00:00",
-  "total_shows": 111,
+  "generated_at": "2026-10-15T14:34:43.239304+00:00",
+  "total_shows": 113,
   "shows": [
     {
       "title": "Harper Lee's To Kill a Mockingbird",
@@ -145,7 +145,7 @@
     {
       "title": "Covenant",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-14",
+      "start_date": "2026-10-15",
       "end_date": "2026-10-17",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/",
       "description": "SpeakEasy Stage Company — The Roberts Studio Theatre, 527 Tremont St.",
@@ -155,7 +155,7 @@
     {
       "title": "Harper Lee's To Kill a Mockingbird",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-14",
+      "start_date": "2026-10-15",
       "end_date": "2026-11-08",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
       "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
@@ -291,6 +291,16 @@
       "description": "The Dining Table Collective — BCA Black Box Theatre, 539 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/GIRL-CRIME-SQUARE-Dec.-2026-v2.png?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/girl-crime/#performance-picker"
+    },
+    {
+      "title": "The Moth GrandSLAM",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-12-18",
+      "end_date": "2026-12-18",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-moth-grandslam/",
+      "description": "The Moth — The Huntington Theatre, 264 Huntington Ave.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/10/1080x1080.png?resize=400%2C400&gravity",
+      "ticket_url": "https://secure.bostontheatrescene.com/31946/31947"
     },
     {
       "title": "The River Echoes",
@@ -623,6 +633,16 @@
       "ticket_url": ""
     },
     {
+      "title": "KVADRAT",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2027-06-15",
+      "end_date": "2027-06-15",
+      "show_url": "https://emersontheatres.org/event/kvadrat/",
+      "description": "Cherry Orchard Festival Presents: KVADRAT Directed by: Marfa GorvitsStarring: Maxim Vitorgan, Semyon Steinberg, Ruslan Barabanov, Mikhail UmanetsSet Design: Sofia MatveevaMusic: Igor...",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/10/v2-700x510-Boston-Kvadrat.png",
+      "ticket_url": ""
+    },
+    {
       "title": "Silent Sky",
       "theater_name": "Central Square Theater",
       "start_date": "2025-09-11",
@@ -860,7 +880,7 @@
       "show_url": "https://americanrepertorytheater.org/shows-events/1972-a-rock-opera/",
       "description": "After Hannah barely escapes an illegal abortion, she meets the Janes, an underground network of courageous women who risk everything to provide a choice to women with nowhere to turn.",
       "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/09/2627-1972-WEBCARD-B.jpg?resize=16%2C10&gravity",
-      "ticket_url": ""
+      "ticket_url": "https://americanrepertorytheater.org/shows-events/1972-a-rock-opera/#book"
     },
     {
       "title": "Life on Mars",
