@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T14:34:43.239304+00:00",
-  "total_shows": 113,
+  "generated_at": "2026-10-16T14:25:58.244005+00:00",
+  "total_shows": 114,
   "shows": [
     {
       "title": "Harper Lee's To Kill a Mockingbird",
@@ -39,7 +39,7 @@
       "end_date": "2027-02-07",
       "show_url": "https://www.huntingtontheatre.org/whats-on/north-by-northwest/",
       "description": "",
-      "image_url": "https://images.huntingtontheatre.org/uploads/2026/05/north-homepage1.jpg?fit=1000%2C800",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/10/10.15.26-North-x-NW-Email-Web__masthead.jpg?fit=1995%2C1596",
       "ticket_url": "https://www.huntingtontheatre.org/whats-on/north-by-northwest/#performance-picker"
     },
     {
@@ -145,7 +145,7 @@
     {
       "title": "Covenant",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-15",
+      "start_date": "2026-10-16",
       "end_date": "2026-10-17",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/",
       "description": "SpeakEasy Stage Company — The Roberts Studio Theatre, 527 Tremont St.",
@@ -155,7 +155,7 @@
     {
       "title": "Harper Lee's To Kill a Mockingbird",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-15",
+      "start_date": "2026-10-16",
       "end_date": "2026-11-08",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
       "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
@@ -323,13 +323,13 @@
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/librarylion/#performance-picker"
     },
     {
-      "title": "Alfred Hitchcock's North By Northwest",
+      "title": "North By Northwest",
       "theater_name": "Boston Theatre Scene",
       "start_date": "2027-01-21",
       "end_date": "2027-02-07",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/north-by-northwest/",
       "description": "Huntington Selects — The Huntington Theatre, 264 Huntington Ave.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/04/North-x-NW-Social_Square.jpg?resize=400%2C400&gravity",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/10.15.26-North-x-NW-Social_Square.jpg?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/north-by-northwest/#performance-picker"
     },
     {
@@ -361,6 +361,16 @@
       "description": "Adam Theater — The Roberts Studio Theatre, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/The-Flood-1080x1080-1.jpg?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-flood/#performance-picker"
+    },
+    {
+      "title": "Unorthodox",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2027-05-06",
+      "end_date": "2027-06-06",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/unorthodox/",
+      "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/03/TheHuntington_26-27-Season-_IG2_UnOrthodox-scaled.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/unorthodox/#performance-picker"
     },
     {
       "title": "By Any Other Name",
