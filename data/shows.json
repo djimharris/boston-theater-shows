@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T14:25:58.244005+00:00",
-  "total_shows": 114,
+  "generated_at": "2026-10-17T13:23:19.242720+00:00",
+  "total_shows": 115,
   "shows": [
     {
       "title": "Harper Lee's To Kill a Mockingbird",
@@ -145,7 +145,7 @@
     {
       "title": "Covenant",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-16",
+      "start_date": "2026-10-17",
       "end_date": "2026-10-17",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/",
       "description": "SpeakEasy Stage Company — The Roberts Studio Theatre, 527 Tremont St.",
@@ -155,7 +155,7 @@
     {
       "title": "Harper Lee's To Kill a Mockingbird",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-16",
+      "start_date": "2026-10-17",
       "end_date": "2026-11-08",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
       "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
@@ -261,6 +261,16 @@
       "description": "Adelante Management Group — The Wimberly Theatre, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/08/Nacho-Redondo-Terapia-en-Grupo.jpeg?resize=400%2C400&gravity",
       "ticket_url": "https://secure.bostontheatrescene.com/31667/31668"
+    },
+    {
+      "title": "Misleading Lady with Jolene Cuisine",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/misleading-lady-with-jolene-cuisine/",
+      "description": "Huntington Hosts — The Maso Studio, 264 Huntington Ave.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/10/10.14.26-HT-Hosts-Jolene-x-MisLeading-Lady_IG2.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://secure.bostontheatrescene.com/31950/31951"
     },
     {
       "title": "Adia & Clora Snatch Joy",
