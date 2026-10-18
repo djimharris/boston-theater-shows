@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T13:23:19.242720+00:00",
-  "total_shows": 115,
+  "generated_at": "2026-10-18T13:42:14.280315+00:00",
+  "total_shows": 113,
   "shows": [
     {
       "title": "Harper Lee's To Kill a Mockingbird",
@@ -143,34 +143,14 @@
       "ticket_url": ""
     },
     {
-      "title": "Covenant",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-17",
-      "end_date": "2026-10-17",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/",
-      "description": "SpeakEasy Stage Company — The Roberts Studio Theatre, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/COV1-CC.webp?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/covenant/#performance-picker"
-    },
-    {
       "title": "Harper Lee's To Kill a Mockingbird",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-17",
+      "start_date": "2026-10-18",
       "end_date": "2026-11-08",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
       "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-TKAM-1.jpg?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/#performance-picker"
-    },
-    {
-      "title": "Stand Up to Save Lives: An Evening with Alex Borstein",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-17",
-      "end_date": "2026-10-17",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/stand-up-to-save-lives-an-evening-with-alex-borstein/",
-      "description": "Save One Life — The Wimberly Theatre, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/Save-One-Life-Alex-Borstein-5.png?resize=400%2C400&gravity",
-      "ticket_url": "https://secure.bostontheatrescene.com/31756/31757"
     },
     {
       "title": "Urinetown, The Musical",
@@ -900,7 +880,7 @@
       "show_url": "https://americanrepertorytheater.org/shows-events/1972-a-rock-opera/",
       "description": "After Hannah barely escapes an illegal abortion, she meets the Janes, an underground network of courageous women who risk everything to provide a choice to women with nowhere to turn.",
       "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/09/2627-1972-WEBCARD-B.jpg?resize=16%2C10&gravity",
-      "ticket_url": "https://americanrepertorytheater.org/shows-events/1972-a-rock-opera/#book"
+      "ticket_url": ""
     },
     {
       "title": "Life on Mars",
