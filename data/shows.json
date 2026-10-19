@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T13:42:14.280315+00:00",
+  "generated_at": "2026-10-19T16:43:41.716437+00:00",
   "total_shows": 113,
   "shows": [
     {
@@ -21,6 +21,16 @@
       "description": "",
       "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/laura-benanti-web2-scaled.jpg?fit=1995%2C1596",
       "ticket_url": "https://www.huntingtontheatre.org/whats-on/laura-benanti-nobody-cares/#performance-picker"
+    },
+    {
+      "title": "Misleading Lady with Jolene Cuisine",
+      "theater_name": "Huntington Theatre",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "show_url": "https://www.huntingtontheatre.org/whats-on/misleading-lady/",
+      "description": "",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/10/10.14.26-HT-Hosts-Jolene-x-MisLeading-Lady-Web.jpg?fit=1995%2C1596",
+      "ticket_url": "https://bostontheatrescene.huntingtontheatre.org/31950/31951"
     },
     {
       "title": "Adia & Clora Snatch Joy",
@@ -145,7 +155,7 @@
     {
       "title": "Harper Lee's To Kill a Mockingbird",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-18",
+      "start_date": "2026-10-20",
       "end_date": "2026-11-08",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
       "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
@@ -241,16 +251,6 @@
       "description": "Adelante Management Group — The Wimberly Theatre, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/08/Nacho-Redondo-Terapia-en-Grupo.jpeg?resize=400%2C400&gravity",
       "ticket_url": "https://secure.bostontheatrescene.com/31667/31668"
-    },
-    {
-      "title": "Misleading Lady with Jolene Cuisine",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/misleading-lady-with-jolene-cuisine/",
-      "description": "Huntington Hosts — The Maso Studio, 264 Huntington Ave.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/10/10.14.26-HT-Hosts-Jolene-x-MisLeading-Lady_IG2.jpg?resize=400%2C400&gravity",
-      "ticket_url": "https://secure.bostontheatrescene.com/31950/31951"
     },
     {
       "title": "Adia & Clora Snatch Joy",
