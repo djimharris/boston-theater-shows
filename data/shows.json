@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T14:35:34.188654+00:00",
+  "generated_at": "2026-10-21T14:47:11.320469+00:00",
   "total_shows": 113,
   "shows": [
     {
@@ -98,7 +98,7 @@
       "start_date": "2026-11-13",
       "end_date": "2026-12-31",
       "show_url": "https://www.lyricstage.com/production/peter-pan-goes-wrong/",
-      "description": "Here we go again.",
+      "description": "Magic and mayhem arrive this holiday season.",
       "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
       "ticket_url": ""
     },
@@ -155,7 +155,7 @@
     {
       "title": "Harper Lee's To Kill a Mockingbird",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-20",
+      "start_date": "2026-10-21",
       "end_date": "2026-11-08",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
       "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
@@ -888,7 +888,7 @@
       "start_date": "2027-05-18",
       "end_date": "2027-07-03",
       "show_url": "https://americanrepertorytheater.org/shows-events/life-on-mars/",
-      "description": "An immersive theatrical production directed by Diane Paulus and brought to life by the music of David Bowie. By special arrangement with the David Bowie Estate, Unigram, and Warner Music Group.",
+      "description": "A theatrical production directed by Diane Paulus and brought to life by the music of David Bowie. By special arrangement with the David Bowie Estate, Unigram, and Warner Music Group.",
       "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/04/2627-VisualsBW-LifeOnMars.jpg?resize=16%2C10&gravity",
       "ticket_url": ""
     },
