@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T14:47:10.780751+00:00",
-  "total_shows": 113,
+  "generated_at": "2026-10-23T14:33:47.972432+00:00",
+  "total_shows": 110,
   "shows": [
     {
       "title": "Harper Lee's To Kill a Mockingbird",
@@ -19,7 +19,7 @@
       "end_date": "2026-10-25",
       "show_url": "https://www.huntingtontheatre.org/whats-on/laura-benanti-nobody-cares/",
       "description": "",
-      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/laura-benanti-web2-scaled.jpg?fit=1995%2C1596",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/Masthead-1995x1250-2-e1792693890238.jpg?fit=1000%2C800",
       "ticket_url": "https://www.huntingtontheatre.org/whats-on/laura-benanti-nobody-cares/#performance-picker"
     },
     {
@@ -79,16 +79,6 @@
       "end_date": "2026-10-25",
       "show_url": "https://www.lyricstage.com/production/all-my-sons/",
       "description": "The truth is the only thing they can't afford.",
-      "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "ticket_url": ""
-    },
-    {
-      "title": "Senior Year Project",
-      "theater_name": "Lyric Stage Company",
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-22",
-      "show_url": "https://www.lyricstage.com/production/senior-year-project/",
-      "description": "The toughest school project is simply being yourself",
       "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
       "ticket_url": ""
     },
@@ -155,22 +145,12 @@
     {
       "title": "Urinetown, The Musical",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-22",
+      "start_date": "2026-10-23",
       "end_date": "2026-10-25",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/urinetown-the-musical/",
       "description": "Queer Artists & Players — BCA Plaza Theatre, 539 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/Urinetown-Poster-IG-900-x-900-px.png?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/urinetown-the-musical/#performance-picker"
-    },
-    {
-      "title": "Laura Benanti: Nobody Cares",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-22",
-      "end_date": "2026-10-25",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/laura-benanti-nobody-cares/",
-      "description": "Huntington Selects — The Calderwood Pavilion, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/04/Nobody-Cares-Square.jpg?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/laura-benanti-nobody-cares/#performance-picker"
     },
     {
       "title": "Harper Lee's To Kill a Mockingbird",
@@ -181,6 +161,16 @@
       "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-TKAM-1.jpg?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/#performance-picker"
+    },
+    {
+      "title": "Laura Benanti: Nobody Cares",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-25",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/laura-benanti-nobody-cares/",
+      "description": "Huntington Selects — The Calderwood Pavilion, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/04/Nobody-Cares-Square.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/laura-benanti-nobody-cares/#performance-picker"
     },
     {
       "title": "Sound and Color",
@@ -373,26 +363,6 @@
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/by-any-other-name/#performance-picker"
     },
     {
-      "title": "BARBECUE",
-      "theater_name": "Emerson Colonial Theatre",
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-17",
-      "show_url": "https://emersontheatres.org/event/barbecue/",
-      "description": "Emerson Stage Presents: The Henry Winkler Premier Production BARBECUE By Robert O'HaraDirected by Jonathan Kitt The O’ Mallerys have gathered in their local park to share some barbecue and straight...",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/08/EmStage-BARBECUE-700x510-1.jpg",
-      "ticket_url": ""
-    },
-    {
-      "title": "Taylor Mac and Matt Ray: Songs from Bark of Millions",
-      "theater_name": "Emerson Colonial Theatre",
-      "start_date": "2026-10-15",
-      "end_date": "2026-10-18",
-      "show_url": "https://artsemerson.org/events/taylor-mac-and-matt-ray-songs-from-bark-of-millions/#new_tab",
-      "description": "An electrifying collision of performance, live music, and drag spectacle celebrating queer history.",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/Barks-AE-Overlay.png",
-      "ticket_url": ""
-    },
-    {
       "title": "The Boston Asian American Film Festival",
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2026-10-15",
@@ -428,7 +398,7 @@
       "start_date": "2026-11-05",
       "end_date": "2026-11-08",
       "show_url": "https://emersontheatres.org/event/a-streetcar-named-desire/",
-      "description": "A Streetcar Named Desire Presented by Boston Lyric Opera “Real? Who wants real?… I want magic!” The sweltering heat of a New Orleans summer sets the tone for the simmering...",
+      "description": "A Streetcar Named Desire Presented by Boston Lyric Opera “Real? Who wants real?… I want magic!” The sweltering heat of a New Orleans summer sets the tone for the simmering tensions that crackle and...",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/07/700x510-1.jpg",
       "ticket_url": ""
     },
@@ -448,7 +418,7 @@
       "start_date": "2026-11-14",
       "end_date": "2026-11-14",
       "show_url": "https://emersontheatres.org/event/julia-wolfes-anthracite-fields/",
-      "description": "Julia Wolfe's Anthracite Fields Bang on a Can All-Stars & Chorus Pro Musica The Boston Premiere of Julia Wolfe’s Pulitzer Prize-winning oratorio Anthracite Fields is a powerful tribute to the...",
+      "description": "Julia Wolfe's Anthracite Fields Bang on a Can All-Stars & Chorus Pro Musica The Boston Premiere of Julia Wolfe’s Pulitzer Prize-winning oratorio Anthracite Fields is a powerful tribute to the coal...",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/07/anthricate-thumb-2.png",
       "ticket_url": ""
     },
@@ -568,7 +538,7 @@
       "start_date": "2027-03-12",
       "end_date": "2027-03-21",
       "show_url": "https://emersontheatres.org/event/the-marriage-of-figaro/",
-      "description": "The Marriage of Figaro (Le nozze di Figaro) Presented by Boston Lyric Opera One wedding. One day. Total chaos.Wit, mayhem, and hilarity abound in Mozart’s fan-favorite comedy that packs a...",
+      "description": "The Marriage of Figaro (Le nozze di Figaro) Presented by Boston Lyric Opera One wedding. One day. Total chaos.Wit, mayhem, and hilarity abound in Mozart’s fan-favorite comedy that packs a lot of...",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/07/700x510.jpg",
       "ticket_url": ""
     },
@@ -618,7 +588,7 @@
       "start_date": "2027-04-24",
       "end_date": "2027-04-25",
       "show_url": "https://emersontheatres.org/event/momix-botanica/",
-      "description": "Presented by Global Arts Live MOMIX Botanica MOMIX Botanica is a lush, surreal journey through nature’s ever-changing imagery, following the rhythms of the seasons and the passing of a day....",
+      "description": "Presented by Global Arts Live MOMIX Botanica MOMIX Botanica is a lush, surreal journey through nature’s ever-changing imagery, following the rhythms of the seasons and the passing of a day. Acting...",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/09/momix-assets-700x510-1.png",
       "ticket_url": ""
     },
@@ -880,7 +850,7 @@
       "show_url": "https://americanrepertorytheater.org/shows-events/1972-a-rock-opera/",
       "description": "After Hannah barely escapes an illegal abortion, she meets the Janes, an underground network of courageous women who risk everything to provide a choice to women with nowhere to turn.",
       "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/09/2627-1972-WEBCARD-B.jpg?resize=16%2C10&gravity",
-      "ticket_url": ""
+      "ticket_url": "https://americanrepertorytheater.org/shows-events/1972-a-rock-opera/#book"
     },
     {
       "title": "Life on Mars",
