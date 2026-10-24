@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T14:33:47.972432+00:00",
-  "total_shows": 110,
+  "generated_at": "2026-10-24T13:45:37.710295+00:00",
+  "total_shows": 112,
   "shows": [
     {
       "title": "Harper Lee's To Kill a Mockingbird",
@@ -143,29 +143,9 @@
       "ticket_url": ""
     },
     {
-      "title": "Urinetown, The Musical",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-23",
-      "end_date": "2026-10-25",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/urinetown-the-musical/",
-      "description": "Queer Artists & Players — BCA Plaza Theatre, 539 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/Urinetown-Poster-IG-900-x-900-px.png?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/urinetown-the-musical/#performance-picker"
-    },
-    {
-      "title": "Harper Lee's To Kill a Mockingbird",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-23",
-      "end_date": "2026-11-08",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
-      "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-TKAM-1.jpg?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/#performance-picker"
-    },
-    {
       "title": "Laura Benanti: Nobody Cares",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-23",
+      "start_date": "2026-10-24",
       "end_date": "2026-10-25",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/laura-benanti-nobody-cares/",
       "description": "Huntington Selects — The Calderwood Pavilion, 527 Tremont St.",
@@ -173,14 +153,34 @@
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/laura-benanti-nobody-cares/#performance-picker"
     },
     {
+      "title": "Urinetown, The Musical",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-25",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/urinetown-the-musical/",
+      "description": "Queer Artists & Players — BCA Plaza Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/Urinetown-Poster-IG-900-x-900-px.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/urinetown-the-musical/#performance-picker"
+    },
+    {
       "title": "Sound and Color",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-23",
+      "start_date": "2026-10-24",
       "end_date": "2026-10-25",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/sound-and-color/",
       "description": "Fourth Dimension Tap Company — The Roberts Studio Theatre, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/08/Fourth-Dimension-Square-Image-aspect-ratio-0-0.jpeg?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/sound-and-color/#performance-picker"
+    },
+    {
+      "title": "Harper Lee's To Kill a Mockingbird",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-10-24",
+      "end_date": "2026-11-08",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
+      "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-TKAM-1.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/#performance-picker"
     },
     {
       "title": "The Wash",
@@ -263,6 +263,16 @@
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/happy-birthday-wanda-june/#performance-picker"
     },
     {
+      "title": "The Extraordinary Nutcracker",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-06",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-extraordinary-nutcracker/",
+      "description": "United Dance Company — The Roberts Studio Theatre, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/10/UDC_NUT26_Square.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-extraordinary-nutcracker/#performance-picker"
+    },
+    {
       "title": "Girl Crime",
       "theater_name": "Boston Theatre Scene",
       "start_date": "2026-12-11",
@@ -291,6 +301,16 @@
       "description": "Kaaya Vritti — BCA Plaza Theatre, 539 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/image-for-BTS.png?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-river-echoes/#performance-picker"
+    },
+    {
+      "title": "Autocrat",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2027-01-07",
+      "end_date": "2027-01-30",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/autocrat/",
+      "description": "Cody Sullivan — BCA Black Box Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/10/Autocrat-Poster_900x900.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/autocrat/#performance-picker"
     },
     {
       "title": "Library Lion",
