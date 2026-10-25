@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T13:45:37.710295+00:00",
+  "generated_at": "2026-10-25T14:02:03.976978+00:00",
   "total_shows": 112,
   "shows": [
     {
@@ -20,7 +20,7 @@
       "show_url": "https://www.huntingtontheatre.org/whats-on/laura-benanti-nobody-cares/",
       "description": "",
       "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/Masthead-1995x1250-2-e1792693890238.jpg?fit=1000%2C800",
-      "ticket_url": "https://www.huntingtontheatre.org/whats-on/laura-benanti-nobody-cares/#performance-picker"
+      "ticket_url": "https://bostontheatrescene.huntingtontheatre.org/31483/31488"
     },
     {
       "title": "Misleading Lady with Jolene Cuisine",
@@ -145,37 +145,37 @@
     {
       "title": "Laura Benanti: Nobody Cares",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-24",
+      "start_date": "2026-10-25",
       "end_date": "2026-10-25",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/laura-benanti-nobody-cares/",
       "description": "Huntington Selects — The Calderwood Pavilion, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/04/Nobody-Cares-Square.jpg?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/laura-benanti-nobody-cares/#performance-picker"
+      "ticket_url": "https://secure.bostontheatrescene.com/31483/31488"
     },
     {
       "title": "Urinetown, The Musical",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-24",
+      "start_date": "2026-10-25",
       "end_date": "2026-10-25",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/urinetown-the-musical/",
       "description": "Queer Artists & Players — BCA Plaza Theatre, 539 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/Urinetown-Poster-IG-900-x-900-px.png?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/urinetown-the-musical/#performance-picker"
+      "ticket_url": "https://secure.bostontheatrescene.com/31767/31772"
     },
     {
       "title": "Sound and Color",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-24",
+      "start_date": "2026-10-25",
       "end_date": "2026-10-25",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/sound-and-color/",
       "description": "Fourth Dimension Tap Company — The Roberts Studio Theatre, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/08/Fourth-Dimension-Square-Image-aspect-ratio-0-0.jpeg?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/sound-and-color/#performance-picker"
+      "ticket_url": "https://secure.bostontheatrescene.com/31822/31826"
     },
     {
       "title": "Harper Lee's To Kill a Mockingbird",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-24",
+      "start_date": "2026-10-25",
       "end_date": "2026-11-08",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
       "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
