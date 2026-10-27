@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T16:23:41.534397+00:00",
-  "total_shows": 106,
+  "generated_at": "2026-10-27T15:38:14.811139+00:00",
+  "total_shows": 105,
   "shows": [
     {
       "title": "Harper Lee's To Kill a Mockingbird",
@@ -331,16 +331,6 @@
       "description": "The Roberts Studio Theatre, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/05/BAON1-CC.webp?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/by-any-other-name/#performance-picker"
-    },
-    {
-      "title": "The Boston Asian American Film Festival",
-      "theater_name": "Emerson Colonial Theatre",
-      "start_date": "2026-10-15",
-      "end_date": "2026-10-25",
-      "show_url": "https://artsemerson.org/events/boston-asian-american-film-festival-2026/#new_tab",
-      "description": "The Boston Asian American Film Festival (BAAFF) empowers Asian Americans through film by showcasing Asian American experiences and serving as a resource to filmmakers and the Greater Boston...",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/09/BAAFF-710.png",
-      "ticket_url": ""
     },
     {
       "title": "All the Devils Are Here",
@@ -808,7 +798,7 @@
       "start_date": "2026-10-27",
       "end_date": "2026-11-22",
       "show_url": "https://americanrepertorytheater.org/shows-events/1972-a-rock-opera/",
-      "description": "After Hannah barely escapes an illegal abortion, she meets the Janes, an underground network of courageous women who risk everything to provide a choice to women with nowhere to turn.",
+      "description": "Inspired by the true stories of hidden heroes, this world-premiere rock opera fuels the ongoing fight for personal freedom. Additional seats may become available—check back often!",
       "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/09/2627-1972-WEBCARD-B.jpg?resize=16%2C10&gravity",
       "ticket_url": ""
     },
