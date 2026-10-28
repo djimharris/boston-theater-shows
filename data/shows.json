@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T15:38:14.811139+00:00",
+  "generated_at": "2026-10-28T16:22:38.849685+00:00",
   "total_shows": 105,
   "shows": [
     {
@@ -125,7 +125,7 @@
     {
       "title": "Harper Lee's To Kill a Mockingbird",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-27",
+      "start_date": "2026-10-28",
       "end_date": "2026-11-08",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
       "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
@@ -800,7 +800,7 @@
       "show_url": "https://americanrepertorytheater.org/shows-events/1972-a-rock-opera/",
       "description": "Inspired by the true stories of hidden heroes, this world-premiere rock opera fuels the ongoing fight for personal freedom. Additional seats may become available—check back often!",
       "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/09/2627-1972-WEBCARD-B.jpg?resize=16%2C10&gravity",
-      "ticket_url": ""
+      "ticket_url": "https://americanrepertorytheater.org/shows-events/1972-a-rock-opera/#book"
     },
     {
       "title": "Life on Mars",
@@ -813,24 +813,24 @@
       "ticket_url": ""
     },
     {
-      "title": "IS THIS A ROOM",
+      "title": "KING PHILLIPS HEAD IS STILL ON THAT PIKE DOWN THE ROAD",
       "theater_name": "Apollinaire Theatre Company",
-      "start_date": "2026-02-20",
-      "end_date": "2026-03-22",
+      "start_date": "2027-02-12",
+      "end_date": "2027-03-14",
       "show_url": "https://www.apollinairetheatre.com/productions/season.php",
       "description": "",
       "image_url": "",
-      "ticket_url": "https://ci.ovationtix.com/34707/production/1253380"
+      "ticket_url": "https://ci.ovationtix.com/34707/production/1293464"
     },
     {
-      "title": "A View from the Bridge",
+      "title": "THE CHERRY ORCHARD",
       "theater_name": "Apollinaire Theatre Company",
-      "start_date": "2026-04-17",
-      "end_date": "2026-05-10",
+      "start_date": "2027-04-09",
+      "end_date": "2027-05-09",
       "show_url": "https://www.apollinairetheatre.com/productions/season.php",
       "description": "",
       "image_url": "",
-      "ticket_url": "https://ci.ovationtix.com/34707/production/1253381"
+      "ticket_url": "https://ci.ovationtix.com/34707/production/1293465"
     },
     {
       "title": "Leonardo! A Wonderful Show about a Terrible Monster",
