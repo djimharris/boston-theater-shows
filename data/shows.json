@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T16:22:38.849685+00:00",
+  "generated_at": "2026-10-29T16:31:42.847472+00:00",
   "total_shows": 105,
   "shows": [
     {
@@ -88,7 +88,7 @@
       "start_date": "2027-03-19",
       "end_date": "2027-04-11",
       "show_url": "https://www.lyricstage.com/production/king-james/",
-      "description": "Fans first. Friends forever.",
+      "description": "Friendship can be a full-court press.",
       "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
       "ticket_url": ""
     },
@@ -108,7 +108,7 @@
       "start_date": "2026-04-01",
       "end_date": "2026-04-01",
       "show_url": "https://www.lyricstage.com/production/king-james/",
-      "description": "Fans first. Friends forever.",
+      "description": "Friendship can be a full-court press.",
       "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
       "ticket_url": ""
     },
@@ -125,7 +125,7 @@
     {
       "title": "Harper Lee's To Kill a Mockingbird",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-10-28",
+      "start_date": "2026-10-29",
       "end_date": "2026-11-08",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
       "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
@@ -179,7 +179,7 @@
       "end_date": "2026-11-15",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/le-porteur-dhistoire/",
       "description": "The French Theater Project — The Wimberly Theatre, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/LPH-BTS-square-900x900-v1.0.jpg?resize=400%2C400&gravity",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/1.-Porteur-900x900-Box-Office-Image.png?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/le-porteur-dhistoire/#performance-picker"
     },
     {
