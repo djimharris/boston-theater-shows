@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T16:31:11.922265+00:00",
-  "total_shows": 106,
+  "generated_at": "2026-11-02T19:55:03.525263+00:00",
+  "total_shows": 105,
   "shows": [
     {
       "title": "Harper Lee's To Kill a Mockingbird",
@@ -123,24 +123,24 @@
       "ticket_url": ""
     },
     {
-      "title": "The Wash",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-22",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/",
-      "description": "Front Porch Arts Collective — The Wimberly Theatre, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Ticketing-Graphic.png?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/#performance-picker"
-    },
-    {
       "title": "Harper Lee's To Kill a Mockingbird",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-01",
+      "start_date": "2026-11-03",
       "end_date": "2026-11-08",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
       "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-TKAM-1.jpg?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/#performance-picker"
+    },
+    {
+      "title": "The Wash",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-22",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/",
+      "description": "Front Porch Arts Collective — The Wimberly Theatre, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Ticketing-Graphic.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/#performance-picker"
     },
     {
       "title": "You're A Good Man, Charlie Brown",
@@ -209,7 +209,7 @@
       "end_date": "2026-12-13",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/adia-and-clora/",
       "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-AC.jpg?resize=400%2C400&gravity",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/updated-a-c.jpg?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/adia-and-clora/#performance-picker"
     },
     {
@@ -343,16 +343,6 @@
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/by-any-other-name/#performance-picker"
     },
     {
-      "title": "All the Devils Are Here",
-      "theater_name": "Emerson Colonial Theatre",
-      "start_date": "2026-10-28",
-      "end_date": "2026-11-01",
-      "show_url": "https://artsemerson.org/events/all-the-devils-are-here/",
-      "description": "Patrick Page explores Shakespeare’s most memorable villains in this thrilling, hilarious, and biting solo tour-de-force.",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/devils-overlay.png",
-      "ticket_url": ""
-    },
-    {
       "title": "A Streetcar Named Desire",
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2026-11-05",
@@ -373,7 +363,7 @@
       "ticket_url": ""
     },
     {
-      "title": "Julia Wolfe’s Anthracite Fields",
+      "title": "Julia Wolfe's Anthracite Fields",
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2026-11-14",
       "end_date": "2026-11-14",
@@ -397,7 +387,7 @@
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2026-11-19",
       "end_date": "2026-11-22",
-      "show_url": "https://artsemerson.org/events/dream-feed/#new_tab",
+      "show_url": "https://artsemerson.org/events/dream-feed/",
       "description": "Step inside a shared dream sequence with Grammy Award-winning band The HawtPlates.",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/Dream-Feed-AE-Overlay.png",
       "ticket_url": ""
@@ -433,7 +423,7 @@
       "ticket_url": ""
     },
     {
-      "title": "Charles Dicken’s “A Christmas Carol”",
+      "title": "Charles Dicken's \"A Christmas Carol\"",
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2026-12-11",
       "end_date": "2026-12-20",
@@ -477,7 +467,7 @@
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2027-02-25",
       "end_date": "2027-02-27",
-      "show_url": "https://artsemerson.org/events/2021/#new_tab",
+      "show_url": "https://artsemerson.org/events/2021/",
       "description": "Under the glow of a flickering screen, a daughter reconstructs her deceased father, pixel by pixel.",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/2021-AE-overlay.png",
       "ticket_url": ""
@@ -487,7 +477,7 @@
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2027-03-10",
       "end_date": "2027-03-14",
-      "show_url": "https://artsemerson.org/events/wonders/#new_tab",
+      "show_url": "https://artsemerson.org/events/wonders/",
       "description": "Breathtaking illusions await in this New York Times Critic's Pick full of intrigue and imagination.",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/Wonders-AE-Overlay.png",
       "ticket_url": ""
@@ -527,7 +517,7 @@
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2027-04-01",
       "end_date": "2027-04-11",
-      "show_url": "https://artsemerson.org/events/kunene-and-the-king/#new_tab",
+      "show_url": "https://artsemerson.org/events/kunene-and-the-king/",
       "description": "In post-apartheid South Africa two men must confront themselves, the past, and their beliefs.",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/kunene-overlay.png",
       "ticket_url": ""
