@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T19:55:03.525263+00:00",
+  "generated_at": "2026-11-03T17:27:17.230884+00:00",
   "total_shows": 105,
   "shows": [
     {
@@ -363,7 +363,7 @@
       "ticket_url": ""
     },
     {
-      "title": "Julia Wolfe's Anthracite Fields",
+      "title": "Julia Wolfe’s Anthracite Fields",
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2026-11-14",
       "end_date": "2026-11-14",
@@ -387,7 +387,7 @@
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2026-11-19",
       "end_date": "2026-11-22",
-      "show_url": "https://artsemerson.org/events/dream-feed/",
+      "show_url": "https://artsemerson.org/events/dream-feed/#new_tab",
       "description": "Step inside a shared dream sequence with Grammy Award-winning band The HawtPlates.",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/Dream-Feed-AE-Overlay.png",
       "ticket_url": ""
@@ -423,7 +423,7 @@
       "ticket_url": ""
     },
     {
-      "title": "Charles Dicken's \"A Christmas Carol\"",
+      "title": "Charles Dicken’s “A Christmas Carol”",
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2026-12-11",
       "end_date": "2026-12-20",
@@ -467,7 +467,7 @@
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2027-02-25",
       "end_date": "2027-02-27",
-      "show_url": "https://artsemerson.org/events/2021/",
+      "show_url": "https://artsemerson.org/events/2021/#new_tab",
       "description": "Under the glow of a flickering screen, a daughter reconstructs her deceased father, pixel by pixel.",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/2021-AE-overlay.png",
       "ticket_url": ""
@@ -477,7 +477,7 @@
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2027-03-10",
       "end_date": "2027-03-14",
-      "show_url": "https://artsemerson.org/events/wonders/",
+      "show_url": "https://artsemerson.org/events/wonders/#new_tab",
       "description": "Breathtaking illusions await in this New York Times Critic's Pick full of intrigue and imagination.",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/Wonders-AE-Overlay.png",
       "ticket_url": ""
@@ -517,7 +517,7 @@
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2027-04-01",
       "end_date": "2027-04-11",
-      "show_url": "https://artsemerson.org/events/kunene-and-the-king/",
+      "show_url": "https://artsemerson.org/events/kunene-and-the-king/#new_tab",
       "description": "In post-apartheid South Africa two men must confront themselves, the past, and their beliefs.",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/kunene-overlay.png",
       "ticket_url": ""
@@ -796,11 +796,11 @@
       "title": "1972",
       "theater_name": "American Repertory Theater",
       "start_date": "2026-10-27",
-      "end_date": "2026-11-22",
+      "end_date": "2026-12-06",
       "show_url": "https://americanrepertorytheater.org/shows-events/1972-a-rock-opera/",
       "description": "Inspired by the true stories of hidden heroes, this world-premiere rock opera fuels the ongoing fight for personal freedom. Additional seats may become available—check back often!",
       "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/09/2627-1972-WEBCARD-B.jpg?resize=16%2C10&gravity",
-      "ticket_url": ""
+      "ticket_url": "https://americanrepertorytheater.org/shows-events/1972-a-rock-opera/#book"
     },
     {
       "title": "Life on Mars",
