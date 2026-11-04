@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T17:27:17.230884+00:00",
-  "total_shows": 105,
+  "generated_at": "2026-11-04T17:40:21.000513+00:00",
+  "total_shows": 108,
   "shows": [
     {
       "title": "Harper Lee's To Kill a Mockingbird",
@@ -13,16 +13,6 @@
       "ticket_url": "https://www.huntingtontheatre.org/whats-on/to-kill-a-mockingbird/#performance-picker"
     },
     {
-      "title": "Misleading Lady with Jolene Cuisine",
-      "theater_name": "Huntington Theatre",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "show_url": "https://www.huntingtontheatre.org/whats-on/misleading-lady/",
-      "description": "",
-      "image_url": "https://images.huntingtontheatre.org/uploads/2026/10/10.14.26-HT-Hosts-Jolene-x-MisLeading-Lady-Web.jpg?fit=1995%2C1596",
-      "ticket_url": "https://bostontheatrescene.huntingtontheatre.org/31950/31951"
-    },
-    {
       "title": "Adia & Clora Snatch Joy",
       "theater_name": "Huntington Theatre",
       "start_date": "2026-11-24",
@@ -31,16 +21,6 @@
       "description": "",
       "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/home-pageWeb-Showart-Adia-and-Clora.jpg?fit=1000%2C800",
       "ticket_url": "https://www.huntingtontheatre.org/whats-on/adia-clora-snatch-joy/#performance-picker"
-    },
-    {
-      "title": "North By Northwest",
-      "theater_name": "Huntington Theatre",
-      "start_date": "2027-01-21",
-      "end_date": "2027-02-07",
-      "show_url": "https://www.huntingtontheatre.org/whats-on/north-by-northwest/",
-      "description": "",
-      "image_url": "https://images.huntingtontheatre.org/uploads/2026/10/10.15.26-North-x-NW-Email-Web__masthead.jpg?fit=1995%2C1596",
-      "ticket_url": "https://www.huntingtontheatre.org/whats-on/north-by-northwest/#performance-picker"
     },
     {
       "title": "Meet the Cartozians",
@@ -53,6 +33,16 @@
       "ticket_url": "https://www.huntingtontheatre.org/whats-on/meet-the-cartozians/#performance-picker"
     },
     {
+      "title": "Teatro La Plaza's Hamlet",
+      "theater_name": "Huntington Theatre",
+      "start_date": "2027-03-04",
+      "end_date": "2027-03-07",
+      "show_url": "https://www.huntingtontheatre.org/whats-on/hamlet/",
+      "description": "",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/home-pageWeb-Showart-Hamlet.jpg?fit=1000%2C800",
+      "ticket_url": "https://www.huntingtontheatre.org/whats-on/hamlet/#performance-picker"
+    },
+    {
       "title": "Unorthodox",
       "theater_name": "Huntington Theatre",
       "start_date": "2027-05-06",
@@ -61,6 +51,36 @@
       "description": "",
       "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/unorthodox-homepage.jpg?fit=500%2C400",
       "ticket_url": "https://www.huntingtontheatre.org/whats-on/unorthodox/#performance-picker"
+    },
+    {
+      "title": "Misleading Lady with Jolene Cuisine",
+      "theater_name": "Huntington Theatre",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "show_url": "https://www.huntingtontheatre.org/whats-on/misleading-lady/",
+      "description": "",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/10/10.14.26-HT-Hosts-Jolene-x-MisLeading-Lady-Web.jpg?fit=1995%2C1596",
+      "ticket_url": "https://bostontheatrescene.huntingtontheatre.org/31950/31951"
+    },
+    {
+      "title": "Happy Hunger Games!",
+      "theater_name": "Huntington Theatre",
+      "start_date": "2026-12-09",
+      "end_date": "2026-12-09",
+      "show_url": "https://www.huntingtontheatre.org/whats-on/happy-hunger-games/",
+      "description": "",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/10/1080x1080.jpg?fit=1000%2C800",
+      "ticket_url": "https://bostontheatrescene.huntingtontheatre.org/31954/31955"
+    },
+    {
+      "title": "North By Northwest",
+      "theater_name": "Huntington Theatre",
+      "start_date": "2027-01-21",
+      "end_date": "2027-02-07",
+      "show_url": "https://www.huntingtontheatre.org/whats-on/north-by-northwest/",
+      "description": "",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/10/10.15.26-North-x-NW-Email-Web__masthead.jpg?fit=1995%2C1596",
+      "ticket_url": "https://www.huntingtontheatre.org/whats-on/north-by-northwest/#performance-picker"
     },
     {
       "title": "Peter Pan Goes Wrong",
@@ -125,7 +145,7 @@
     {
       "title": "Harper Lee's To Kill a Mockingbird",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-03",
+      "start_date": "2026-11-04",
       "end_date": "2026-11-08",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
       "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
@@ -311,6 +331,16 @@
       "description": "The Huntington — The Calderwood Pavilion, 527 Tremont St. The Wimberly Theatre, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/03/Updated-7.15.26-TheHuntington_26-27-Season-MTC.jpg?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/cartozians/#performance-picker"
+    },
+    {
+      "title": "Teatro La Plaza’s Hamlet",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2027-03-04",
+      "end_date": "2027-03-07",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/hamlet/",
+      "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/03/TheHuntington_26-27-Season-Hamlet.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/hamlet/#performance-picker"
     },
     {
       "title": "The Flood",
@@ -796,7 +826,7 @@
       "title": "1972",
       "theater_name": "American Repertory Theater",
       "start_date": "2026-10-27",
-      "end_date": "2026-12-06",
+      "end_date": "2026-11-22",
       "show_url": "https://americanrepertorytheater.org/shows-events/1972-a-rock-opera/",
       "description": "Inspired by the true stories of hidden heroes, this world-premiere rock opera fuels the ongoing fight for personal freedom. Additional seats may become available—check back often!",
       "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/09/2627-1972-WEBCARD-B.jpg?resize=16%2C10&gravity",
