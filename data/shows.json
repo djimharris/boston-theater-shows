@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T17:40:21.000513+00:00",
-  "total_shows": 108,
+  "generated_at": "2026-11-05T17:46:52.338433+00:00",
+  "total_shows": 109,
   "shows": [
     {
       "title": "Harper Lee's To Kill a Mockingbird",
@@ -143,26 +143,6 @@
       "ticket_url": ""
     },
     {
-      "title": "Harper Lee's To Kill a Mockingbird",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-04",
-      "end_date": "2026-11-08",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
-      "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-TKAM-1.jpg?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/#performance-picker"
-    },
-    {
-      "title": "The Wash",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-04",
-      "end_date": "2026-11-22",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/",
-      "description": "Front Porch Arts Collective — The Wimberly Theatre, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Ticketing-Graphic.png?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/#performance-picker"
-    },
-    {
       "title": "You're A Good Man, Charlie Brown",
       "theater_name": "Boston Theatre Scene",
       "start_date": "2026-11-05",
@@ -173,6 +153,16 @@
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/youre-a-good-man-charlie-brown/#performance-picker"
     },
     {
+      "title": "Harper Lee's To Kill a Mockingbird",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-08",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
+      "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-TKAM-1.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/#performance-picker"
+    },
+    {
       "title": "Peter and the Starcatcher",
       "theater_name": "Boston Theatre Scene",
       "start_date": "2026-11-06",
@@ -181,6 +171,16 @@
       "description": "Walnut Hill School for the Arts — The Wimberly Theatre, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/08/peter-and-the-starcatcherlogo.jpg?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/peter-and-the-starcatcher/#performance-picker"
+    },
+    {
+      "title": "The Wash",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-22",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/",
+      "description": "Front Porch Arts Collective — The Wimberly Theatre, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Ticketing-Graphic.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/#performance-picker"
     },
     {
       "title": "THE BEAUTY QUEEN OF LEENANE",
@@ -251,6 +251,16 @@
       "description": "United Dance Company — The Roberts Studio Theatre, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/10/UDC_NUT26_Square.jpg?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-extraordinary-nutcracker/#performance-picker"
+    },
+    {
+      "title": "Happy Hunger Games!",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-12-09",
+      "end_date": "2026-12-09",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/happy-hunger-games/",
+      "description": "The Huntington Hosts — The Maso Studio, 264 Huntington Ave.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/10/1080x1080.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://secure.bostontheatrescene.com/31954/31955"
     },
     {
       "title": "Girl Crime",
@@ -383,16 +393,6 @@
       "ticket_url": ""
     },
     {
-      "title": "CONTINUUM",
-      "theater_name": "Emerson Colonial Theatre",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "show_url": "https://emersontheatres.org/event/continuum/",
-      "description": "CONTINUUM Never Still. Always Becoming. ChoreographersAli CederholmChloe CrenshawJon Ole OlstadKen OssolaRobert StephenYury Yanowsky WorksCisneSyntheticaDust and WaterMoving...",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/09/Continuum-Homepage-Feature-700-pxl-x-510-pxl.jpg",
-      "ticket_url": ""
-    },
-    {
       "title": "Julia Wolfe’s Anthracite Fields",
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2026-11-14",
@@ -400,6 +400,16 @@
       "show_url": "https://emersontheatres.org/event/julia-wolfes-anthracite-fields/",
       "description": "Julia Wolfe's Anthracite Fields Bang on a Can All-Stars & Chorus Pro Musica The Boston Premiere of Julia Wolfe’s Pulitzer Prize-winning oratorio Anthracite Fields is a powerful tribute to the...",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/07/anthricate-thumb-2.png",
+      "ticket_url": ""
+    },
+    {
+      "title": "CONTINUUM",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "show_url": "https://emersontheatres.org/event/continuum/",
+      "description": "CONTINUUM Never Still. Always Becoming. ChoreographersAli CederholmChloe CrenshawJon Ole OlstadKen OssolaRobert StephenYury Yanowsky WorksCisneSyntheticaDust and WaterMoving...",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/09/Continuum-Homepage-Feature-700-pxl-x-510-pxl.jpg",
       "ticket_url": ""
     },
     {
@@ -826,9 +836,9 @@
       "title": "1972",
       "theater_name": "American Repertory Theater",
       "start_date": "2026-10-27",
-      "end_date": "2026-11-22",
+      "end_date": "2026-12-06",
       "show_url": "https://americanrepertorytheater.org/shows-events/1972-a-rock-opera/",
-      "description": "Inspired by the true stories of hidden heroes, this world-premiere rock opera fuels the ongoing fight for personal freedom. Additional seats may become available—check back often!",
+      "description": "Inspired by the true stories of hidden heroes, this world-premiere rock opera fuels the ongoing fight for personal freedom. Now extended by popular demand!",
       "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/09/2627-1972-WEBCARD-B.jpg?resize=16%2C10&gravity",
       "ticket_url": "https://americanrepertorytheater.org/shows-events/1972-a-rock-opera/#book"
     },
