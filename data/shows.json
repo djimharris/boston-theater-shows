@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T17:46:52.338433+00:00",
+  "generated_at": "2026-11-06T17:03:20.660842+00:00",
   "total_shows": 109,
   "shows": [
     {
@@ -145,22 +145,12 @@
     {
       "title": "You're A Good Man, Charlie Brown",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-05",
+      "start_date": "2026-11-06",
       "end_date": "2026-11-15",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/youre-a-good-man-charlie-brown/",
       "description": "The Hive Theatre Company — BCA Plaza Theatre, 539 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/20262027-SEASON-POSTERS-900-x-900-px.png?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/youre-a-good-man-charlie-brown/#performance-picker"
-    },
-    {
-      "title": "Harper Lee's To Kill a Mockingbird",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-05",
-      "end_date": "2026-11-08",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
-      "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-TKAM-1.jpg?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/#performance-picker"
     },
     {
       "title": "Peter and the Starcatcher",
@@ -181,6 +171,16 @@
       "description": "Front Porch Arts Collective — The Wimberly Theatre, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Ticketing-Graphic.png?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/#performance-picker"
+    },
+    {
+      "title": "Harper Lee's To Kill a Mockingbird",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-08",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
+      "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-TKAM-1.jpg?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/#performance-picker"
     },
     {
       "title": "THE BEAUTY QUEEN OF LEENANE",
