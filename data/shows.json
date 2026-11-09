@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-11-08T16:27:55.067305+00:00",
-  "total_shows": 109,
+  "generated_at": "2026-11-09T20:19:20.935805+00:00",
+  "total_shows": 107,
   "shows": [
-    {
-      "title": "Harper Lee's To Kill a Mockingbird",
-      "theater_name": "Huntington Theatre",
-      "start_date": "2026-10-08",
-      "end_date": "2026-11-08",
-      "show_url": "https://www.huntingtontheatre.org/whats-on/to-kill-a-mockingbird/",
-      "description": "",
-      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/Web-Showart-TKAM-2-scaled.jpg?fit=1995%2C1596",
-      "ticket_url": "https://www.huntingtontheatre.org/whats-on/to-kill-a-mockingbird/"
-    },
     {
       "title": "Adia & Clora Snatch Joy",
       "theater_name": "Huntington Theatre",
@@ -145,42 +135,12 @@
     {
       "title": "You're A Good Man, Charlie Brown",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-08",
+      "start_date": "2026-11-11",
       "end_date": "2026-11-15",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/youre-a-good-man-charlie-brown/",
       "description": "The Hive Theatre Company — BCA Plaza Theatre, 539 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/20262027-SEASON-POSTERS-900-x-900-px.png?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/youre-a-good-man-charlie-brown/#performance-picker"
-    },
-    {
-      "title": "Harper Lee's To Kill a Mockingbird",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-08",
-      "end_date": "2026-11-08",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/tkam/",
-      "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/TheHuntington_26-27-Season-TKAM-1.jpg?resize=400%2C400&gravity",
-      "ticket_url": ""
-    },
-    {
-      "title": "Peter and the Starcatcher",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-08",
-      "end_date": "2026-11-08",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/peter-and-the-starcatcher/",
-      "description": "Walnut Hill School for the Arts — The Wimberly Theatre, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/08/peter-and-the-starcatcherlogo.jpg?resize=400%2C400&gravity",
-      "ticket_url": "https://secure.bostontheatrescene.com/31832/31835"
-    },
-    {
-      "title": "The Wash",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-08",
-      "end_date": "2026-11-22",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/",
-      "description": "Front Porch Arts Collective — The Wimberly Theatre, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Ticketing-Graphic.png?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/#performance-picker"
     },
     {
       "title": "THE BEAUTY QUEEN OF LEENANE",
@@ -191,6 +151,16 @@
       "description": "Theater UnCorked — BCA Black Box Theatre, 539 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Leenane.png?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-beauty-queen-of-leenane/#performance-picker"
+    },
+    {
+      "title": "The Wash",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-11-12",
+      "end_date": "2026-11-22",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/",
+      "description": "Front Porch Arts Collective — The Wimberly Theatre, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Ticketing-Graphic.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/#performance-picker"
     },
     {
       "title": "Le Porteur d'Histoire",
@@ -313,6 +283,16 @@
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/librarylion/#performance-picker"
     },
     {
+      "title": "Antigone des supermarchés",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2027-01-15",
+      "end_date": "2027-01-17",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/antigone-des-supermarches/",
+      "description": "The French Theater Project — The Roberts Studio Theatre, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/10/Antigone-900x900-Box-Office-Image.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/antigone-des-supermarches/#performance-picker"
+    },
+    {
       "title": "North By Northwest",
       "theater_name": "Boston Theatre Scene",
       "start_date": "2027-01-21",
@@ -383,14 +363,14 @@
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/by-any-other-name/#performance-picker"
     },
     {
-      "title": "A Streetcar Named Desire",
-      "theater_name": "Emerson Colonial Theatre",
-      "start_date": "2026-11-05",
-      "end_date": "2026-11-08",
-      "show_url": "https://emersontheatres.org/event/a-streetcar-named-desire/",
-      "description": "A Streetcar Named Desire Presented by Boston Lyric Opera “Real? Who wants real?… I want magic!” The sweltering heat of a New Orleans summer sets the tone for the simmering...",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/07/700x510-1.jpg",
-      "ticket_url": ""
+      "title": "Maupassant, Octave et moi",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2027-05-07",
+      "end_date": "2027-05-09",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/maupassant-octave-et-moi/",
+      "description": "The French Theater Project — The Wimberly Theatre, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/10/Maupassant-900x900-Box-Office-Image.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/maupassant-octave-et-moi/#performance-picker"
     },
     {
       "title": "Julia Wolfe’s Anthracite Fields",
