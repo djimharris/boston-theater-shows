@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T17:23:58.475724+00:00",
-  "total_shows": 107,
+  "generated_at": "2026-11-11T17:36:15.830931+00:00",
+  "total_shows": 111,
   "shows": [
     {
       "title": "Adia & Clora Snatch Joy",
@@ -373,6 +373,16 @@
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/maupassant-octave-et-moi/#performance-picker"
     },
     {
+      "title": "America, 250 Years From Now: Imagining the Future of Performance and Identity",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2026-11-12",
+      "end_date": "2026-11-12",
+      "show_url": "https://artsemerson.org/events/the-point-america-250-years/#new_tab",
+      "description": "As the United States marks 250 years, what are we creating today that could shape the next 250?",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/11/point-1.png",
+      "ticket_url": ""
+    },
+    {
       "title": "Julia Wolfe’s Anthracite Fields",
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2026-11-14",
@@ -453,6 +463,16 @@
       "ticket_url": ""
     },
     {
+      "title": "Villains, Power, and the Human Condition",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2027-01-21",
+      "end_date": "2027-01-21",
+      "show_url": "https://artsemerson.org/events/the-point-villains-power-and-the-human-condition/#new_tab",
+      "description": "Why do villains captivate us?",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/11/point2.png",
+      "ticket_url": ""
+    },
+    {
       "title": "ALTRUISM & OTHER LIES",
       "theater_name": "Emerson Colonial Theatre",
       "start_date": "2027-01-27",
@@ -480,6 +500,16 @@
       "show_url": "https://emersontheatres.org/event/carrie-the-musical/",
       "description": "Emerson Stage Presents: CARRIE: THE MUSICAL Music by Michael Gore; Lyrics by Dean PitchfordBook by Lawrence D. CohenBased on the novel by Stephen KingDirected & Choreographed by Christopher...",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/09/EmStage-CARRIE-700x510-1.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "The Point: Who Owns the Story? Art, Authorship, and Cultural Power",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2027-02-18",
+      "end_date": "2027-02-18",
+      "show_url": "https://artsemerson.org/events/who-owns-the-story-art-authorship-and-cultural-power/#new_tab",
+      "description": "Who has the right to tell a story and what does it mean to call a story your own?",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/11/point3-AE-Overlay.png",
       "ticket_url": ""
     },
     {
@@ -530,6 +560,16 @@
       "show_url": "https://emersontheatres.org/event/angels-in-america-part-two-perestroika/",
       "description": "Emerson Stage Presents: ANGELS IN AMERICA, PART TWO: PERESTROIKA By Tony KushnerDirected by Rebecca Bradshaw Picks up the threads of our six New Yorkers whose relationships are in tatters and...",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/09/EmStage-ANGELS_IN_AMERICA-PART-2-700x510-1.jpg",
+      "ticket_url": ""
+    },
+    {
+      "title": "Spectacle vs. Substance: What Makes Great Theater Today?",
+      "theater_name": "Emerson Colonial Theatre",
+      "start_date": "2027-03-25",
+      "end_date": "2027-03-25",
+      "show_url": "https://artsemerson.org/events/the-point-spectacle-vs-substance-what-makes-great-theater-today/#new_tab",
+      "description": "Spectacle vs. Substance: What Makes Great Theater Today? What makes a performance truly unforgettable?",
+      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/11/Point-5.png",
       "ticket_url": ""
     },
     {
