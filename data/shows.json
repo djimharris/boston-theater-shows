@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T17:49:22.385108+00:00",
+  "generated_at": "2026-11-13T17:26:27.692066+00:00",
   "total_shows": 111,
   "shows": [
     {
@@ -9,7 +9,7 @@
       "end_date": "2026-12-13",
       "show_url": "https://www.huntingtontheatre.org/whats-on/adia-clora-snatch-joy/",
       "description": "",
-      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/home-pageWeb-Showart-Adia-and-Clora.jpg?fit=1000%2C800",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/Updated-AC_1995-x-1250-web.jpg?fit=1995%2C1596",
       "ticket_url": "https://www.huntingtontheatre.org/whats-on/adia-clora-snatch-joy/#performance-picker"
     },
     {
@@ -75,7 +75,7 @@
     {
       "title": "Peter Pan Goes Wrong",
       "theater_name": "Lyric Stage Company",
-      "start_date": "2026-11-13",
+      "start_date": "2026-11-14",
       "end_date": "2026-12-31",
       "show_url": "https://www.lyricstage.com/production/peter-pan-goes-wrong/",
       "description": "Magic and mayhem arrive this holiday season.",
@@ -135,32 +135,12 @@
     {
       "title": "THE BEAUTY QUEEN OF LEENANE",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-12",
+      "start_date": "2026-11-13",
       "end_date": "2026-11-22",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-beauty-queen-of-leenane/",
       "description": "Theater UnCorked — BCA Black Box Theatre, 539 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Leenane.png?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-beauty-queen-of-leenane/#performance-picker"
-    },
-    {
-      "title": "The Wash",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-12",
-      "end_date": "2026-11-22",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/",
-      "description": "Front Porch Arts Collective — The Wimberly Theatre, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Ticketing-Graphic.png?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/#performance-picker"
-    },
-    {
-      "title": "You're A Good Man, Charlie Brown",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-12",
-      "end_date": "2026-11-15",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/youre-a-good-man-charlie-brown/",
-      "description": "The Hive Theatre Company — BCA Plaza Theatre, 539 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/20262027-SEASON-POSTERS-900-x-900-px.png?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/youre-a-good-man-charlie-brown/#performance-picker"
     },
     {
       "title": "Le Porteur d'Histoire",
@@ -171,6 +151,26 @@
       "description": "The French Theater Project — The Wimberly Theatre, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/1.-Porteur-900x900-Box-Office-Image.png?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/le-porteur-dhistoire/#performance-picker"
+    },
+    {
+      "title": "The Wash",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-22",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/",
+      "description": "Front Porch Arts Collective — The Wimberly Theatre, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Ticketing-Graphic.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/#performance-picker"
+    },
+    {
+      "title": "You're A Good Man, Charlie Brown",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-15",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/youre-a-good-man-charlie-brown/",
+      "description": "The Hive Theatre Company — BCA Plaza Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/20262027-SEASON-POSTERS-900-x-900-px.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/youre-a-good-man-charlie-brown/#performance-picker"
     },
     {
       "title": "Nacho Redondo: Terapia de Grupo",
@@ -936,7 +936,7 @@
       "title": "A Raisin in the Sun",
       "theater_name": "Footlight Club",
       "start_date": "2027-02-06",
-      "end_date": "2027-02-14",
+      "end_date": "2027-02-20",
       "show_url": "https://www.footlight.org/blog/2027/raisin-in-the-sun",
       "description": "Synopsis: A Raisin in the Sun is a powerful and deeply moving drama by Lorraine Hansberry that follows the Younger family, an African American family living in Chicago, as they struggle to achieve...",
       "image_url": "https://images.squarespace-cdn.com/content/v1/57a79c146b8f5b05fd6a993c/1502057096974-SLXHTLQB65HO9GVLJ87X/86.jpg",
