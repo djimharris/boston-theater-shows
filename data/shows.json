@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T16:16:13.989053+00:00",
+  "generated_at": "2026-11-15T16:43:47.833618+00:00",
   "total_shows": 111,
   "shows": [
     {
@@ -133,19 +133,9 @@
       "ticket_url": ""
     },
     {
-      "title": "The Wash",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-22",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/",
-      "description": "Front Porch Arts Collective — The Wimberly Theatre, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Ticketing-Graphic.png?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/#performance-picker"
-    },
-    {
       "title": "You're A Good Man, Charlie Brown",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-14",
+      "start_date": "2026-11-15",
       "end_date": "2026-11-15",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/youre-a-good-man-charlie-brown/",
       "description": "The Hive Theatre Company — BCA Plaza Theatre, 539 Tremont St.",
@@ -153,24 +143,34 @@
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/youre-a-good-man-charlie-brown/#performance-picker"
     },
     {
+      "title": "Le Porteur d'Histoire",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/le-porteur-dhistoire/",
+      "description": "The French Theater Project — The Wimberly Theatre, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/1.-Porteur-900x900-Box-Office-Image.png?resize=400%2C400&gravity",
+      "ticket_url": "https://secure.bostontheatrescene.com/31903/31906"
+    },
+    {
+      "title": "The Wash",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-22",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/",
+      "description": "Front Porch Arts Collective — The Wimberly Theatre, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Ticketing-Graphic.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/#performance-picker"
+    },
+    {
       "title": "THE BEAUTY QUEEN OF LEENANE",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-14",
+      "start_date": "2026-11-15",
       "end_date": "2026-11-22",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-beauty-queen-of-leenane/",
       "description": "Theater UnCorked — BCA Black Box Theatre, 539 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Leenane.png?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-beauty-queen-of-leenane/#performance-picker"
-    },
-    {
-      "title": "Le Porteur d'Histoire",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/le-porteur-dhistoire/",
-      "description": "The French Theater Project — The Wimberly Theatre, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/1.-Porteur-900x900-Box-Office-Image.png?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/le-porteur-dhistoire/#performance-picker"
     },
     {
       "title": "Nacho Redondo: Terapia de Grupo",
