@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T16:43:47.833618+00:00",
-  "total_shows": 111,
+  "generated_at": "2026-11-16T19:56:57.957180+00:00",
+  "total_shows": 102,
   "shows": [
     {
       "title": "Adia & Clora Snatch Joy",
@@ -41,16 +41,6 @@
       "description": "",
       "image_url": "https://images.huntingtontheatre.org/uploads/2026/04/unorthodox-homepage.jpg?fit=500%2C400",
       "ticket_url": "https://www.huntingtontheatre.org/whats-on/unorthodox/#performance-picker"
-    },
-    {
-      "title": "Misleading Lady with Jolene Cuisine",
-      "theater_name": "Huntington Theatre",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "show_url": "https://www.huntingtontheatre.org/whats-on/misleading-lady/",
-      "description": "",
-      "image_url": "https://images.huntingtontheatre.org/uploads/2026/10/10.14.26-HT-Hosts-Jolene-x-MisLeading-Lady-Web.jpg?fit=1995%2C1596",
-      "ticket_url": "https://bostontheatrescene.huntingtontheatre.org/31950/31951"
     },
     {
       "title": "Happy Hunger Games!",
@@ -133,44 +123,24 @@
       "ticket_url": ""
     },
     {
-      "title": "You're A Good Man, Charlie Brown",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/youre-a-good-man-charlie-brown/",
-      "description": "The Hive Theatre Company — BCA Plaza Theatre, 539 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/07/20262027-SEASON-POSTERS-900-x-900-px.png?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/youre-a-good-man-charlie-brown/#performance-picker"
-    },
-    {
-      "title": "Le Porteur d'Histoire",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/le-porteur-dhistoire/",
-      "description": "The French Theater Project — The Wimberly Theatre, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/1.-Porteur-900x900-Box-Office-Image.png?resize=400%2C400&gravity",
-      "ticket_url": "https://secure.bostontheatrescene.com/31903/31906"
-    },
-    {
-      "title": "The Wash",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-22",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/",
-      "description": "Front Porch Arts Collective — The Wimberly Theatre, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Ticketing-Graphic.png?resize=400%2C400&gravity",
-      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/#performance-picker"
-    },
-    {
       "title": "THE BEAUTY QUEEN OF LEENANE",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-15",
+      "start_date": "2026-11-19",
       "end_date": "2026-11-22",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-beauty-queen-of-leenane/",
       "description": "Theater UnCorked — BCA Black Box Theatre, 539 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Leenane.png?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-beauty-queen-of-leenane/#performance-picker"
+    },
+    {
+      "title": "The Wash",
+      "theater_name": "Boston Theatre Scene",
+      "start_date": "2026-11-19",
+      "end_date": "2026-11-22",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/",
+      "description": "Front Porch Arts Collective — The Wimberly Theatre, 527 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Ticketing-Graphic.png?resize=400%2C400&gravity",
+      "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/#performance-picker"
     },
     {
       "title": "Nacho Redondo: Terapia de Grupo",
@@ -183,23 +153,13 @@
       "ticket_url": "https://secure.bostontheatrescene.com/31667/31668"
     },
     {
-      "title": "Misleading Lady with Jolene Cuisine",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/misleading-lady-with-jolene-cuisine/",
-      "description": "Huntington Hosts — The Maso Studio, 264 Huntington Ave.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/10/10.14.26-HT-Hosts-Jolene-x-MisLeading-Lady_IG2.jpg?resize=400%2C400&gravity",
-      "ticket_url": "https://secure.bostontheatrescene.com/31950/31951"
-    },
-    {
       "title": "Adia & Clora Snatch Joy",
       "theater_name": "Boston Theatre Scene",
       "start_date": "2026-11-24",
       "end_date": "2026-12-13",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/adia-and-clora/",
       "description": "The Huntington — The Huntington Theatre, 264 Huntington Ave.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/updated-a-c.jpg?resize=400%2C400&gravity",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/02/Updated-AC_1080-x-1080.jpg?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/adia-and-clora/#performance-picker"
     },
     {
@@ -620,56 +580,6 @@
       "show_url": "https://emersontheatres.org/event/kvadrat/",
       "description": "Cherry Orchard Festival Presents: KVADRAT Directed by: Marfa GorvitsStarring: Maxim Vitorgan, Semyon Steinberg, Ruslan Barabanov, Mikhail UmanetsSet Design: Sofia MatveevaMusic: Igor...",
       "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/10/v2-700x510-Boston-Kvadrat.png",
-      "ticket_url": ""
-    },
-    {
-      "title": "Silent Sky",
-      "theater_name": "Central Square Theater",
-      "start_date": "2025-09-11",
-      "end_date": "2025-10-05",
-      "show_url": "https://www.centralsquaretheater.org/shows/silent-sky/",
-      "description": "",
-      "image_url": "",
-      "ticket_url": ""
-    },
-    {
-      "title": "Summer, 1976",
-      "theater_name": "Central Square Theater",
-      "start_date": "2025-11-06",
-      "end_date": "2025-11-30",
-      "show_url": "https://www.centralsquaretheater.org/shows/summer-1976/",
-      "description": "",
-      "image_url": "",
-      "ticket_url": ""
-    },
-    {
-      "title": "The Moderate",
-      "theater_name": "Central Square Theater",
-      "start_date": "2026-02-05",
-      "end_date": "2026-03-01",
-      "show_url": "https://www.centralsquaretheater.org/shows/the-moderate/",
-      "description": "",
-      "image_url": "",
-      "ticket_url": ""
-    },
-    {
-      "title": "Breaking the Code",
-      "theater_name": "Central Square Theater",
-      "start_date": "2026-04-02",
-      "end_date": "2026-04-26",
-      "show_url": "https://www.centralsquaretheater.org/shows/breaking-the-code-2026/",
-      "description": "",
-      "image_url": "",
-      "ticket_url": ""
-    },
-    {
-      "title": "The Mystery of Irma Vep",
-      "theater_name": "Central Square Theater",
-      "start_date": "2026-05-28",
-      "end_date": "2026-06-21",
-      "show_url": "https://www.centralsquaretheater.org/shows/the-mystery-of-irma-vep-a-penny-dreadful/",
-      "description": "",
-      "image_url": "",
       "ticket_url": ""
     },
     {
