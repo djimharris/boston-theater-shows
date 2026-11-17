@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T19:56:57.957180+00:00",
-  "total_shows": 102,
+  "generated_at": "2026-11-17T18:53:05.917982+00:00",
+  "total_shows": 103,
   "shows": [
     {
       "title": "Adia & Clora Snatch Joy",
@@ -51,6 +51,16 @@
       "description": "",
       "image_url": "https://images.huntingtontheatre.org/uploads/2026/10/1080x1080.jpg?fit=1000%2C800",
       "ticket_url": "https://bostontheatrescene.huntingtontheatre.org/31954/31955"
+    },
+    {
+      "title": "Steve Way: Make Another Wish",
+      "theater_name": "Huntington Theatre",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-12",
+      "show_url": "https://www.huntingtontheatre.org/whats-on/steve-way-make-another-wish/",
+      "description": "",
+      "image_url": "https://images.huntingtontheatre.org/uploads/2026/11/SW-x-Make-Another-Wish-1080x1080-1-scaled.jpg?fit=1995%2C1596",
+      "ticket_url": "https://bostontheatrescene.huntingtontheatre.org/32011/32012"
     },
     {
       "title": "North By Northwest",
