@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T18:45:26.059824+00:00",
-  "total_shows": 101,
+  "generated_at": "2026-11-20T18:11:56.099995+00:00",
+  "total_shows": 100,
   "shows": [
     {
       "title": "Adia & Clora Snatch Joy",
@@ -75,7 +75,7 @@
     {
       "title": "Peter Pan Goes Wrong",
       "theater_name": "Lyric Stage Company",
-      "start_date": "2026-11-19",
+      "start_date": "2026-11-20",
       "end_date": "2026-12-31",
       "show_url": "https://www.lyricstage.com/production/peter-pan-goes-wrong/",
       "description": "Magic and mayhem arrive this holiday season.",
@@ -133,19 +133,9 @@
       "ticket_url": ""
     },
     {
-      "title": "THE BEAUTY QUEEN OF LEENANE",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-19",
-      "end_date": "2026-11-22",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-beauty-queen-of-leenane/",
-      "description": "Theater UnCorked — BCA Black Box Theatre, 539 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Leenane.png?resize=400%2C400&gravity",
-      "ticket_url": ""
-    },
-    {
       "title": "The Wash",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-19",
+      "start_date": "2026-11-20",
       "end_date": "2026-11-22",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/",
       "description": "Front Porch Arts Collective — The Wimberly Theatre, 527 Tremont St.",
@@ -153,13 +143,13 @@
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/#performance-picker"
     },
     {
-      "title": "Nacho Redondo: Terapia de Grupo",
+      "title": "THE BEAUTY QUEEN OF LEENANE",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-19",
-      "end_date": "2026-11-19",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/nacho-redondo-terapia-de-grupo/",
-      "description": "Adelante Management Group — The Wimberly Theatre, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/08/Nacho-Redondo-Terapia-en-Grupo.jpeg?resize=400%2C400&gravity",
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-22",
+      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-beauty-queen-of-leenane/",
+      "description": "Theater UnCorked — BCA Black Box Theatre, 539 Tremont St.",
+      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Leenane.png?resize=400%2C400&gravity",
       "ticket_url": ""
     },
     {
@@ -768,8 +758,8 @@
       "start_date": "2027-05-18",
       "end_date": "2027-07-03",
       "show_url": "https://americanrepertorytheater.org/shows-events/life-on-mars/",
-      "description": "A theatrical production directed by Diane Paulus and brought to life by the music of David Bowie. By special arrangement with the David Bowie Estate, Unigram, and Warner Music Group.",
-      "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/04/2627-VisualsBW-LifeOnMars.jpg?resize=16%2C10&gravity",
+      "description": "A space oddity with the music and lyrics of David Bowie and directed by Diane Paulus. By special arrangement with the David Bowie Estate, Unigram, and Warner Music Group.",
+      "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/04/2627-LifeonMars-Web-Card1.jpg?resize=16%2C10&gravity",
       "ticket_url": "https://americanrepertorytheater.org/shows-events/life-on-mars/#book"
     },
     {
