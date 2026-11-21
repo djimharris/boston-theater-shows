@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T18:11:56.099995+00:00",
+  "generated_at": "2026-11-21T17:01:27.359435+00:00",
   "total_shows": 100,
   "shows": [
     {
@@ -75,7 +75,7 @@
     {
       "title": "Peter Pan Goes Wrong",
       "theater_name": "Lyric Stage Company",
-      "start_date": "2026-11-20",
+      "start_date": "2026-11-21",
       "end_date": "2026-12-31",
       "show_url": "https://www.lyricstage.com/production/peter-pan-goes-wrong/",
       "description": "Magic and mayhem arrive this holiday season.",
@@ -135,7 +135,7 @@
     {
       "title": "The Wash",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-20",
+      "start_date": "2026-11-21",
       "end_date": "2026-11-22",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/",
       "description": "Front Porch Arts Collective — The Wimberly Theatre, 527 Tremont St.",
@@ -145,7 +145,7 @@
     {
       "title": "THE BEAUTY QUEEN OF LEENANE",
       "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-20",
+      "start_date": "2026-11-21",
       "end_date": "2026-11-22",
       "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-beauty-queen-of-leenane/",
       "description": "Theater UnCorked — BCA Black Box Theatre, 539 Tremont St.",
@@ -749,8 +749,8 @@
       "end_date": "2026-12-06",
       "show_url": "https://americanrepertorytheater.org/shows-events/1972-a-rock-opera/",
       "description": "Inspired by the true stories of hidden heroes, this world-premiere rock opera fuels the ongoing fight for personal freedom. Now extended by popular demand!",
-      "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/09/2627-1972-WEBCARD-B.jpg?resize=16%2C10&gravity",
-      "ticket_url": "https://americanrepertorytheater.org/shows-events/1972-a-rock-opera/#book"
+      "image_url": "https://assets.americanrepertorytheater.org/wp-content/uploads/2026/11/261025_1972-Dress-Production_Hawver-and-Hal_033-web.jpg?resize=16%2C10&gravity",
+      "ticket_url": ""
     },
     {
       "title": "Life on Mars",
