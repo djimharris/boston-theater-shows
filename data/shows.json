@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T17:31:22.164379+00:00",
-  "total_shows": 100,
+  "generated_at": "2026-11-23T21:50:49.285794+00:00",
+  "total_shows": 95,
   "shows": [
     {
       "title": "Adia & Clora Snatch Joy",
@@ -75,7 +75,7 @@
     {
       "title": "Peter Pan Goes Wrong",
       "theater_name": "Lyric Stage Company",
-      "start_date": "2026-11-22",
+      "start_date": "2026-11-24",
       "end_date": "2026-12-31",
       "show_url": "https://www.lyricstage.com/production/peter-pan-goes-wrong/",
       "description": "Magic and mayhem arrive this holiday season.",
@@ -130,26 +130,6 @@
       "show_url": "https://www.lyricstage.com/production/les-miserables/",
       "description": "Forever Revolutionary.",
       "image_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "ticket_url": ""
-    },
-    {
-      "title": "The Wash",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-22",
-      "end_date": "2026-11-22",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-wash/",
-      "description": "Front Porch Arts Collective — The Wimberly Theatre, 527 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Ticketing-Graphic.png?resize=400%2C400&gravity",
-      "ticket_url": ""
-    },
-    {
-      "title": "THE BEAUTY QUEEN OF LEENANE",
-      "theater_name": "Boston Theatre Scene",
-      "start_date": "2026-11-22",
-      "end_date": "2026-11-22",
-      "show_url": "https://www.bostontheatrescene.com/shows-and-events/the-beauty-queen-of-leenane/",
-      "description": "Theater UnCorked — BCA Black Box Theatre, 539 Tremont St.",
-      "image_url": "https://images.bostontheatrescene.com/uploads/2026/09/Leenane.png?resize=400%2C400&gravity",
       "ticket_url": ""
     },
     {
@@ -341,36 +321,6 @@
       "description": "The French Theater Project — The Wimberly Theatre, 527 Tremont St.",
       "image_url": "https://images.bostontheatrescene.com/uploads/2026/10/Maupassant-900x900-Box-Office-Image.png?resize=400%2C400&gravity",
       "ticket_url": "https://www.bostontheatrescene.com/shows-and-events/maupassant-octave-et-moi/#performance-picker"
-    },
-    {
-      "title": "CIRCLE MIRROR TRANSFORMATION",
-      "theater_name": "Emerson Colonial Theatre",
-      "start_date": "2026-11-18",
-      "end_date": "2026-11-21",
-      "show_url": "https://emersontheatres.org/event/circle-mirror-tranformation/",
-      "description": "Emerson Stage Presents: CIRCLE MIRROR TRANSFORMATION By Annie BakerDirected by Alex Lonati When four lost New Englanders who enroll in Marty’s six-week-long community-center drama class begin to...",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/09/EmStage-CIRCLE_MIRROR-700x510-1.jpg",
-      "ticket_url": ""
-    },
-    {
-      "title": "Dream Feed",
-      "theater_name": "Emerson Colonial Theatre",
-      "start_date": "2026-11-19",
-      "end_date": "2026-11-22",
-      "show_url": "https://artsemerson.org/events/dream-feed/#new_tab",
-      "description": "Step inside a shared dream sequence with Grammy Award-winning band The HawtPlates.",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/05/Dream-Feed-AE-Overlay.png",
-      "ticket_url": ""
-    },
-    {
-      "title": "Ballet BC",
-      "theater_name": "Emerson Colonial Theatre",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-22",
-      "show_url": "https://emersontheatres.org/event/ballet-bc/",
-      "description": "Presented by Vivo Performing Arts Ballet BC Vancouver's Ballet BC arrives with a program that moves through tenderness, ecstasy, and raw human longing. Under artistic director Medhi Walerski, a...",
-      "image_url": "https://emersontheatres.org/wp-content/uploads/sites/2/2026/07/Ballet-BC-MAJ-350x255-1.png",
-      "ticket_url": ""
     },
     {
       "title": "THREE SISTERS",
