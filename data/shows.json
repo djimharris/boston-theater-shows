@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T21:50:49.285794+00:00",
+  "generated_at": "2026-11-24T20:26:46.706831+00:00",
   "total_shows": 95,
   "shows": [
     {
@@ -640,7 +640,7 @@
       "show_url": "http://bostonplaywrights.org/ct/jessica",
       "description": "November 5 – 22, 2026 on the Snodgrass Stage (949 Comm Ave.)",
       "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/e37394ef-fd1b-4706-9eea-3b3e546516d2/Rep-Poster-Phoenix-Final.jpg",
-      "ticket_url": "https://ci.ovationtix.com/168/store/packages/154349"
+      "ticket_url": "https://ci.ovationtix.com/168/store/packages/154352"
     },
     {
       "title": "white phoenix",
@@ -650,7 +650,7 @@
       "show_url": "http://bostonplaywrights.org/ct/phoenix",
       "description": "November 5 – 22, 2026 on the Snodgrass Stage (949 Comm Ave.)",
       "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/e37394ef-fd1b-4706-9eea-3b3e546516d2/Rep-Poster-Phoenix-Final.jpg",
-      "ticket_url": "https://ci.ovationtix.com/168/store/packages/154349"
+      "ticket_url": ""
     },
     {
       "title": "jessica of venice",
@@ -660,7 +660,7 @@
       "show_url": "http://bostonplaywrights.org/ct/jessica",
       "description": "November 12 – 22, 2026 on the Snodgrass Stage (949 Comm Ave.)",
       "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/1533a5ad-8184-4701-89ea-966c6a44f906/Rep-Poster-Jessica-Final.jpg",
-      "ticket_url": "https://ci.ovationtix.com/168/store/packages/154349"
+      "ticket_url": ""
     },
     {
       "title": "roswell",
@@ -670,7 +670,7 @@
       "show_url": "https://www.bostonplaywrights.org",
       "description": "February 18 – March 7, 2027 on the Snodgrass Stage (949 Comm Ave.)",
       "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/b2c97af8-b525-4976-8e74-74352c31b90f/Rep-Poster-Roswell.jpg",
-      "ticket_url": ""
+      "ticket_url": "https://ci.ovationtix.com/168/store/packages/154352"
     },
     {
       "title": "parallel play",
@@ -680,7 +680,7 @@
       "show_url": "https://www.bostonplaywrights.org",
       "description": "February 25 – March 7, 2027 on the Snodgrass Stage (949 Comm Ave.)",
       "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/3af0b451-b9da-4f2f-aaa8-9d9f31e7cbfe/Rep-Poster-Parallel.jpg",
-      "ticket_url": ""
+      "ticket_url": "https://ci.ovationtix.com/168/store/packages/154352"
     },
     {
       "title": "BOSTON THEATER MARATHON XXIX",
@@ -688,7 +688,7 @@
       "start_date": "2027-06-06",
       "end_date": "2027-06-06",
       "show_url": "https://www.bostonplaywrights.org",
-      "description": "Sunday, June 6, 2027 from 11:00am to 10:00pmat the Joan and Edgar Booth Theatre, 820 Commonwealth Avenue, Boston",
+      "description": "The 29th annual Boston Theater Marathon (BTM) returns at a new time in a new, bigger venue!",
       "image_url": "https://images.squarespace-cdn.com/content/v1/6661f6c2ef73ab43f598769b/76d0ca48-65fa-405e-b46b-7776a3a76398/BTM_target.png",
       "ticket_url": ""
     },
